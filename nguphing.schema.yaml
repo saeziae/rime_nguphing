@@ -1,0 +1,189 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: nguphing
+  name: 吴語拼音
+  version: "2020.4.19"
+  author:
+    - 山前 <saeziae@outlook.com>
+  description: |
+    * 吴語 Beta2
+    * R/X/Q 代表平上去
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [吴語, 洋文]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: ascii_punct
+    states: [句讀, 符號]
+  - name: simplification
+    states: [漢字, 汉字]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "xrzywvutsqponmlkjihgfedcba"
+  delimiter: " -"
+  algebra:
+    # xform/  - 改寫（替換，弗共存）
+    # derive  - 衍生（共存，單向模糊音）
+    # abbrev  - 簡拼（出字優先級傍前兩組低）
+    # fuzz    - 略拼（衹用在組詞，弗出單字）
+    # xlit    - 變換（適合大量个一對一變換）
+    # erase   - 刪除
+    - erase/^xx$/
+    - erase/^0$/
+    - "xform/'//"
+    - derive/ui/iu/
+    - xform/1/r/
+    - xform/2/x/
+    - xform/3/q/
+    - xform/4//
+    - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
+    - derive/ing([qxr])$/in$1/
+    - derive/in([qxr])$/ing$1/
+    - derive/eng([qxr])$/en$1/
+    - derive/en([qxr])$/eng$1/
+    - derive/([iy])ae([qxr])$/$1e/
+    - derive/ie([qxr])$/iae/
+    - derive/ek$/eh/
+    - derive/eh$/ek/
+    - derive/ik$/ih/
+    - derive/ih$/ik/
+    - derive/ok$/uk/
+    - derive/uk$/ok/
+    - derive/([qxr])$//
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([ptkgszc]h).+$/$1/
+    - abbrev/^(ts).+$/$1/
+    - abbrev/^(tz).+$/$1/
+    - abbrev/^(dz).+$/$1/
+    - abbrev/^(ng).+$/$1/
+
+translator:
+  dictionary: nguphing
+  spelling_hints: 5
+  preedit_format:
+    - xform/([aeiou])ng([xrq])/$1$2ng/
+    - xform/([eiu])n([xrq])/$1$2n/
+    - xform/([ao])e([xrq])/$1$2e/
+    - xform/([ae])i([xrq])/$1$2i/
+    - xform/([aeo])u([xrq])/$1$2u/
+    - xform/ax/ã/
+    - xform/aq/á/
+    - xform/ar/ā/
+    - xform/ex/ẽ/
+    - xform/eq/é/
+    - xform/er/ē/
+    - xform/ox/õ/
+    - xform/oq/ó/
+    - xform/or/ō/
+    - xform/ix/ĩ/
+    - xform/iq/í/
+    - xform/ir/ī/
+    - xform/ux/ũ/
+    - xform/uq/ú/
+    - xform/ur/ū/
+    - xform/yx/ỹ/
+    - xform/yq/ý/
+    - xform/yr/ȳ/
+    - xform/ngx/ñg/
+    - xform/ngq/ńg/
+    - xform/ngr/n̄g/
+    - xform/mx/m̃/
+    - xform/mq/ḿ/
+    - xform/mr/m̀/
+
+  comment_format:
+    - xform/4//
+    - xform/([aeiou])ng([123])/$1$2ng/
+    - xform/([eiu])n([123])/$1$2n/
+    - xform/([ao])e([123])/$1$2e/
+    - xform/([ae])i([123])/$1$2i/
+    - xform/([aeo])u([123])/$1$2u/
+    - xform/a2/ã/
+    - xform/a3/á/
+    - xform/a1/ā/
+    - xform/e2/ẽ/
+    - xform/e3/é/
+    - xform/e1/ē/
+    - xform/o2/õ/
+    - xform/o3/ó/
+    - xform/o1/ō/
+    - xform/i2/ĩ/
+    - xform/i3/í/
+    - xform/i1/ī/
+    - xform/u2/ũ/
+    - xform/u3/ú/
+    - xform/u1/ū/
+    - xform/y2/ỹ/
+    - xform/y3/ý/
+    - xform/y1/ȳ/
+    - xform/ng2/ñg/
+    - xform/ng3/ńg/
+    - xform/ng1/n̄g/
+    - xform/m2/m̃/
+    - xform/m3/ḿ/
+    - xform/m1/m̀/
+
+punctuator:
+  import_preset: symbols # 句讀處理器
+  full_shape:
+    ",": 、
+    '\':  ，
+  half_shape:
+    ",": 、
+    '\': ，
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+    punct: "^/([0-9]0?|[A-Za-z]+)$"

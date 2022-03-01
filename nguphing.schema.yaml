@@ -101,10 +101,10 @@ translator:
     - xform/ex/è/
     - xform/eq/é/
     - xform/er/ē/
-    - xform/ox/è/
+    - xform/ox/ò/
     - xform/oq/ó/
     - xform/or/ō/
-    - xform/ix/è/
+    - xform/ix/ì/
     - xform/iq/í/
     - xform/ir/ī/
     - xform/ux/è/
@@ -130,7 +130,7 @@ translator:
     - xform/a2/à/
     - xform/a3/á/
     - xform/a1/ā/
-    - xform/e2/à/
+    - xform/e2/è/
     - xform/e3/é/
     - xform/e1/ē/
     - xform/o2/ò/

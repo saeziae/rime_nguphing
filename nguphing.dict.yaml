@@ -6,6 +6,8 @@ name: nguphing
 version: "2020.4.19"
 sort: by_weight
 use_preset_vocabulary: true
+import_tables:
+  - nguphing.word
 ...
 
 

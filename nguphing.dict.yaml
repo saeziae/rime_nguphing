@@ -1,16 +1,13 @@
 # Rime dictionary
 # encoding: utf-8
-
 ---
 name: nguphing
-version: "2020.4.19"
+version: "20220301"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - nguphing.word
 ...
-
-
 个	keh4	4828294
 我	ngou2	1192789
 是	zy2	1180957
@@ -39,8 +36,6 @@ import_tables:
 他	tha1	343908
 佢	gei1	343908
 佢	gi1	343908
-姖	gei1	343908
-姖	gi1	343908
 于	leh4	343908
 說	yoh4	338803
 說	shioh4	338803
@@ -71,6 +66,8 @@ import_tables:
 爲	wei1	210479
 她	thou1	204022
 她	tha1	204022
+姖	gei1	204022
+姖	gi1	204022
 與	yi2	202250
 與	yu2	202250
 給	kih4	191937
@@ -137,6 +134,7 @@ import_tables:
 及	gih4	77186
 得	tek4	75568
 跟	ken1	74632
+垃	leh4	73708
 于	leh4	73708
 于	yu1	73708
 於	ei1	73708
@@ -346,6 +344,10 @@ import_tables:
 美	mi2	17650
 未	mi3	17562
 未	vi3	17562
+朆	feng1	17562
+𣍐	fei1	17562
+甮	fiung1	17562
+甮	fung1	17562
 辦	bae3	17518
 非	fi1	17475
 哎	ngai3	17453
@@ -4733,7 +4735,6 @@ import_tables:
 餒	nei2	47
 瀘	lu1	47
 杈	tso1	46
-垃	leh4	46
 懺	tsae3	46
 嫦	zhiang1	46
 疙	ngih4	46
@@ -5725,8 +5726,8 @@ import_tables:
 嗄	so3	0
 搚	leh4	0
 抈	ngioh4	0
-顚	tiae1	0
-顚	tin1	0
+顛	tiae1	0
+顛	tin1	0
 鞔	moe1	0
 薧	khau3	0
 餩	ek4	0
@@ -5745,8 +5746,4 @@ import_tables:
 句	kiu3	0
 雫	no3	
 沢	tsak4	
-朆	feng1	
-𣍐	fei1	
-甮	fiung1	
-甮	fung1	
-芷	cy2
+芷	cy2	

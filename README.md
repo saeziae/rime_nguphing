@@ -22,8 +22,10 @@ Romanization system
 |      | ui   | iu   |
 | a    | ia   | ua   |
 | ai   |      | uai  |
-| ei   |      | uai  |
+| ei   |      | uei  |
 | o    | io   |      |
+| ou   |      |      |
+| eu   | ieu  |      |
 | ae   | iae  | uae  |
 | aeh  | iaeh | uaeh |
 | oe   | ioe  | uoe  |

@@ -1,0 +1,26 @@
+name: 糾正錯誤
+description: 糾正錯誤的標音
+labels: ["fix"]
+body:
+  - type: input
+    id: char
+    attributes:
+      label: 字詞
+    validations:
+      required: true
+  - type: input
+    id: phing-in-err
+    attributes:
+      label: 原發音
+    validations:
+      required: true
+  - type: input
+    id: phing-in
+    attributes:
+      label: 正確發音
+    validations:
+      required: true
+  - type: textarea
+    id: caveats
+    attributes:
+      label: 其他說明

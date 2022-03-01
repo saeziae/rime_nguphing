@@ -18,7 +18,7 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
     - name: makedict
-      run: .github/makedict.py
+      run: makedict.py
     - name: Commit files
       run: |
         git config --local user.email "i@estela.cn"

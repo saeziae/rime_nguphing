@@ -4,6 +4,7 @@
 
 A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.im/) engine.
 
+測試反饋群：[![QQ群833433703](https://img.shields.io/static/v1?color=blue&label=QQ群&logo=Tencent+QQ&message=833433703&style=flat-square)](https://jq.qq.com/?_wv=1027&k=TP5MKGCC)
 ## 拼音體系
 
 Romanization system

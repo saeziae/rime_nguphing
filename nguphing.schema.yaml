@@ -6,7 +6,7 @@ schema:
   name: 吴語拼音
   version: "2020.4.19"
   author:
-    - 山前 <saeziae@outlook.com>
+    - 山前 <i@estela.cn>
   description: |
     * 吴語 Beta2
     * R/X/Q 代表平上去

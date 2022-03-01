@@ -18,3 +18,4 @@ import_tables:
 """.format(time.strftime("%Y%m%d",time.localtime())))
     for line in lines:
         f.write("\t".join(line[0:3])+"\n")
+print("OK")

@@ -95,30 +95,30 @@ translator:
     - xform/([ao])e([xrq])/$1$2e/
     - xform/([ae])i([xrq])/$1$2i/
     - xform/([aeo])u([xrq])/$1$2u/
-    - xform/ax/ã/
+    - xform/ax/à/
     - xform/aq/á/
     - xform/ar/ā/
-    - xform/ex/ẽ/
+    - xform/ex/è/
     - xform/eq/é/
     - xform/er/ē/
-    - xform/ox/õ/
+    - xform/ox/è/
     - xform/oq/ó/
     - xform/or/ō/
-    - xform/ix/ĩ/
+    - xform/ix/è/
     - xform/iq/í/
     - xform/ir/ī/
-    - xform/ux/ũ/
+    - xform/ux/è/
     - xform/uq/ú/
     - xform/ur/ū/
-    - xform/yx/ỹ/
+    - xform/yx/ỳ/
     - xform/yq/ý/
     - xform/yr/ȳ/
-    - xform/ngx/ñg/
+    - xform/ngx/ǹg/
     - xform/ngq/ńg/
     - xform/ngr/n̄g/
-    - xform/mx/m̃/
+    - xform/mx/m̀/
     - xform/mq/ḿ/
-    - xform/mr/m̀/
+    - xform/mr/m̄/
 
   comment_format:
     - xform/4//
@@ -127,30 +127,30 @@ translator:
     - xform/([ao])e([123])/$1$2e/
     - xform/([ae])i([123])/$1$2i/
     - xform/([aeo])u([123])/$1$2u/
-    - xform/a2/ã/
+    - xform/a2/à/
     - xform/a3/á/
     - xform/a1/ā/
-    - xform/e2/ẽ/
+    - xform/e2/à/
     - xform/e3/é/
     - xform/e1/ē/
-    - xform/o2/õ/
+    - xform/o2/ò/
     - xform/o3/ó/
     - xform/o1/ō/
-    - xform/i2/ĩ/
+    - xform/i2/ì/
     - xform/i3/í/
     - xform/i1/ī/
-    - xform/u2/ũ/
+    - xform/u2/ù/
     - xform/u3/ú/
     - xform/u1/ū/
-    - xform/y2/ỹ/
+    - xform/y2/ỳ/
     - xform/y3/ý/
     - xform/y1/ȳ/
-    - xform/ng2/ñg/
+    - xform/ng2/ǹg/
     - xform/ng3/ńg/
     - xform/ng1/n̄g/
-    - xform/m2/m̃/
+    - xform/m2/m̀/
     - xform/m3/ḿ/
-    - xform/m1/m̀/
+    - xform/m1/m̄/
 
 punctuator:
   import_preset: symbols # 句讀處理器

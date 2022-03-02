@@ -4,12 +4,14 @@
 schema:
   schema_id: nguphing
   name: 吴語拼音
-  version: "2020.4.19"
+  version: "20220302"
   author:
     - 山前 <i@estela.cn>
   description: |
-    * 吴語 Beta2
+    * 標準吴語
     * R/X/Q 代表平上去
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -70,8 +72,8 @@ speller:
     - derive/in([qxr])$/ing$1/
     - derive/eng([qxr])$/en$1/
     - derive/en([qxr])$/eng$1/
-    - derive/([iy])ae([qxr])$/$1e/
-    - derive/ie([qxr])$/iae/
+    - derive/([iy])ae([qxr])$/$1e$2/
+    - derive/ie([qxr])$/iae$1/
     - derive/ek$/eh/
     - derive/eh$/ek/
     - derive/ik$/ih/
@@ -81,10 +83,7 @@ speller:
     - derive/([qxr])$//
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/
-    - abbrev/^(ts).+$/$1/
-    - abbrev/^(tz).+$/$1/
-    - abbrev/^(dz).+$/$1/
-    - abbrev/^(ng).+$/$1/
+    - abbrev/^(ts|tz|dz|ng).+$/$1/
 
 translator:
   dictionary: nguphing
@@ -156,7 +155,7 @@ punctuator:
   import_preset: symbols # 句讀處理器
   full_shape:
     ",": 、
-    '\':  ，
+    '\': ，
   half_shape:
     ",": 、
     '\': ，

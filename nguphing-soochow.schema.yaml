@@ -1,14 +1,14 @@
 # Rime schema
 # encoding: utf-8
-zang yeu thie dong gho yeu sou ghong
+siae yak niang le he sou tzeu thiah thiah
 schema:
-  schema_id: nguphing-shanghai
-  name: 吴語拼音·上海
+  schema_id: nguphing-soochow
+  name: 吴語拼音·蘇州
   version: "20220302"
   author:
     - 山前 <i@estela.cn>
   description: |
-    吳語拼音、轉換成上海音系
+    吳語拼音、轉換成蘇州音系
   dependencies:
     - luna_pinyin
 
@@ -61,12 +61,14 @@ speller:
     - erase/^0$/
     - "xform/'//"
     - xform/[1234]$//
-    - xform/ou$/u/ #果
+    - xform/wu$/ghou/ #湖
+    - xform/([^aeioy])u$/$1ou/ #古
+    - xform/(ph?|b|m|f|v)ou/$1u/ #布
+    - xform/(th?|n|l|s|z)ieu/$1eu/ #留
     - xform/ui$/iu/
     - xform/ae$/e/ #麪、慢
     - xform/[ae]i/e/ #愛、梅
-    - xform/ye$/yi/ #煙
-    - xform/ah/ak/ #襪、八
+    - derive/au/ae/
     - xform/([ie])ng/$1n/
     - xform/([ie])k/$1h/
     - xform/(!i)e$/$1oe/ #暗、感
@@ -74,11 +76,12 @@ speller:
     - xform/([iy])oh/$1uh/ #月
     - xform/oh/eh/ #潑
     - xform/(kh?|g|ngh?)o$/$1a/ #家
-    - xform/ong/ang/ #an aon 弗分
+    #- xform/ong/ang/ #an aon 弗分
     #處理章組
     - xform/(ch?|j|sh|zh)ie$/$1oe/ #扇
     - xform/(ch?|j|sh|zh)i([^aeiou]+)/$1ie$2/
     - xform/(ch?|j|sh|zh)iu?$/$1y/
+    - xform/(ch?|j|sh|zh)y$/$1yu/
     - xform/(ch?|j|sh|zh)i/$1/
     - xform/u(n|h)$/e$1/
     - xform/([sz])h/$1/
@@ -86,13 +89,9 @@ speller:
     - xform/j/z/
     - xform/c/tz/
     - xform/dz/z/
-    - xform/ie$/i/ #煙
-    ###尖團不分
-    - xform/(tz|k)i/ci/
-    - xform/(ts|kh)i/qi/
+    - derive/khi/qi/
     - derive/gi/ji/
-    - xform/^(s|h)i/xi/
-    - derive/zi/ri/
+    - derive/^hi/xi/
     - derive/(ng)(h?)i/n$2i/
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkg]h).+$/$1/
@@ -100,7 +99,7 @@ speller:
 
 translator:
   dictionary: nguphing
-  prism: nguphing-shanghai
+  prism: nguphing-soochow
   spelling_hints: 0
 
 punctuator:

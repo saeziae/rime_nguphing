@@ -66,6 +66,7 @@ speller:
     - xform/(ph?|b|m|f|v)ou/$1u/ #布
     - xform/(th?|n|l|s|z)ieu/$1eu/ #留
     - xform/ui$/iu/
+    - xform/wi$/yu/
     - xform/ae$/e/ #麪、慢
     - xform/[ae]i/e/ #愛、梅
     - derive/au/ae/

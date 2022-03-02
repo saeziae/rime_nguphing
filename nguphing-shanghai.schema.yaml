@@ -63,6 +63,7 @@ speller:
     - xform/[1234]$//
     - xform/ou$/u/ #果
     - xform/ui$/iu/
+    - xform/wi$/yu/
     - xform/ae$/e/ #麪、慢
     - xform/[ae]i/e/ #愛、梅
     - xform/ye$/yi/ #煙

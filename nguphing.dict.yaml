@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing
-version: "20220302"
+version: "20220303"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -5769,3 +5769,4 @@ import_tables:
 疻		
 淴	huk4	
 𬁭	ang1	
+戇	gong3	

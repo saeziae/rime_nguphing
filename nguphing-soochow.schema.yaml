@@ -74,8 +74,6 @@ speller:
     - xform/([ie])k/$1h/
     - xform/(!i)e$/$1oe/ #暗、感
     - xform/ok/uk/ #握
-    - xform/([iy])oh/$1uh/ #月
-    - xform/oh/eh/ #潑
     - xform/(kh?|g|ngh?)o$/$1a/ #家
     #- xform/ong/ang/ #an aon 弗分
     #處理章組
@@ -90,6 +88,8 @@ speller:
     - xform/j/z/
     - xform/c/tz/
     - xform/dz/z/
+    - xform/([iy])oh/$1uh/ #月
+    - xform/oh/eh/ #潑
     - derive/khi/qi/
     - derive/gi/ji/
     - derive/^hi/xi/

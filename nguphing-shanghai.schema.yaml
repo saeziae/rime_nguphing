@@ -72,8 +72,6 @@ speller:
     - xform/([ie])k/$1h/
     - xform/(!i)e$/$1oe/ #暗、感
     - xform/ok/uk/ #握
-    - xform/([iy])oh/$1uh/ #月
-    - xform/oh/eh/ #潑
     - xform/(kh?|g|ngh?)o$/$1a/ #家
     - xform/ong/ang/ #an aon 弗分
     #處理章組
@@ -88,6 +86,8 @@ speller:
     - xform/c/tz/
     - xform/dz/z/
     - xform/ie$/i/ #煙
+    - xform/([iy])oh/$1uh/ #月
+    - xform/oh/eh/ #潑
     ###尖團不分
     - xform/(tz|k)i/ci/
     - xform/(ts|kh)i/qi/

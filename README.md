@@ -80,7 +80,7 @@ Romanization system
 
 <span background style="background-color:lightgrey;color: black;">
 <img style="height:1em;vertical-align:baseline;" src="https://simpleicons.org/icons/ethereum.svg"/>ETH </span>
-<span style="background-color:black;color:white">0x888117715a884a7F84B88CBBBF7998745A5FF96D<span>
+<span style="background-color:black;color:white">0x888117715a884a7F84B88CBBBF7998745A5FF96D</span>
 
 <a href="https://liberapay.com/estela/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 [![Buy me a coffee](https://img.shields.io/static/v1?label=Ko-fi&message=Buy+me+a+coffee&color=FF5E5B&logo=Ko-fi&style=flat-square)](https://ko-fi.com/saeziae)

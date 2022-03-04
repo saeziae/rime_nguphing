@@ -25,7 +25,7 @@ cd rime_nguphing && ./linux_setup.sh
 
 ### 下載安裝
 
-[下載](https://github.com/saeziae/rime_nguphing/releases)
+[![Download](https://img.shields.io/github/downloads/saeziae/rime_nguphing/total?style=for-the-badge)](https://github.com/saeziae/rime_nguphing/releases)
 
 ## 拼音體系
 

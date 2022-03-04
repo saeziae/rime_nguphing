@@ -1,5 +1,8 @@
 # RIME 標準吳語方案
 
+![](https://img.shields.io/github/v/release/saeziae/rime_nguphing?style=flat-square)
+![](https://img.shields.io/github/license/saeziae/rime_nguphing?style=flat-square)
+
 適用於 [RIME](https://rime.im/) 的吳語輸入法。採用標準化的吳語音系。
 
 A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.im/) engine.
@@ -72,3 +75,12 @@ Romanization system
 1. ie(h) iae(h) 實際可不做區分，輸入法中也模糊
 1. ui iu 實際可不做區分，輸入法中也模糊
 1. eng(/k) en(/h) 實際可不做區分，輸入法中也模糊
+
+## 贊助
+
+<span background style="background-color:lightgrey;color: black;">
+<img style="height:1em;vertical-align:baseline;" src="https://simpleicons.org/icons/ethereum.svg"/>ETH </span>
+<span style="background-color:black;color:white">0x888117715a884a7F84B88CBBBF7998745A5FF96D<span>
+
+<a href="https://liberapay.com/estela/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+[![Buy me a coffee](https://img.shields.io/static/v1?label=Ko-fi&message=Buy+me+a+coffee&color=FF5E5B&logo=Ko-fi&style=flat-square)](https://ko-fi.com/saeziae)

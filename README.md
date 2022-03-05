@@ -51,8 +51,6 @@ cd rime_nguphing && ./linux_setup.sh
 
 [![Download](https://img.shields.io/github/downloads/saeziae/rime_nguphing/total?style=flat-square)](https://github.com/saeziae/rime_nguphing/releases/latest)
 
-### Windows
-
 ## 拼音體系
 
 Romanization system

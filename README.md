@@ -3,13 +3,15 @@
 ![](https://img.shields.io/github/v/release/saeziae/rime_nguphing?style=flat-square)
 ![](https://img.shields.io/github/license/saeziae/rime_nguphing?style=flat-square)
 
-適用於 [RIME](https://rime.im/) 的吳語輸入法。採用標準化的吳語音系。
+用垃 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是標準吳語。
+
+适用于 [RIME](https://rime.im/) 的吴语输入法。采用标准化的吴语音系。
 
 A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.im/) engine.
 
 測試反饋群：[![QQ群833433703](https://img.shields.io/static/v1?color=blue&label=QQ群&logo=Tencent+QQ&message=833433703&style=flat-square)](https://jq.qq.com/?_wv=1027&k=TP5MKGCC)
 
-內包含：
+裏向包括：
 
 - nguphing 標準吳語
 - nguphing-soochow 標準吳語 蘇州音系
@@ -24,7 +26,7 @@ git clone git@github.com:saeziae/rime_nguphing.git
 cd rime_nguphing && ./linux_setup.sh
 ```
 
-如果術初次安裝，會自動用 vim 調出`default.yaml`以便添加方案，添加之後請部署(Deploy)。
+倘使尔是頭一届安裝，會自動用 vim 調出`default.yaml`方便尔添加方案，添加着之後請部署(Deploy)。
 
 ### 下載安裝
 
@@ -107,7 +109,7 @@ Romanization system
 1. ui iu 實際可不做區分，輸入法中也模糊
 1. eng(/k) en(/h) 實際可不做區分，輸入法中也模糊
 
-## 贊助
+## 畀眼銅鈿鼓勵鼓勵
 
 <span background style="background-color:lightgrey;color: black;">
 <img style="height:1em;vertical-align:baseline;" src="https://simpleicons.org/icons/ethereum.svg"/>ETH </span>

@@ -136,3 +136,13 @@ Romanization system
 
 <a href="https://liberapay.com/estela/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 [![Buy me a coffee](https://img.shields.io/static/v1?label=Ko-fi&message=Buy+me+a+coffee&color=FF5E5B&logo=Ko-fi&style=flat-square)](https://ko-fi.com/saeziae)
+
+## 感謝
+
+- [RIME 輸入法引擎](https://rime.im/)
+- [韻典網](https://ytenx.org/)
+- [字海](http://zisea.com/)
+- [Wiktionary](https://en.wiktionary.org/)
+- <u>汪平</u>老師對吳語个研究
+- 幫助調試个朋友道裏
+- 每一位傳承與保護吳語个人

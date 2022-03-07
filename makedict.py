@@ -34,5 +34,5 @@ sort: by_weight
 ...
 """.format(time.strftime("%Y%m%d", time.localtime())))
     for line in lines:
-        f.write("\t".join(line[0:2]))
+        f.write("\t".join(line[0:2])+"\n")
 print("OK")

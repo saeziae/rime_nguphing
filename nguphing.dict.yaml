@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing
-version: "20220307"
+version: "20220308"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -36,7 +36,7 @@ import_tables:
 他	tha1	343908
 佢	gei1	343908
 佢	gi1	343908
-于	leh	343908
+扗	leh	343908
 說	yoh	338803
 說	shioh	338803
 去	khei3	330876
@@ -1196,7 +1196,7 @@ import_tables:
 舞	vu2	3233
 着	jiak	3225
 着	ciak	3225
-着	cik	3225
+着	tzek	3225
 著	tzy3	3225
 著	ciu3	3225
 遍	piae3	3213
@@ -2378,6 +2378,7 @@ import_tables:
 務	vu3	885
 訴	su3	884
 蟹	gha2	883
+蟹	ha2	883
 態	thai3	883
 梨	li1	882
 煉	liae3	881
@@ -2609,6 +2610,7 @@ import_tables:
 揮	hui1	710
 揮	huei1	710
 祭	tzi3	709
+祭	tza3	709
 朋	bang1	706
 惟	wi1	706
 惟	vi1	706
@@ -5753,6 +5755,11 @@ import_tables:
 屄	pi1	825
 淴	huk	
 𬁭	ang1	
+噌	ang1	
+孬	fau2	
+𪥸	fau2	
+否	fei3	
+𣍐	fei3	
 戇	gong3	
 酰	siae1	
 醯	hi1	
@@ -5846,44 +5853,46 @@ import_tables:
 浬	li2	
 淙	zung1	
 淞	sung1	
-淥		
-渚		
-渥		
-湟		
-湫		
-溏		
-漈		
-漕		
-潯		
-澉		
-澥		
-澧		
-濂		
-濮		
-烊		
-烔		
-焐		
-煠		
-熨		
-犟		
-犺		
-琊		
-璉		
-甪		
-甬		
-甽		
-畲		
-疔		
-疸		
-瘃		
-瘰		
-癤		
-眵		
-砣		
-硤		
-碶		
-禎		
-禪		
+淥	luk	
+渚	tzy2	
+渚	ciu2	
+葯	iak	
+渥	ok	
+湟	wong1	
+湫	tsieu1	
+溏	dong1	
+漈	tzi3	
+漕	zau1	
+潯	zin1	
+澉	ke2	
+澥	gha2	
+澧	li2	
+濂	lie1	
+濮	buk	
+烊	yang1	
+烔	dung1	
+焐	u3	
+煠	zah	
+熨	yun3	
+犟	giang3	
+犺	gang2	
+琊	ya1	
+璉	liae1	
+甪	luk	
+甬	yung2	
+甽	kioe2	
+畲	shia1	
+疔	ting1	
+疸	tae2	
+瘃	ciuk	
+瘰	liu2	
+癤	tzih	
+眵	chy1	
+砣	dou1	
+硤	ghah	
+碶	khi3	
+禎	cing1	
+禪	zhie1	
 秈		
 窈		
 笊		
@@ -5956,3 +5965,5 @@ import_tables:
 齁		
 䶕		
 齷		
+咾		
+㖪		

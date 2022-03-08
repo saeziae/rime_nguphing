@@ -1,1 +1,7 @@
-theme: jekyll-theme-slate
+title:  標準吳語輸入法
+logo: logo.jpg
+show_downloads: true
+theme: jekyll-theme-minimal
+github:
+  zip_url: https://github.com/saeziae/rime_nguphing/releases/latest
+  tar_url: https://github.com/saeziae/rime_nguphing/releases/latest

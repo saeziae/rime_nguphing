@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/v/release/saeziae/rime_nguphing?style=flat-square)
 [![Download](https://img.shields.io/github/downloads/saeziae/rime_nguphing/total?style=flat-square)](https://github.com/saeziae/rime_nguphing/releases/latest)
 
-用垃 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是標準吳語。
+用扗 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是標準吳語。
 
 适用于 [RIME](https://rime.im/) 的吴语输入法。采用标准化的吴语音系。
 

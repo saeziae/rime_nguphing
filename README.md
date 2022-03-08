@@ -1,9 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Noto+Serif+SC:wght@500&family=Shippori+Mincho+B1:wght@500&display=swap');
-body{
-font-family: 'Shippori Mincho B1', 'Noto Serif SC','Noto Serif', serif;
-}
-rt{font-size:0.85rem}</style>
 # RIME 標準吳語方案
 
 ![](https://img.shields.io/github/license/saeziae/rime_nguphing?style=flat-square)

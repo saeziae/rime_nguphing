@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing
-version: "20220308"
+version: "20220323"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -920,6 +920,8 @@ import_tables:
 菸	iae1	4763
 初	tsu1	4757
 野	ya2	4734
+否	bi2	4707
+否	feu2	4707
 品	phin2	4693
 緊	kin2	4681
 項	ghong2	4675
@@ -2121,6 +2123,7 @@ import_tables:
 翠	tsui3	1136
 翠	tsei3	1136
 坡	phou1	1135
+幺	iau1	1135
 鷹	ing1	1133
 紋	men1	1133
 紋	ven1	1133
@@ -2265,6 +2268,7 @@ import_tables:
 櫃	gui3	994
 櫃	guei3	994
 審	shin2	993
+芷	cy2	991
 渣	tzo1	989
 斑	pae1	989
 恐	khiung2	985
@@ -2453,6 +2457,7 @@ import_tables:
 伏	vuk	826
 鼎	ting2	825
 幼	ieu3	825
+屄	pi1	825
 卵	loe2	824
 瑩	yang1	824
 瑩	yung1	824
@@ -2466,6 +2471,7 @@ import_tables:
 粘	nie1	816
 踏	dah	815
 觸	chiuk	815
+熯	hoe1	814
 賓	pin1	813
 腔	khong1	812
 悟	ngu3	812
@@ -2674,6 +2680,7 @@ import_tables:
 釬	ghoe3	651
 銲	ghoe3	651
 棚	bang1	651
+氽	then2	650
 召	zhiau3	649
 召	jiau3	649
 嵐	le1	648
@@ -2771,6 +2778,7 @@ import_tables:
 覆	phuk	586
 鈉	neh	586
 覆	fuk	586
+覆	buk	586
 攔	lae1	585
 卹	siuh	585
 恤	siuh	585
@@ -3123,6 +3131,7 @@ import_tables:
 蹬	deng3	391
 晾	liang3	390
 墩	ten1	390
+潽	phu1	390
 茜	tsiae3	389
 貌	mau3	389
 覓	mik	389
@@ -3580,6 +3589,8 @@ import_tables:
 聳	sung2	235
 陌	mak	234
 鈍	den3	234
+驐	ten1	234
+汆	tsoe1	234
 鴉	o1	232
 黏	nie1	232
 蛾	ngou1	232
@@ -4360,7 +4371,7 @@ import_tables:
 偎	uei1	82
 贓	tzong1	81
 幔	moe3	81
-吆	iau1吆	iau1
+吆	iau1	81
 嘜	mak	81
 揖	ih	81
 秩	jih	81
@@ -5727,8 +5738,6 @@ import_tables:
 挲	sou1	0
 掽	bang3	0
 疿	fi3	0
-否	bi2	4707
-否	feu2	4707
 胐	khueh	0
 嗄	a3	0
 塕	ung2	0
@@ -5738,21 +5747,14 @@ import_tables:
 句	kiu3	0
 雫	no3	
 沢	tsak	
-芷	cy2	991
 沰	tuk	
 煬	yang1	
 凼	dong3	
 罱	lae2	
-驐	ten1	234
 狧	wek	
 搛	kae2	
 𢫭	niuk	
-潽	phu1	390
-熯	hoe1	814
-氽	then2	650
-汆	tsoe1	234
 襔	moe1	
-屄	pi1	825
 淴	huk	
 𬁭	ang1	
 噌	ang1	
@@ -5810,7 +5812,6 @@ import_tables:
 嶨	khok	
 巉	zae1	
 巽	sen3	
-幺	iau1	1135
 庠	ziang1	
 恁	nin1	
 恁	nen1	
@@ -5893,34 +5894,35 @@ import_tables:
 碶	khi3	
 禎	cing1	
 禪	zhie1	
-秈		
-窈		
-笊		
-笡		
-筧		
-筱		
-䈍		
-箬		
-箲		
-箸		
-䈳		
-簀		
-糉		
-糝		
-糰		
-耥		
-肫		
-胥		
-胴		
-脗		
-膈		
-茨		
-莒		
-莘		
-莧		
-莪		
-萵		
-葑		
+秈	sie1	
+窈	iau2	
+笊	tzau3	
+笡	tsia3	
+筧	kiae2	
+筱	siau2	
+䈍	mong2	
+箬	niak	
+箲	siae2	
+箸	jiu3	
+䈳	thah	
+簀	tzak	
+糉	tzung3	
+糝	sen1	
+糰	doe1	
+耥	thong2	
+肫	cin1	
+胴	dung3	
+脗	men2	
+脗	ven2	
+膈	kak	
+茨	zy1	
+莒	kei2	
+莒	kiu2	
+莘	sin1	
+莧	hiae3	
+莪	ngou1	
+萵	ou1	
+葑	fung1	
 葚		
 蓑		
 蓴		
@@ -5962,8 +5964,8 @@ import_tables:
 鷀		
 鷂		
 麂		
-齁		
-䶕		
-齷		
-咾		
-㖪		
+齁	heu1	
+䶕	bo1	
+齷	uk	
+咾	lau	
+㖪	wek	

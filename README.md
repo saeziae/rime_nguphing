@@ -29,7 +29,7 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 安裝方案：
 
 ```sh
-git clone git@github.com:saeziae/rime_nguphing.git
+git clone https://github.com/saeziae/rime_nguphing.git
 cd rime_nguphing && ./linux_setup.sh
 ```
 

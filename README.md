@@ -15,18 +15,20 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 裏向包括：
 
 - nguphing 標準吳語
-- nguphing-soochow 標準吳語 蘇州音系
-- nguphing-shanghai 標準吳語 上海音系
+- nguphing-soochow 標準吳語 蘇州音系 （弗建議）
+- nguphing-shanghai 標準吳語 上海音系 （弗建議）
 
 ## 安裝
 
 ### Linux & MacOS
 
+> 如果尔曉得手動安裝請忽略以下教程。
+
 首先確保安裝着 `fcitx5-rime` `ibus-rime` `fcitx-rime` 任何之一，MacOS 則是 [鼠鬚管](https://github.com/rime/squirrel/releases/latest)
 
 [迭隻是詳細指南](https://github.com/rime/home/wiki/CustomizationGuide)
 
-安裝方案：
+自動安裝方案：
 
 ```sh
 git clone https://github.com/saeziae/rime_nguphing.git
@@ -43,7 +45,7 @@ cd rime_nguphing && ./linux_setup.sh
 
 打開【開始菜單】>【小狼毫輸入法】>【用戶文件夾】
 
-將`nguphing-xxxxxxxx.zip`解壓到尔打開个【用戶文件夾】。（如果是`bin`版本，尔應該看不見多出啥文件，箇是正常个）
+將`nguphing-xxxxxxxx.zip`解壓到尔打開个【用戶文件夾】。
 
 打開【開始菜單】>【小狼毫輸入法】>【輸入法設定】，勾選伲个輸入法。
 

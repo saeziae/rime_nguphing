@@ -3,20 +3,20 @@
 
 schema:
   schema_id: nguphing
-  name: 吴語拼音
+  name: 吳語拼音
   version: "20220302"
   author:
-    - 山前 <i@estela.cn>
+    - 山前 <i@estela.moe>
   description: |
-    * 標準吴語
+    * 標準吳語
     * R/X/Q 代表平上去
   dependencies:
-    - luna_pinyin
+    - luna_pinyin #反查
 
 switches:
   - name: ascii_mode
     reset: 0
-    states: [吴語, 洋文]
+    states: [漢字, 拉丁]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -62,24 +62,33 @@ speller:
     - erase/^xx$/
     - erase/^0$/
     - "xform/'//"
-    - derive/ui/iu/
+    #改寫聲調
     - xform/1/r/
     - xform/2/x/
     - xform/3/q/
     - xform/4//
+    # ui偉 讀作 iu與
+    - derive/ui/iu/
+    - derive/wi([qxr])$/yu$1/
+    # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
+    # 前後鼻音 弗分
     - derive/ing([qxr])$/in$1/
     - derive/in([qxr])$/ing$1/
     - derive/eng([qxr])$/en$1/
     - derive/en([qxr])$/eng$1/
+    # ie淹 iae煙 弗分
     - derive/([iy])ae([qxr])$/$1e$2/
-    - derive/ie([qxr])$/iae$1/
+    - derive/([iy])e([qxr])$/$1ae$1/
+    # eh褐 ek劾 弗分
     - derive/ek$/eh/
     - derive/eh$/ek/
     - derive/ik$/ih/
     - derive/ih$/ik/
+    # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
+    # 弗打聲調
     - derive/([qxr])$//
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/

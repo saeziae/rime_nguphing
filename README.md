@@ -55,7 +55,7 @@ cd rime_nguphing && ./linux_setup.sh
 
 ## [>拼音體系](romanization.md)
 
-## [>資金贊助](https://feed.saeziae.net)
+## [捐助](https://github.com/saeziae/rime_nguphing)
 
 ## 感謝
 
@@ -63,6 +63,6 @@ cd rime_nguphing && ./linux_setup.sh
 - [韻典網](https://ytenx.org/)
 - [字海](http://zisea.com/)
 - [Wiktionary](https://en.wiktionary.org/)
-- <u>汪平</u>老師對吳語个研究
+- <u>汪平</u>等優秀个先生對吳語个研究
 - 幫助調試个朋友道裏
 - 每一位傳承與保護吳語个人

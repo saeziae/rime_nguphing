@@ -10,7 +10,10 @@
 
 A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.im/) engine.
 
-測試反饋群：[![QQ群833433703](https://img.shields.io/static/v1?color=blue&label=QQ群&logo=Tencent+QQ&message=833433703&style=flat-square)](https://jq.qq.com/?_wv=1027&k=TP5MKGCC)
+測試反饋群：
+
+- [![Telegram群@nguphing](https://img.shields.io/static/v1?color=blue&label=Telegram群&logo=Telegram&message=833433703&style=flat-square)](https://t.me/nguphing) （主要）
+- [![QQ群833433703](https://img.shields.io/static/v1?color=blue&label=QQ群&logo=Tencent+QQ&message=833433703&style=flat-square)](https://jq.qq.com/?_wv=1027&k=TP5MKGCC)
 
 裏向包括：
 

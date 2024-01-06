@@ -13,7 +13,6 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 測試反饋群：
 
 - [![Telegram群@nguphing](https://img.shields.io/static/v1?color=blue&label=Telegram群&logo=Telegram&message=833433703&style=flat-square)](https://t.me/nguphing) （主要）
-- [![QQ群833433703](https://img.shields.io/static/v1?color=blue&label=QQ群&logo=Tencent+QQ&message=833433703&style=flat-square)](https://jq.qq.com/?_wv=1027&k=TP5MKGCC)
 
 裏向包括：
 
@@ -23,38 +22,7 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 
 ## 安裝
 
-### Linux & MacOS
-
-> 如果尔曉得手動安裝請忽略以下教程。
-
-首先確保安裝着 `fcitx5-rime` `ibus-rime` `fcitx-rime` 任何之一，MacOS 則是 [鼠鬚管](https://github.com/rime/squirrel/releases/latest)
-
-[迭隻是詳細指南](https://github.com/rime/home/wiki/CustomizationGuide)
-
-自動安裝方案：
-
-```sh
-git clone https://github.com/saeziae/rime_nguphing.git
-cd rime_nguphing && ./linux_setup.sh
-```
-
-倘使尔是頭一届安裝，會自動用 vim 調出`default.yaml`方便尔添加方案，添加着之後請部署(Deploy)（一般在狀態欄个「ㄓ」个右擊菜單裏）。
-
-### Windows
-
-安裝[小狼毫](https://github.com/rime/weasel/releases/latest)
-
-下載[方案](https://github.com/saeziae/rime_nguphing/releases/latest)，選擇`bin`或`yaml`版本全可以个。
-
-打開【開始菜單】>【小狼毫輸入法】>【用戶文件夾】
-
-將`nguphing-xxxxxxxx.zip`解壓到尔打開个【用戶文件夾】。
-
-打開【開始菜單】>【小狼毫輸入法】>【輸入法設定】，勾選伲个輸入法。
-
-### 下載方案
-
-[![Download](https://img.shields.io/github/downloads/saeziae/rime_nguphing/total?style=flat-square)](https://github.com/saeziae/rime_nguphing/releases/latest)
+有待重寫
 
 ## [>用字標準](standard.md)
 
@@ -68,6 +36,6 @@ cd rime_nguphing && ./linux_setup.sh
 - [韻典網](https://ytenx.org/)
 - [字海](http://zisea.com/)
 - [Wiktionary](https://en.wiktionary.org/)
-- <u>汪平</u>等優秀个先生對吳語个研究
+- 優秀个先生対前輩對吳語个研究
 - 幫助調試个朋友道裏
 - 每一位傳承與保護吳語个人

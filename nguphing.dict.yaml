@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing
-version: "20220323"
+version: "20240106"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -14,6 +14,7 @@ import_tables:
 在	lai2	974740
 在	dzai2	974740
 尔	ni2	973526
+尔	ng2	973526
 你	ni2	963526
 的	tik	828294
 対	tah	664874
@@ -106,6 +107,8 @@ import_tables:
 但	dae2	115581
 党	tok	115581
 党	jiang3	115581
+倷	na1	115581
+倷	nha1	115581
 過	kou3	111897
 打	tang2	107925
 大	dou3	106058
@@ -126,6 +129,7 @@ import_tables:
 呀	ho1	79232
 呀	ngo1	79232
 呀	nga1	79232
+呀	ya1	79232
 併	ping3	79035
 并	ping3	79035
 並	bing2	79035
@@ -231,10 +235,12 @@ import_tables:
 換	woe3	32585
 無	mu1	32585
 無	m1	32585
-無	mu1	32585
+嘸	m1	32585
 無	vu1	32585
 嗯	en1	31982
 哪	nou2	31902
+哪	na2	31902
+哪	nei2	31902
 回	wei1	31665
 迴	wei1	31665
 愛	ai3	31546
@@ -2781,6 +2787,7 @@ import_tables:
 覆	buk	586
 攔	lae1	585
 卹	siuh	585
+恤	shiuh	585
 恤	siuh	585
 恤	hioh	585
 煲	pau2	584
@@ -5291,7 +5298,7 @@ import_tables:
 忑	thek	14
 貘	mak	14
 酩	ming2	14
-伲	ni2	14
+伲	ni1	14
 狒	vi3	14
 晷	kui2	14
 晷	kuei2	14
@@ -5967,5 +5974,7 @@ import_tables:
 齁	heu1	
 䶕	bo1	
 齷	uk	
-咾	lau	
+咾	lau2	
 㖪	wek	
+𠲎	vah	
+吤	ka3	

@@ -4,7 +4,7 @@
 schema:
   schema_id: nguphing
   name: 吳語拼音
-  version: "20220302"
+  version: "20240106"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -88,6 +88,11 @@ speller:
     # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
+    # ngi-ni 弗分
+    - derive/^ngi/ni/
+    # dz-z j-zh 弗分
+    - derive/^dz/z/
+    - derive/^j/zh/
     # 弗打聲調
     - derive/([qxr])$//
     - abbrev/^([a-z]).+$/$1/
@@ -115,7 +120,7 @@ translator:
     - xform/ix/ì/
     - xform/iq/í/
     - xform/ir/ī/
-    - xform/ux/è/
+    - xform/ux/ù/
     - xform/uq/ú/
     - xform/ur/ū/
     - xform/yx/ỳ/

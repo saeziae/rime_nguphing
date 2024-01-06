@@ -2,10 +2,10 @@
 # encoding: utf-8
 schema:
   schema_id: nguphing-soochow
-  name: 吴語拼音·蘇州
-  version: "20220302"
+  name: 吳語拼音·蘇州
+  version: "20230106"
   author:
-    - 山前 <i@estela.cn>
+    - 山前 <i@estela.moe>
   description: |
     吳語拼音、轉換成蘇州音系
   dependencies:
@@ -14,7 +14,7 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [吴語, 洋文]
+    states: [吳語, 洋文]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct

@@ -12,7 +12,7 @@ import_tables:
 我	ngou2	1192789
 是	zy2	1180957
 在	lai2	974740
-在	dzai2	974740
+在	zai2	974740
 尔	ni2	973526
 尔	ng2	973526
 你	ni2	963526
@@ -22,7 +22,6 @@ import_tables:
 有	yeu2	613906
 弗	feh	590643
 就	zieu3	558432
-就	dzieu3	558432
 了	liau2	500186
 了	leh	500186
 也	ya2	404388
@@ -151,7 +150,6 @@ import_tables:
 日	nih	70124
 日	zhih	70124
 才	zai1	69949
-才	dzai1	69949
 發	fah	69515
 髮	fah	69515
 可	khou2	68911
@@ -170,7 +168,6 @@ import_tables:
 話	wo3	57807
 請	tsing2	55964
 錢	zie1	55755
-錢	dzie1	55755
 叫	kiau3	55685
 出	chiu3	55547
 出	tsei3	55547
@@ -200,7 +197,6 @@ import_tables:
 走	tzeu2	48130
 快	khua3	48011
 前	ziae1	46770
-前	dziae1	46770
 由	yeu1	46538
 高	kau1	45167
 您	ning1	44386
@@ -217,7 +213,6 @@ import_tables:
 搞	kau2	39924
 老	lau2	39924
 事	zy3	38942
-事	dzy3	38942
 隻	ciak	38748
 只	cy2	38748
 只	tzeh2	38748
@@ -274,7 +269,6 @@ import_tables:
 見	kiae3	26266
 放	fong3	26038
 全	zioe1	25876
-全	dzioe1	25876
 全	zae1	25876
 按	oe3	25812
 區	eu1	25334
@@ -373,7 +367,6 @@ import_tables:
 收	shieu1	16855
 男	ne1	16792
 字	zy3	16750
-字	dzy3	16750
 股	ku2	16667
 幾	ki2	16625
 幾	ki1	16625
@@ -424,7 +417,6 @@ import_tables:
 笑	siau3	14513
 李	li2	14513
 自	zy3	14405
-自	dzy3	14405
 邊	piae1	14352
 慢	mae3	14352
 刷	sioh	14316
@@ -508,7 +500,6 @@ import_tables:
 機	ki1	11612
 安	oe1	11597
 坐	zou2	11583
-坐	dzou2	11583
 俄	ngou1	11525
 約	iak	11468
 飛	fi1	11468
@@ -667,7 +658,6 @@ import_tables:
 菜	tsai3	7620
 混	wen2	7535
 集	zih	7498
-集	dzih	7498
 感	ke2	7460
 操	tsau3	7451
 操	tsau1	7451
@@ -708,7 +698,6 @@ import_tables:
 團	doe1	7027
 反	fae2	6966
 砸	zah	6923
-砸	dzah	6923
 待	dai2	6914
 篇	phie1	6897
 煩	vae1	6871
@@ -734,7 +723,6 @@ import_tables:
 樂	ngok	6513
 謝	zia3	6505
 層	zeng1	6480
-層	dzeng1	6480
 木	muk	6480
 僅	gin3	6472
 北	pek	6464
@@ -745,7 +733,6 @@ import_tables:
 重	jiung2	6392
 重	jiung1	6392
 情	zing1	6384
-情	dzing1	6384
 趙	jiau2	6376
 需	siu1	6368
 記	ki3	6360
@@ -834,7 +821,6 @@ import_tables:
 工	kung1	5450
 極	gik	5429
 曾	zeng1	5422
-曾	dzeng1	5422
 曾	tzeng1	5422
 刀	tau1	5409
 波	pou1	5395
@@ -884,7 +870,6 @@ import_tables:
 虧	khiu1	4988
 虧	khuei1	4988
 存	zen1	4982
-存	dzen1	4982
 師	sy1	4963
 立	lih	4957
 素	su3	4957
@@ -895,7 +880,6 @@ import_tables:
 詩	shy1	4945
 命	ming3	4908
 靜	zing2	4902
-靜	dzing2	4902
 制	ci3	4902
 製	ci3	4902
 民	min1	4896
@@ -907,7 +891,6 @@ import_tables:
 斷	doe2	4835
 斷	toe3	4835
 造	zau2	4835
-造	dzau2	4835
 忘	mong3	4829
 忘	vong3	4829
 茶	dzo1	4823
@@ -916,9 +899,7 @@ import_tables:
 抽	chieu1	4805
 田	diae1	4781
 儘	zin2	4781
-儘	dzin2	4781
 盡	zin2	4781
-盡	dzin2	4781
 盡	tzin2	4781
 供	kiung3	4781
 供	kiung1	4781
@@ -985,7 +966,6 @@ import_tables:
 源	ngioe1	4426
 街	ka1	4420
 座	zou3	4409
-座	dzou3	4409
 思	sy1	4404
 古	ku2	4404
 刪	sae1	4393
@@ -1028,7 +1008,6 @@ import_tables:
 船	zhioe1	4132
 今	kin1	4112
 齊	zi1	4112
-齊	dzi1	4112
 亞	o3	4107
 亞	ia3	4107
 托	thok	4107
@@ -1056,10 +1035,8 @@ import_tables:
 缺	khiuh	3991
 食	zhik	3981
 牀	zong1	3976
-牀	dzong1	3976
 抗	khong3	3971
 賊	zek	3971
-賊	dzek	3971
 鄉	hiang1	3961
 界	ka3	3961
 河	ghou1	3946
@@ -1092,7 +1069,6 @@ import_tables:
 穫	ghok	3801
 獲	wak	3801
 秦	zin1	3797
-秦	dzin1	3797
 捲	gioe1	3792
 捲	kioe2	3792
 卷	kioe3	3792
@@ -1222,7 +1198,6 @@ import_tables:
 州	cieu1	3193
 測	tsik	3189
 狀	zong3	3181
-狀	dzong3	3181
 寬	khuoe1	3177
 箱	siang1	3161
 武	mu2	3161
@@ -1297,7 +1272,6 @@ import_tables:
 酸	soe1	2875
 形	ying1	2865
 牆	ziang1	2861
-牆	dziang1	2861
 圓	yoe1	2854
 害	ghai3	2854
 檔	tong1	2850
@@ -1330,7 +1304,6 @@ import_tables:
 掙	tzang3	2794
 曉	hiau2	2791
 曹	zau1	2791
-曹	dzau1	2791
 侯	gheu1	2784
 良	liang1	2770
 脫	thoh	2753
@@ -1386,11 +1359,9 @@ import_tables:
 淚	lei3	2586
 肖	siau3	2577
 淨	zing3	2577
-淨	dzing3	2577
 敏	min2	2573
 吵	tsau2	2570
 罪	zei2	2567
-罪	dzei2	2567
 爭	tzang1	2564
 偉	yu2	2561
 偉	wei2	2561
@@ -1411,7 +1382,6 @@ import_tables:
 末	moh	2523
 末	meh	2523
 雜	zeh	2519
-雜	dzah	2519
 雜	zah	2519
 衣	i1	2516
 麥	mak	2513
@@ -1463,7 +1433,6 @@ import_tables:
 評	bing1	2385
 酷	khuk	2385
 絕	zioh	2382
-絕	dzioh	2382
 飄	phiau1	2376
 幣	bi3	2376
 威	iu1	2373
@@ -1486,7 +1455,6 @@ import_tables:
 館	kuoe3	2318
 農	nung1	2318
 士	zy2	2309
-士	dzy2	2309
 索	sok	2303
 顯	hiae2	2300
 拼	pang1	2300
@@ -1495,7 +1463,6 @@ import_tables:
 季	kuei3	2300
 尋	zin1	2300
 族	zuk	2300
-族	dzuk	2300
 洪	ghung1	2297
 巨	gei2	2292
 巨	giu2	2292
@@ -1520,7 +1487,6 @@ import_tables:
 撞	dzong3	2258
 禮	li2	2255
 聚	ziu2	2255
-聚	dziu2	2255
 膜	mok	2247
 訊	sin3	2247
 膜	mu1	2247
@@ -1560,7 +1526,6 @@ import_tables:
 舉	kiu2	2164
 甚	zhin3	2161
 載	zai3	2159
-載	dzai3	2159
 載	tzai2	2159
 載	tzai3	2159
 帳	ciang3	2156
@@ -1615,7 +1580,6 @@ import_tables:
 拜	pa3	2033
 購	keu3	2028
 賤	zie3	2026
-賤	dzie3	2026
 飲	in2	2026
 調	diau3	2023
 調	diau1	2023
@@ -1637,7 +1601,6 @@ import_tables:
 鼕	tung1	1996
 儂	nung1	1991
 愁	zeu1	1988
-愁	dzeu1	1988
 凱	khai2	1983
 目	muk	1983
 淡	dae2	1981
@@ -1667,11 +1630,9 @@ import_tables:
 塗	dzo1	1910
 塗	du1	1910
 財	zai1	1906
-財	dzai1	1906
 欄	lae1	1903
 遇	ngiu3	1894
 泉	zioe1	1889
-泉	dzioe1	1889
 薛	sih	1889
 汪	uong1	1887
 稍	sau1	1887
@@ -1730,7 +1691,6 @@ import_tables:
 郎	long1	1793
 尿	niau3	1791
 臟	zong3	1786
-臟	dzong3	1786
 髒	tzong1	1786
 希	hi1	1784
 逗	deu3	1784
@@ -1749,7 +1709,6 @@ import_tables:
 窗	tsong1	1744
 耳	ni2	1740
 殘	zae1	1738
-殘	dzae1	1738
 磚	cioe1	1731
 昌	chiang1	1729
 患	wae3	1729
@@ -1770,7 +1729,6 @@ import_tables:
 營	ying1	1701
 熬	ngau1	1693
 劑	zi3	1693
-劑	dzi3	1693
 舒	sy1	1693
 舒	shiu1	1693
 玲	ling1	1689
@@ -1837,7 +1795,6 @@ import_tables:
 備	bi3	1571
 撤	jih	1563
 助	zu3	1559
-助	dzu3	1559
 撐	tsang1	1557
 沉	jin1	1555
 諸	tzy1	1555
@@ -1867,11 +1824,9 @@ import_tables:
 軒	hie1	1517
 振	cin3	1517
 晴	zing1	1513
-晴	dzing1	1513
 庭	ding1	1513
 坊	fong1	1509
 靚	zing3	1509
-靚	dzing3	1509
 曼	mae3	1506
 曼	vae3	1506
 鏡	king3	1506
@@ -2045,7 +2000,6 @@ import_tables:
 桂	kuei3	1247
 撲	phuk	1247
 瞧	ziau1	1246
-瞧	dziau1	1246
 顆	khou2	1246
 鴻	ghung1	1246
 彎	uae1	1244
@@ -2058,7 +2012,6 @@ import_tables:
 棉	mie1	1232
 鼓	ku2	1232
 籍	zik	1229
-籍	dzik	1229
 桌	tzok	1227
 互	wu3	1223
 瑪	mo2	1221
@@ -2154,7 +2107,6 @@ import_tables:
 畢	pih	1112
 勢	shi3	1112
 截	zih	1108
-截	dzih	1108
 薇	mi1	1108
 薇	vi1	1108
 渡	du3	1108
@@ -2162,7 +2114,6 @@ import_tables:
 啃	khen2	1105
 壯	tzong3	1103
 摘	tzak	1103
-宅	dzak	1101
 盼	phae3	1100
 耗	hau3	1100
 搖	yau1	1097
@@ -2207,7 +2158,6 @@ import_tables:
 墊	tiae3	1057
 穆	muk	1057
 暫	zae3	1055
-暫	dzae3	1055
 膩	ni3	1055
 龜	kiu1	1054
 龜	kuei1	1054
@@ -2225,7 +2175,6 @@ import_tables:
 壁	pik	1041
 枕	cin2	1038
 漸	zie2	1037
-漸	dzie2	1037
 岸	ngoe3	1036
 膽	tae2	1035
 婆	bou1	1035
@@ -2253,7 +2202,6 @@ import_tables:
 芝	cy1	1009
 浮	veu1	1008
 材	zai1	1005
-材	dzai1	1005
 娟	kioe1	1004
 耀	yau3	1004
 萌	mang1	1004
@@ -2270,7 +2218,6 @@ import_tables:
 何	ha1	1000
 何	gha1	1000
 槽	zau1	997
-槽	dzau1	997
 伸	shin1	997
 翁	ung1	995
 盈	ying1	994
@@ -2290,7 +2237,6 @@ import_tables:
 僞	ngiu3	978
 僞	wei3	978
 柴	za1	978
-柴	dza1	978
 券	khioe3	977
 固	ku3	977
 抖	teu2	976
@@ -2356,7 +2302,6 @@ import_tables:
 汝	zhiu2	918
 汝	ni2	918
 昨	zok	917
-昨	dzok	917
 昨	za1	917
 策	tsak	914
 琪	gi1	911
@@ -2373,7 +2318,6 @@ import_tables:
 漂	phiau1	901
 腸	jiang1	900
 攢	zoe1	900
-攢	dzoe1	900
 攢	tzae2	900
 債	tza3	898
 堅	kiae1	894
@@ -2437,7 +2381,6 @@ import_tables:
 癌	ngae1	853
 泵	bae3	852
 捷	zih	851
-捷	dzih	851
 妝	tzong1	849
 彼	pi2	847
 氾	fae3	845
@@ -2521,7 +2464,6 @@ import_tables:
 拒	gei2	781
 拒	giu2	781
 贈	zeng3	780
-贈	dzeng3	780
 警	king2	778
 逐	jiuk	778
 痕	ghen1	777
@@ -2549,7 +2491,6 @@ import_tables:
 慣	kuae3	762
 境	king2	761
 仕	zy2	761
-仕	dzy2	761
 棍	kuen3	758
 律	liuh	756
 恰	khah	755
@@ -2585,7 +2526,6 @@ import_tables:
 郵	yeu1	736
 株	ciu1	736
 潛	zie1	735
-潛	dzie1	735
 聰	tsung1	734
 陵	ling1	732
 謂	yu3	732
@@ -2609,7 +2549,6 @@ import_tables:
 蚊	men1	724
 蚊	ven1	724
 寨	za3	724
-寨	dza3	724
 霖	lin1	722
 遙	yau1	721
 紹	zhiau2	721
@@ -2662,7 +2601,6 @@ import_tables:
 戳	tsok	679
 欽	khin1	675
 崇	zung1	675
-崇	dzung1	675
 瑤	yau1	672
 賦	fu3	671
 奎	khiu1	670
@@ -2695,7 +2633,6 @@ import_tables:
 嵐	le1	648
 拌	boe2	647
 疾	zih	647
-疾	dzih	647
 裕	yu3	647
 奏	tzeu3	643
 筋	kin1	643
@@ -2725,7 +2662,6 @@ import_tables:
 競	ging3	629
 攪	kau2	628
 靖	zing2	628
-靖	dzing2	628
 珊	sae1	627
 籠	lung2	625
 籠	lung1	625
@@ -2761,9 +2697,7 @@ import_tables:
 捅	thung2	600
 倩	tsiae3	599
 藏	zong3	598
-藏	dzong3	598
 藏	zong1	598
-藏	dzong1	598
 築	ciuk	598
 傲	ngau3	597
 姿	tzy1	597
@@ -2850,7 +2784,6 @@ import_tables:
 碑	pi1	550
 碑	pei1	550
 叢	zung1	550
-叢	dzung1	550
 柄	ping3	549
 攬	lae2	548
 姦	kae1	548
@@ -2862,7 +2795,6 @@ import_tables:
 眠	miae1	545
 措	tsu3	545
 磁	zy1	544
-磁	dzy1	544
 麟	lin1	544
 侃	khoe2	543
 墜	jiu3	543
@@ -2893,17 +2825,14 @@ import_tables:
 遼	liau1	530
 狄	dik	530
 瓷	zy1	530
-瓷	dzy1	530
 勛	hiun1	530
 謎	mi3	529
 磅	phong1	528
 厲	li3	528
 閘	zah	527
-閘	dzah	527
 瞄	miau1	526
 凹	au1	526
 裁	zai1	526
-裁	dzai1	526
 憲	hie3	525
 娥	ngou1	525
 扒	pah	523
@@ -2929,7 +2858,6 @@ import_tables:
 拎	ling1	505
 喉	gheu1	505
 輯	zih	505
-輯	dzih	505
 虞	ngiu1	505
 闊	khueh	504
 披	phi1	504
@@ -2947,13 +2875,11 @@ import_tables:
 垮	khuo2	498
 憐	liae1	498
 慈	zy1	496
-慈	dzy1	496
 拱	kiung2	496
 脾	bi1	494
 氫	khing1	493
 煥	huoe3	491
 巢	zau1	491
-巢	dzau1	491
 溶	yung1	491
 撫	fu2	491
 廉	lie1	490
@@ -3006,7 +2932,6 @@ import_tables:
 黛	dai3	461
 梳	su1	461
 孰	zhiuk	459
-瞪	dzang1	457
 卑	pi1	457
 卑	pei1	457
 兌	dei3	457
@@ -3136,7 +3061,6 @@ import_tables:
 矛	mau1	392
 苔	dai1	392
 荐	ziae3	391
-荐	dziae3	391
 翰	ghoe3	391
 蹬	deng3	391
 晾	liang3	390
@@ -3194,7 +3118,6 @@ import_tables:
 循	zin1	363
 概	kai3	363
 饞	zae1	362
-饞	dzae1	362
 妥	thou2	361
 悉	sih	361
 緒	zi2	361
@@ -3304,7 +3227,6 @@ import_tables:
 袍	bau1	317
 滋	tzy1	317
 睜	zing2	316
-睜	dzing2	316
 髓	siu2	316
 髓	sei2	316
 稠	jieu1	316
@@ -3331,7 +3253,6 @@ import_tables:
 瑾	kin2	309
 唄	ba3	309
 蠶	ze1	308
-蠶	dze1	308
 捻	niae2	308
 撚	niae2	308
 沽	ku1	308
@@ -3341,7 +3262,6 @@ import_tables:
 沫	moh	307
 沫	meh	307
 寂	zik	307
-寂	dzik	307
 叮	ting1	306
 慰	iu3	306
 慰	uei3	306
@@ -3381,7 +3301,6 @@ import_tables:
 貶	pie2	292
 淹	ie1	292
 盞	tzae2	292
-濁	dzok	292
 棠	dong1	291
 劣	lioh	291
 拴	tsioe1	291
@@ -3459,7 +3378,6 @@ import_tables:
 涮	sae3	272
 墮	dou2	272
 茬	zy1	272
-茬	dzy1	272
 祺	gi1	272
 掠	liak	271
 霄	siau1	271
@@ -3471,7 +3389,6 @@ import_tables:
 纖	sie1	270
 淌	thong2	270
 匠	ziang3	270
-匠	dziang3	270
 障	ciang3	270
 棺	kuoe1	270
 揣	tsi2	270
@@ -3483,7 +3400,6 @@ import_tables:
 妄	mong3	267
 妄	vong3	267
 棧	zae3	266
-棧	dzae3	266
 釐	li1	266
 駁	pok	263
 朔	sok	263
@@ -3497,7 +3413,6 @@ import_tables:
 屑	siah	261
 屑	sih	261
 皂	zau2	261
-皂	dzau2	261
 吏	li3	261
 膿	nung1	261
 扳	pae1	260
@@ -3523,7 +3438,6 @@ import_tables:
 柒	tsih	253
 弩	nu2	253
 撰	zae2	252
-撰	dzae2	252
 違	yu1	252
 違	wei1	252
 圭	kiu1	252
@@ -3621,7 +3535,6 @@ import_tables:
 錐	ciu1	228
 楷	kha2	228
 鑿	zok	227
-鑿	dzok	227
 錳	mang2	227
 晝	cieu3	227
 鞠	kiuk	227
@@ -3754,9 +3667,7 @@ import_tables:
 匣	ghah	190
 悼	dau3	190
 漬	zy3	190
-漬	dzy3	190
 驟	zeu3	190
-驟	dzeu3	190
 檀	dae1	189
 焚	ven1	189
 窟	khueh	189
@@ -3778,7 +3689,6 @@ import_tables:
 卉	hiu2	183
 卉	huei2	183
 摧	zei1	182
-摧	dzei1	182
 褒	pau1	181
 尻	khau1	181
 仆	bek	181
@@ -3870,7 +3780,6 @@ import_tables:
 鉬	muk	163
 恬	diae1	162
 樵	ziau1	162
-樵	dziau1	162
 愧	kiu3	162
 愧	kuei3	162
 貯	tzy2	162
@@ -3878,7 +3787,6 @@ import_tables:
 岔	tso1	161
 稚	jy3	161
 臍	zi1	161
-臍	dzi1	161
 熵	shiang1	160
 丞	zhing1	160
 塢	u2	160
@@ -3895,7 +3803,6 @@ import_tables:
 隴	lung2	155
 瞻	cie1	154
 踐	zie3	154
-踐	dzie3	154
 瘸	gio1	154
 飼	zy3	154
 嶼	zi2	154
@@ -3970,7 +3877,6 @@ import_tables:
 噬	zhi3	141
 妒	tu3	141
 雛	zu1	141
-雛	dzu1	141
 薯	zy3	141
 薯	zhiu3	141
 萎	iu2	140
@@ -3999,7 +3905,6 @@ import_tables:
 奢	shia1	136
 獒	ngau1	136
 藉	zik	136
-藉	dzik	136
 弛	shy2	136
 狹	ghah	135
 拈	niae1	135
@@ -4024,7 +3929,6 @@ import_tables:
 掄	len1	133
 拘	kiu1	133
 鋤	zu1	133
-鋤	dzu1	133
 暇	gho3	132
 剌	lah	132
 舵	dou2	132
@@ -4042,7 +3946,6 @@ import_tables:
 樞	chiu1	130
 羌	khiang1	129
 醛	zioe1	129
-醛	dzioe1	129
 厥	kioh	129
 辮	biae2	129
 誕	dae2	129
@@ -4124,7 +4027,6 @@ import_tables:
 炬	gei2	118
 炬	giu2	118
 讒	zae1	117
-讒	dzae1	117
 眷	kioe3	117
 懲	jing1	117
 狸	li1	117
@@ -4165,7 +4067,6 @@ import_tables:
 酣	ghe1	111
 匾	piae2	111
 氰	zing1	111
-氰	dzing1	111
 吠	vi3	111
 薊	ki3	111
 痂	ko1	110
@@ -4192,11 +4093,9 @@ import_tables:
 潞	lu3	109
 芋	yu3	109
 嚼	ziak	108
-嚼	dziak	108
 澎	bang1	108
 頃	khing2	108
 柿	zy2	108
-柿	dzy2	108
 酌	ciak	107
 煽	shie1	107
 蜷	gioe1	107
@@ -4221,7 +4120,6 @@ import_tables:
 擂	lei3	105
 擂	lei1	105
 薔	ziang1	104
-薔	dziang1	104
 艱	kae1	104
 檸	nang1	104
 檸	ning1	104
@@ -4364,7 +4262,6 @@ import_tables:
 抹	meh	84
 囂	hiau1	84
 嘈	zau1	84
-嘈	dzau1	84
 僻	phik	84
 耘	yun1	84
 喳	tzo1	83
@@ -4489,7 +4386,6 @@ import_tables:
 誡	ka3	70
 詣	ngi3	70
 慚	zae1	69
-慚	dzae1	69
 顎	ngok	69
 謁	ih	69
 拗	au3	69
@@ -4595,7 +4491,6 @@ import_tables:
 跛	pou2	59
 娉	phing3	59
 鷲	zieu3	59
-鷲	dzieu3	59
 潷	pih	59
 殃	iang1	58
 鑾	loe1	58
@@ -4627,7 +4522,6 @@ import_tables:
 懾	shih	56
 落	lok	56
 雋	zioe2	56
-雋	dzioe2	56
 翩	phie1	56
 倌	kuoe1	56
 讕	lae1	56
@@ -4672,7 +4566,6 @@ import_tables:
 哮	hau3	53
 蚤	tzau2	53
 疵	zy1	53
-疵	dzy1	53
 甌	eu1	53
 拇	meu2	53
 藹	ai3	53
@@ -4687,7 +4580,6 @@ import_tables:
 峙	jy2	52
 綬	zhieu2	52
 嫉	zih	52
-嫉	dzih	52
 瀆	duk	52
 幌	wong2	51
 闡	chie2	51
@@ -4735,7 +4627,6 @@ import_tables:
 癩	la3	48
 鍶	sung1	48
 沮	zi2	48
-沮	dziu2	48
 沮	tzi3	48
 沮	tziu3	48
 鈀	po1	47
@@ -4769,7 +4660,6 @@ import_tables:
 腩	ne2	44
 齶	ngok	44
 鍘	zah	44
-鍘	dzah	44
 劭	zhiau3	44
 翱	ngau1	44
 軻	khou1	44
@@ -4802,7 +4692,6 @@ import_tables:
 駟	sy3	43
 鉍	pi3	43
 酋	zieu1	43
-酋	dzieu1	43
 妊	nin3	43
 妊	zhin3	43
 訖	kih	43
@@ -4901,7 +4790,6 @@ import_tables:
 涪	veu1	34
 崛	giuh	34
 豺	za1	34
-豺	dza1	34
 懦	niu1	34
 懦	zhiu1	34
 麝	zhia3	33
@@ -4943,7 +4831,6 @@ import_tables:
 惻	tsik	31
 叵	phou2	31
 阱	zing2	31
-阱	dzing2	31
 罹	li1	31
 侈	chy2	31
 覲	gin3	31
@@ -5080,7 +4967,6 @@ import_tables:
 雎	tsi1	25
 雎	tsiu1	25
 查	zo1	24
-查	dza1	24
 查	tzo1	24
 查	tza1	24
 愜	khiah	24
@@ -5105,7 +4991,6 @@ import_tables:
 笆	po1	23
 胳	kok	23
 餞	zie2	23
-餞	dzie2	23
 袒	dae2	23
 鼾	hoe1	23
 獠	liau1	23
@@ -5143,7 +5028,6 @@ import_tables:
 荏	zhin2	21
 牘	duk	21
 咀	zi2	21
-咀	dziu2	21
 柞	tzok	20
 孌	lioe2	20
 孿	lioe1	20
@@ -5207,10 +5091,8 @@ import_tables:
 鐐	liau3	18
 懊	au3	18
 瘠	zik	18
-瘠	dzik	18
 汨	mik	18
 鶿	zy1	18
-鶿	dzy1	18
 齪	tsok	18
 謳	eu1	18
 詬	keu2	18
@@ -5220,7 +5102,6 @@ import_tables:
 嚨	lung1	18
 穌	su1	18
 嶄	zae2	17
-嶄	dzae2	17
 鍁	hie1	17
 鯰	niae1	17
 戧	tsong1	17
@@ -5235,9 +5116,7 @@ import_tables:
 娌	li2	17
 臂	pi3	17
 悴	ziu3	17
-悴	dzei3	17
 瘁	ziu3	17
-瘁	dzei3	17
 鱟	heu3	17
 忸	niuk	17
 嘸	mu2	17
@@ -5322,7 +5201,6 @@ import_tables:
 靦	thiae2	13
 瘢	boe1	13
 憔	ziau1	13
-憔	dziau1	13
 嘌	phiau1	13
 鳥	tiau2	13
 貊	mak	13
@@ -5514,7 +5392,6 @@ import_tables:
 鎩	sa3	7
 芥	ka3	7
 薺	zi2	7
-薺	dzi2	7
 拏	no1	6
 袈	ko1	6
 袷	kah	6
@@ -5555,7 +5432,6 @@ import_tables:
 鴣	ku1	6
 疰	ciu3	6
 齟	zu2	6
-齟	dzu2	6
 且	tsia2	5
 且	tsi2	5
 賈	ko2	5
@@ -5645,7 +5521,6 @@ import_tables:
 趵	pau3	3
 鐒	lau1	3
 皁	zau2	3
-皁	dzau2	3
 聱	ngau1	3
 氏	zhy2	3
 獼	mi1	3

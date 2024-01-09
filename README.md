@@ -1,22 +1,21 @@
 # RIME 標準吳語方案
 
-![](https://img.shields.io/github/license/saeziae/rime_nguphing?style=flat-square)
-![](https://img.shields.io/github/v/release/saeziae/rime_nguphing?style=flat-square)
-[![Download](https://img.shields.io/github/downloads/saeziae/rime_nguphing/total?style=flat-square)](https://github.com/saeziae/rime_nguphing/releases/latest)
+![](https://img.shields.io/github/license/saeziae/rime_nguphing?style=for-the-badge)
+<a href="https://github.com/saeziae/rime_nguphing/issues"><img src="https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/rime/rime-cantonese/releases"><img src="https://img.shields.io/github/v/release/saeziae/rime_nguphing?color=38618c&label=RELEASE&style=for-the-badge"/></a>
 
-用扗 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是標準吳語。
+用扗 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是所謂个標準吳語。
 
 适用于 [RIME](https://rime.im/) 的吴语输入法。采用标准化的吴语音系。
 
 A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.im/) engine.
 
-測試反饋群：
-
-- [![Telegram群@nguphing](https://img.shields.io/static/v1?color=blue&label=Telegram群&logo=Telegram&message=833433703&style=flat-square)](https://t.me/nguphing) （主要）
+測試反饋：[![Telegram群@nguphing](https://img.shields.io/static/v1?color=blue&label=Telegram群&logo=Telegram&message=@nguphing&style=flat-square)](https://t.me/nguphing) 
 
 裏向包括：
 
 - nguphing 標準吳語
+- nguphin-yaehwei 標準吳語 吳語協會式拼寫
 - nguphing-soochow 標準吳語 蘇州音系 （弗建議）
 - nguphing-shanghai 標準吳語 上海音系 （弗建議）
 
@@ -28,7 +27,16 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 
 ## [>拼音體系](romanization.md)
 
-## [捐助](https://github.com/saeziae/rime_nguphing)
+## 詞彙庫
+
+- [x] 自編詞彙（標吳形式）
+- [x] 蘇州詞庫《蘇州方言研究》（汪平）
+- [x] 地名詞庫（上海、蘇南、浙江） 
+- [x] 《明清吴语词典》（石汝杰、宮田一郎）
+- [ ] （計畫）《寧波方言字語彙解》（睦禮遜 Morrison）
+- [ ] （計畫）《上海话大辞典》（錢乃榮等）
+- [ ] （計畫）《寧波方言詞典》（湯珍珠等）
+- [ ] （計畫）《無錫方言詞典》（項行）
 
 ## 感謝
 
@@ -39,3 +47,5 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 - 優秀个先生対前輩對吳語个研究
 - 幫助調試个朋友道裏
 - 每一位傳承與保護吳語个人
+
+## [捐助](https://github.com/saeziae/rime_nguphing)

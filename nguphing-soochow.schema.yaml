@@ -3,7 +3,7 @@
 schema:
   schema_id: nguphing-soochow
   name: 吳語拼音·蘇州
-  version: "20230106"
+  version: "20230109"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -64,8 +64,6 @@ speller:
     - xform/([^aeioy])u$/$1ou/ #古
     - xform/(ph?|b|m|f|v)ou/$1u/ #布
     - xform/(th?|n|l|s|z)ieu/$1eu/ #留
-    - xform/ui$/iu/
-    - xform/wi$/yu/
     - xform/ae$/e/ #麪、慢
     - xform/[ae]i/e/ #愛、梅
     - derive/au/ae/
@@ -89,10 +87,14 @@ speller:
     - xform/dz/z/
     - xform/([iy])oh/$1uh/ #月
     - xform/oh/eh/ #潑
+    # 團音替代寫法
+    - derive/ki/ci/
+    - derive/khi/chi/
     - derive/khi/qi/
     - derive/gi/ji/
+    - derive/^hi/shi/
     - derive/^hi/xi/
-    - derive/(ng)(h?)i/n$2i/
+    - xform/(ng)(h?)i/n$2i/
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkg]h).+$/$1/
     - abbrev/^(ts|tz|ng).+$/$1/

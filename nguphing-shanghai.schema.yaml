@@ -3,7 +3,7 @@
 schema:
   schema_id: nguphing-shanghai
   name: 吳語拼音·上海
-  version: "20230106"
+  version: "20230109"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -61,8 +61,6 @@ speller:
     - "xform/'//"
     - xform/[1234]$//
     - xform/ou$/u/ #果
-    - xform/ui$/iu/
-    - xform/wi$/yu/
     - xform/ae$/e/ #麪、慢
     - xform/[ae]i/e/ #愛、梅
     - xform/ye$/yi/ #煙
@@ -90,8 +88,9 @@ speller:
     ###尖團不分
     - xform/(tz|k)i/ci/
     - xform/(ts|kh)i/qi/
-    - derive/gi/ji/
+    - xform/gi/ji/
     - xform/^(s|h)i/xi/
+    - derive/qi/chi/
     - derive/zi/ri/
     - derive/(ng)(h?)i/n$2i/
     - abbrev/^([a-z]).+$/$1/
@@ -101,7 +100,40 @@ speller:
 translator:
   dictionary: nguphing
   prism: nguphing-shanghai
-  spelling_hints: 0
+  spelling_hints: 5
+  comment_format:
+    - "xform/'//"
+    - xform/[1234]$//
+    - xform/ou$/u/ #果
+    - xform/ae$/e/ #麪、慢
+    - xform/[ae]i/e/ #愛、梅
+    - xform/ye$/yi/ #煙
+    - xform/ah/ak/ #襪、八
+    - xform/([ie])ng/$1n/
+    - xform/([ie])k/$1h/
+    - xform/(!i)e$/$1oe/ #暗、感
+    - xform/ok/uk/ #握
+    - xform/(kh?|g|ngh?)o$/$1a/ #家
+    - xform/ong/ang/ #an aon 弗分
+    #處理章組
+    - xform/(ch?|j|sh|zh)ie$/$1oe/ #扇
+    - xform/(ch?|j|sh|zh)i([^aeiou]+)/$1ie$2/
+    - xform/(ch?|j|sh|zh)iu?$/$1y/
+    - xform/(ch?|j|sh|zh)i/$1/
+    - xform/u(n|h)$/e$1/
+    - xform/([sz])h/$1/
+    - xform/ch/ts/
+    - xform/j/z/
+    - xform/c/tz/
+    - xform/dz/z/
+    - xform/ie$/i/ #煙
+    - xform/([iy])oh/$1uh/ #月
+    - xform/oh/eh/ #潑
+    ###尖團不分
+    - xform/(tz|k)i/ci/
+    - xform/(ts|kh)i/qi/
+    - xform/gi/ji/
+    - xform/^(s|h)i/xi/
 
 punctuator:
   import_preset: symbols # 句讀處理器

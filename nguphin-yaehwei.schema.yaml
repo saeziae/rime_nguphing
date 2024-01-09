@@ -2,14 +2,14 @@
 # encoding: utf-8
 
 schema:
-  schema_id: nguphing
-  name: 吳語拼音
+  schema_id: nguphin-yaehwei
+  name: 吳語拼音·吳協式
   version: "20240109"
   author:
     - 山前 <i@estela.moe>
   description: |
     * 標準吳語
-    * R/X/Q 代表平上去
+    * 使用吳語協會拼法
   dependencies:
     - luna_pinyin #反查
 
@@ -51,7 +51,7 @@ engine:
 
 speller:
   alphabet: "xrzywvutsqponmlkjihgfedcba"
-  delimiter: " ';"
+  delimiter: " '"
   algebra:
     # xform/  - 改寫（替換，弗共存）
     # derive  - 衍生（共存，單向模糊音）
@@ -67,6 +67,9 @@ speller:
     - xform/2/x/
     - xform/3/q/
     - xform/4//
+    # ui偉 讀作 iu與
+    - derive/ui/iu/
+    - derive/wi([qxr])$/yu$1/
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
     # 前後鼻音 弗分
@@ -76,7 +79,7 @@ speller:
     - derive/en([qxr])$/eng$1/
     # ie淹 iae煙 弗分
     - derive/([iy])ae([qxr])$/$1e$2/
-    - derive/([iy])e([qxr])$/$1ae$2/
+    - derive/([iy])e([qxr])$/$1ae$1/
     # eh褐 ek劾 弗分
     - derive/ek$/eh/
     - derive/eh$/ek/
@@ -92,79 +95,55 @@ speller:
     - derive/^j/zh/
     # l m n 清音簡化
     - derive/^([lmn])h/$1/
-    # 弗打聲調
-    - derive/([qxr])$//
+    # 吳語協會式
+    - xform/[qrx]$//
+    - xform/ts/tsh/
+    - xform/tz/tz/
+    # oe ae 入聲寫法
+    - xform/oh/oeh/
+    - xform/ah/aeh/
+    # ng/k 系寫法
+    - xform/uk/oh/
+    - xform/ung/on/
+    - xform/ok/aoh/
+    - xform/ong/aon/
+    - xform/ek/eoh/
+    - xform/eng/eon/
+    - xform/ik/ieoh/
+    - xform/ing/ieon/
+    - xform/ak/ah/
+    - xform/ang/an/
+    - xform/iun/iuin/
+    - xform/iuh/iuih/
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/
-    - abbrev/^(ts|tz|dz|ng).+$/$1/
+    - abbrev/^(ts|tsh|dz|ng).+$/$1/
 
 translator:
   dictionary: nguphing
+  prism: nguphin-yaehwei
   spelling_hints: 5
-  preedit_format:
-    - xform/([aeiou])ng([xrq])/$1$2ng/
-    - xform/([eiu])n([xrq])/$1$2n/
-    - xform/([ao])e([xrq])/$1$2e/
-    - xform/([ae])i([xrq])/$1$2i/
-    - xform/([aeo])u([xrq])/$1$2u/
-    - xform/ax/à/
-    - xform/aq/á/
-    - xform/ar/ā/
-    - xform/ex/è/
-    - xform/eq/é/
-    - xform/er/ē/
-    - xform/ox/ò/
-    - xform/oq/ó/
-    - xform/or/ō/
-    - xform/ix/ì/
-    - xform/iq/í/
-    - xform/ir/ī/
-    - xform/ux/ù/
-    - xform/uq/ú/
-    - xform/ur/ū/
-    - xform/yx/ỳ/
-    - xform/yq/ý/
-    - xform/yr/ȳ/
-    - xform/ngx/ǹg/
-    - xform/ngq/ńg/
-    - xform/ngr/n̄g/
-    - xform/mx/m̀/
-    - xform/mq/ḿ/
-    - xform/mr/m̄/
-    - "xform/;/'/"
-
   comment_format:
-    - xform/4//
-    - xform/([aeiou])ng([123])/$1$2ng/
-    - xform/([eiu])n([123])/$1$2n/
-    - xform/([ao])e([123])/$1$2e/
-    - xform/([ae])i([123])/$1$2i/
-    - xform/([aeo])u([123])/$1$2u/
-    - xform/a2/à/
-    - xform/a3/á/
-    - xform/a1/ā/
-    - xform/e2/è/
-    - xform/e3/é/
-    - xform/e1/ē/
-    - xform/o2/ò/
-    - xform/o3/ó/
-    - xform/o1/ō/
-    - xform/i2/ì/
-    - xform/i3/í/
-    - xform/i1/ī/
-    - xform/u2/ù/
-    - xform/u3/ú/
-    - xform/u1/ū/
-    - xform/y2/ỳ/
-    - xform/y3/ý/
-    - xform/y1/ȳ/
-    - xform/ng2/ǹg/
-    - xform/ng3/ńg/
-    - xform/ng1/n̄g/
-    - xform/m2/m̀/
-    - xform/m3/ḿ/
-    - xform/m1/m̄/
-
+    # 吳語協會式
+    - xform/[1234]//
+    - xform/ts/tsh/
+    - xform/tz/tz/
+    # oe ae 入聲寫法
+    - xform/oh/oeh/
+    - xform/ah/aeh/
+    # ng/k 系寫法
+    - xform/uk/oh/
+    - xform/ung/on/
+    - xform/ok/aoh/
+    - xform/ong/aon/
+    - xform/ek/eoh/
+    - xform/eng/eon/
+    - xform/ik/ieoh/
+    - xform/ing/ieon/
+    - xform/ak/ah/
+    - xform/ang/an/
+    - xform/iun/iuin/
+    - xform/iuh/iuih/
 punctuator:
   import_preset: symbols_wu
 

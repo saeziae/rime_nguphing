@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/saeziae/rime_nguphing?style=for-the-badge)
 [![Welcome to contribute](https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github)](https://github.com/saeziae/rime_nguphing/issues)
-[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/pack-trime.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](https://kawaii.estela.moe/a52f87782e563a4e5e915220603ede08)
+[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/trime-datapack.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](https://kawaii.estela.moe/a52f87782e563a4e5e915220603ede08)
 
 用扗 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是所謂个標準吳語。
 
@@ -105,7 +105,7 @@ curl -fsSL https://git.io/rime-install | rime_frontend=fcitx-rime bash -s -- cus
 
 從該許下載數據包，解壓到手機內部存儲空間个 `rime` 目錄。
 
-[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/pack-trime.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](https://kawaii.estela.moe/a52f87782e563a4e5e915220603ede08)
+[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/trime-datapack.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](https://kawaii.estela.moe/a52f87782e563a4e5e915220603ede08)
 
 ## [>用字標準](standard.md)
 

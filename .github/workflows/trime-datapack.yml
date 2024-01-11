@@ -17,5 +17,5 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: nguphing-datapack-${{ github.run_id }}.zip
-          path: build/nguphing-datapack.zip
+          name: nguphing-datapack-${{ github.run_id }}
+          path: build/*

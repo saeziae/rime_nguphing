@@ -131,5 +131,3 @@ curl -fsSL https://git.io/rime-install | rime_frontend=fcitx-rime bash -s -- cus
 - 優秀个先生対前輩對吳語个研究
 - 幫助調試个朋友道裏
 - 每一位傳承與保護吳語个人
-
-## [捐助](https://github.com/saeziae/rime_nguphing)

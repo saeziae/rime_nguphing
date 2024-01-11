@@ -1,0 +1,21 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run deployment script
+        run: bash scripts/pack-trime.sh
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-artifact
+          path: build/nguphing-datapack.zip

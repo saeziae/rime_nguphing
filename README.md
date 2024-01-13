@@ -10,7 +10,13 @@
 
 A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.im/) engine.
 
-測試反饋：[![Telegram群@nguphing](https://img.shields.io/static/v1?color=blue&label=Telegram群&logo=Telegram&message=@nguphing&style=flat-square)](https://t.me/nguphing)
+<div align="center">
+
+[![安裝教程](https://img.shields.io/badge/安裝教程-37a779?style=for-the-badge)](https://nguphing.estela.moe#install)
+
+</div>
+
+歡迎加入用戶交流羣 [![Telegram群@nguphing](https://img.shields.io/static/v1?color=blue&label=Telegram群&logo=Telegram&message=@nguphing&style=flat-square)](https://t.me/nguphing)
 
 裏向包括：
 
@@ -18,94 +24,6 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 - nguphin-yaehwei 標準吳語 吳語協會式拼寫
 - nguphing-soochow 標準吳語 蘇州音系 （弗建議）
 - nguphing-shanghai 標準吳語 上海音系 （弗建議）
-
-## 安裝
-
-### Windows
-
-- 在扗開始菜單裏丄或者狀態欄个「ㄓ」圖標个右擊菜單裏丄揀「輸入法設定」
-- 在彈出个窗口裏撳 「獲取更多輸入方案…」
-- 然後在彈出个界面，輸入 `saeziae/rime_nguphing`，然後撳 Enter
-- 關脫「Rime package installer」个窗口，回到「輸入法設定」個版面，勾選「吳語拼音」，然後撳「中」
-- 修改或者弗修改配色，再撳「中」完成設定
-- 在扗開始菜單裏丄或者狀態欄个「ㄓ」圖標个右擊菜單裏丄撳「重新部署」
-- 撳 <kbd>Ctrl</kbd> 対 <kbd>`</kbd>，就可以見到「吳語拼音」哉
-
-### MacOS, ibus on Linux
-
-頭一次使用請先運行迭隻命令來獲取依賴文件：
-
-```bash
-curl -fsSL https://git.io/rime-install | bash -s -- :preset
-```
-
-運行下頭个命令來安裝或更新：
-
-```bash
-curl -fsSL https://git.io/rime-install | bash -s -- saeziae/rime_nguphing
-```
-
-請在 `default.yaml` 中增加輸入法；或者如果尔弗懂並且只需要使用吳語，請使用以下个自動命令：
-
-```bash
-curl -fsSL https://git.io/rime-install | bash -s -- custom:clear_schema_list custom:schema=nguphing custom:schema=nguphin-yaehwei custom:schema=luna_pinyin
-```
-
-- 其中 MacOS 可能會彈出叫尔安裝 git，要撳允許。Linux 一般有 git，如果嘸沒，請按照尔發行版个說明安裝。
-- 運行着之後重新部署。
-- 撳 <kbd>Ctrl/Control</kbd> 対 <kbd>`</kbd>，就可以見到「吳語拼音」哉
-
-### fcitx5 on Linux
-
-頭一次使用請先運行迭隻命令來獲取依賴文件：
-
-```bash
-curl -fsSL https://git.io/rime-install | rime_frontend=fcitx5-rime bash -s -- :preset
-```
-
-運行下頭个命令來安裝或更新：
-
-```bash
-curl -fsSL https://git.io/rime-install | rime_frontend=fcitx5-rime bash -s -- saeziae/rime_nguphing
-```
-
-請在 `default.yaml` 中增加輸入法；或者如果尔弗懂並且只需要使用吳語，請使用以下个自動命令：
-
-```bash
-curl -fsSL https://git.io/rime-install | rime_frontend=fcitx5-rime bash -s -- custom:clear_schema_list custom:schema=nguphing custom:schema=nguphin-yaehwei custom:schema=luna_pinyin
-```
-
-- 運行着之後重新部署。
-- 撳 <kbd>Ctrl</kbd> 対 <kbd>`</kbd>，就可以見到「吳語拼音」哉
-
-### fcitx on Linux
-
-頭一次使用請先運行迭隻命令來獲取依賴文件：
-
-```bash
-curl -fsSL https://git.io/rime-install | rime_frontend=fcitx-rime bash -s -- :preset
-```
-
-運行下頭个命令來安裝或更新：
-
-```bash
-curl -fsSL https://git.io/rime-install | rime_frontend=fcitx-rime bash -s -- saeziae/rime_nguphing
-```
-
-請在 `default.yaml` 中增加輸入法；或者如果尔弗懂並且只需要使用吳語，請使用以下个自動命令：
-
-```bash
-curl -fsSL https://git.io/rime-install | rime_frontend=fcitx-rime bash -s -- custom:clear_schema_list custom:schema=nguphing custom:schema=nguphin-yaehwei custom:schema=luna_pinyin
-```
-
-- 運行着之後重新部署。
-- 撳 <kbd>Ctrl </kbd> 対 <kbd>`</kbd>，就可以見到「吳語拼音」哉
-
-### TRIME (Android)
-
-從該許下載數據包，解壓到手機內部存儲空間个 `rime` 目錄。
-
-[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/trime-datapack.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](https://kawaii.estela.moe/a52f87782e563a4e5e915220603ede08)
 
 ## [>用字標準](standard.md)
 

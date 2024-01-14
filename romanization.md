@@ -65,7 +65,13 @@ Romanization system
 | ek     | ik   | uek    |
 | 塞得   | 益覓 | 國或   |
 | ung    | iung |        |
-| 翁東   | 用中 |     1冬        | 懂    | 凍    | 督   |
+| 翁東   | 用中 |        |
+| uk     | iuk  |        |
+| 屋木   | 郁菊 |        |
+
+| 聲調             |           |       |       |      |
+| ---------------- | --------- | ----- | ----- | ---- |
+| 陰               | 冬        | 懂    | 凍    | 督   |
 | 上標法           | tūng/tung | tùng  | túng  | tuk  |
 | 後綴法（鍵盤用） | tungr     | tungx | tungq | tuk  |
 | 數字法           | tung1     | tung2 | tung3 | tuk  |

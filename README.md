@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/saeziae/rime_nguphing?style=for-the-badge)
 [![Welcome to contribute](https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github)](https://github.com/saeziae/rime_nguphing/issues)
-[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/trime-datapack.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](nguphing.estela.moe/latest)
+[![GitHub Workflow](https://img.shields.io/github/actions/workflow/status/saeziae/rime_nguphing/trime-datapack.yml?label=%E5%B0%81%E8%A3%9D%E7%A8%8B%E5%BC%8F&logo=github&style=for-the-badge)](https://nguphing.estela.moe/latest)
 
 用扗 [RIME](https://rime.im/) 上頭个吳語輸入法。用个是所謂个標準吳語。
 
@@ -12,7 +12,7 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 
 <div align="center">
 
-[![安裝教程](https://img.shields.io/badge/安裝教程-37a779?style=for-the-badge)](https://nguphing.estela.moe#install)
+[![安裝教程](https://img.shields.io/badge/安裝教程-37a779?style=for-the-badge)](https://nguphing.estela.moe/#install)
 
 </div>
 

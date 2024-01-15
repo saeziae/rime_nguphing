@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240111"
+version: "20240115"
 sort: by_weight
 ...
 个	keh
@@ -52,6 +52,7 @@ sort: by_weight
 個	keh
 個	kou3
 箇	kou3
+箇	geh
 看	khoe3
 中	ciung3
 中	ciung1
@@ -101,7 +102,7 @@ sort: by_weight
 將	tziang1
 時	zhy1
 但	dae2
-拉	la
+拉	la1
 倷	na1
 倷	nha1
 過	kou3
@@ -5432,7 +5433,7 @@ sort: by_weight
 且	tsi2
 賈	ko2
 跏	ko1
-搿	gheh
+搿	geh
 忐	the2
 腳	kiak
 臠	lioe2
@@ -6494,3 +6495,4 @@ sort: by_weight
 𰚂	la3
 僽	
 𱟓	
+粢	tsy1

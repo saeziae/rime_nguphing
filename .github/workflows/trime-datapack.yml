@@ -1,9 +1,12 @@
 name: Deploy
 
 on:
+  schedule:
+  - cron: "0 8 * * 1" #每週構建
   push:
-    branches:
-      - master
+    paths:
+      - '*.yaml'
+
 
 jobs:
   deploy:

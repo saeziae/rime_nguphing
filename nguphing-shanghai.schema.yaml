@@ -32,7 +32,6 @@ speller:
     - xform/ah/ak/ #襪、八
     - xform/([ie])ng/$1n/
     - xform/([ie])k/$1h/
-    - xform/eh/ak/
     - xform/(!i)e($| |r)/$1oe$2/ #暗、感
     - xform/ok/uk/ #握
     - xform/(kh?|g|ngh?)o($| |r)/$1a$2/ #家
@@ -51,12 +50,14 @@ speller:
     - xform/ie/i/ #煙
     - xform/([iy])oh/$1uh/ #月
     - xform/oh/eh/ #潑
+    - xform/eh/ak/
     ###尖團不分
     - xform/(ng)(h?)i/n$2i/
     - xform/(tz|k)i/ci/
     - xform/(ts|kh)i/Ci/
     - xform/(dz|g)i/ji/
-    - xform/(s|h)i/shi/
+    - xform/si/shi/
+    - xform/(^| )hi/shi/
     - xform/zi/zhi/
     - xform/C/ch/
     ###聲調
@@ -96,7 +97,6 @@ translator:
     - xform/ah/ak/ #襪、八
     - xform/([ie])ng/$1n/
     - xform/([ie])k/$1h/
-    - xform/eh/ak/
     - xform/(!i)e($| |r)/$1oe$2/ #暗、感
     - xform/ok/uk/ #握
     - xform/(kh?|g|ngh?)o($| |r)/$1a$2/ #家
@@ -115,12 +115,14 @@ translator:
     - xform/ie/i/ #煙
     - xform/([iy])oh/$1uh/ #月
     - xform/oh/eh/ #潑
+    - xform/eh/ak/
     ###尖團不分
     - xform/(ng)(h?)i/n$2i/
     - xform/(tz|k)i/ci/
     - xform/(ts|kh)i/Ci/
     - xform/(dz|g)i/ji/
-    - xform/(s|h)i/shi/
+    - xform/si/shi/
+    - xform/(^| )hi/shi/
     - xform/zi/zhi/
     - xform/C/ch/
     ###聲調

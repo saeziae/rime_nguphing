@@ -1,0 +1,74 @@
+# Rime schema
+# encoding: utf-8
+
+__include: nguphing.schema:/
+
+schema:
+  schema_id: nguphing-ipa
+  name: 吳語拼音·IPA
+  version: "20240116"
+  author:
+    - 山前 <i@estela.moe>
+  description: |
+    * 標準吳語
+    * IPA个 preedit 対 comment 輸出
+
+translator:
+  dictionary: nguphing
+  spelling_hints: 10
+  comment_format: &ipa
+    - xlit|rqx|123|
+    - xform/([ptkc])h/$1ʰ/
+    - xform/el/ɦɚ/
+    - xform/ts/tsʰ/
+    - xform/tz/ts/
+    - xform/dz/dz/
+    - xform/c/tɕ/
+    - xform/j/dʑ/
+    - xform/sh/ɕ/
+    - xform/zh/ʑ/
+    - xform/y([aueo])/ghi$1/
+    - xform/yi/ghi/
+    - xform/w([aieo])/ghu$1/
+    - xform/wu/ghu/
+    - xform/gh/ɦ/
+    - xform/ng/ŋ/
+    - xform/g/ɡ/
+    - xform/ni/nʲi/
+    - xform/(^| )([aiueo])/$1ʔ$2/
+    - xform/(l|m|ng)h/ʔ$1/
+    - xform/y/ɿ/
+    - xform/iu/y/
+    - xform/yn/yŋ/
+    - xform/yn/yʔ/
+    - xform/iŋ/ieŋ/
+    - xform/ik/iek/
+    - xform/([iu])([aeo])/$1̯$2/ #介音
+    - xform/in/iŋ/
+    - xform/en/əŋ/
+    - xform/ih/iʔ/
+    - xform/eh/əʔ/
+    - xform/eŋ/ʌŋ/
+    - xform/ek/ʌʔ/
+    - xform/uŋ/Uŋ/
+    - xform/uk/Uʔ/
+    - xform/oŋ/ɔ̃/
+    - xform/ok/ɔʔ/
+    - xform/U/o/
+    - xform/aŋ/ã/
+    - xform/ak/aʔ/
+    - xform/ae/ɛ/
+    - xform/ah/ɛʔ/
+    - xform/oe/ø/
+    - xform/oh/øʔ/
+    - xform/au/ɔ/
+    - xform/eu/ɤ/
+    - xform/ou/əʊ/
+    - xform/ʔ($| )/ʔ1$1/
+    - xform/((^| )[ptkhʔfsɕ][^ ]+[123])/$1X/
+    - xform/1X/˦/
+    - xform/2X/˥˧/
+    - xform/3X/˧˥/
+    - xform/1/˨/
+    - xform/2/˧˩/
+    - xform/3/˩˧/

@@ -1,54 +1,18 @@
 # Rime schema
 # encoding: utf-8
+
+__include: nguphing.schema:/
+
 schema:
   schema_id: nguphing-soochow
   name: 吳語拼音·蘇州
-  version: "20230109"
+  version: "20230116"
   author:
     - 山前 <i@estela.moe>
   description: |
     吳語拼音、轉換成蘇州音系
-  dependencies:
-    - luna_pinyin
-
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: [吳語, 洋文]
-  - name: full_shape
-    states: [半角, 全角]
-  - name: ascii_punct
-    states: [句讀, 符號]
-  - name: simplification
-    states: [漢字, 汉字]
-
-engine:
-  processors:
-    - ascii_composer
-    - recognizer
-    - key_binder
-    - speller
-    - punctuator
-    - selector
-    - navigator
-    - express_editor
-  segmentors:
-    - ascii_segmentor
-    - matcher
-    - abc_segmentor
-    - punct_segmentor
-    - fallback_segmentor
-  translators:
-    - punct_translator
-    - reverse_lookup_translator
-    - script_translator
-  filters:
-    - simplifier
-    - uniquifier
 
 speller:
-  alphabet: "xrzywvutsqponmlkjihgfedcba"
-  delimiter: " '"
   algebra:
     # xform/  - 改寫（替換，弗共存）
     # derive  - 衍生（共存，單向模糊音）
@@ -79,7 +43,6 @@ speller:
     - xform/(ch?|j|sh|zh)iu?$/$1y/
     - xform/(ch?|j|sh|zh)y$/$1yu/
     - xform/(ch?|j|sh|zh)i/$1/
-    - xform/u(n|h)$/e$1/
     - xform/([sz])h/$1/
     - xform/ch/ts/
     - xform/j/z/
@@ -103,25 +66,10 @@ translator:
   dictionary: nguphing
   prism: nguphing-soochow
   spelling_hints: 0
+  comment_format: &cf
 
 punctuator:
   import_preset: symbols # 句讀處理器
 
 reverse_lookup:
-  dictionary: luna_pinyin
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
-
-key_binder:
-  import_preset: default
-
-recognizer:
-  import_preset: default
-  patterns:
-    reverse_lookup: "`[a-z]*'?$"
-    punct: "^/([0-9]0?|[A-Za-z]+)$"
+  comment_format: *cf

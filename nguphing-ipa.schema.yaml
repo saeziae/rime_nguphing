@@ -39,11 +39,12 @@ translator:
     - xform/(l|m|ng)h/ʔ$1/
     - xform/y/ɿ/
     - xform/iu/y/
+    - xform/y(ŋ|k)/iu$1/
     - xform/yn/yŋ/
-    - xform/yn/yʔ/
+    - xform/yh/yʔ/
     - xform/iŋ/ieŋ/
     - xform/ik/iek/
-    - xform/([iu])([aeo])/$1̯$2/ #介音
+    - xform/([iu])([aiueo])/$1̯$2/ #介音
     - xform/in/iŋ/
     - xform/en/əŋ/
     - xform/ih/iʔ/

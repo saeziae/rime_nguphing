@@ -22,12 +22,13 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 
 - nguphing 標準吳語
 - nguphin-yaehwei 標準吳語 吳語協會式拼寫
+- nguphing-ipa 提示詞使用國際音標
 - nguphing-soochow 標準吳語 蘇州音系 （弗建議）
 - nguphing-shanghai 標準吳語 上海音系 （弗建議）
 
-## [>用字標準](standard.md)
+## [>用字標準](https://github.com/DINISHING/standards/tree/main/othography)
 
-## [>拼音體系](romanization.md)
+## [>拼音體系](https://github.com/DINISHING/standards/blob/main/phonetics/phonology.md)
 
 ## 詞彙庫
 
@@ -35,7 +36,7 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 - [x] 蘇州詞庫《蘇州方言研究》（汪平）
 - [x] 地名詞庫（上海、蘇南、浙江）
 - [x] 《明清吴语词典》（石汝杰、宮田一郎）
-- [ ] （WIP）《上海話課本》詞彙（蔔舫濟 Hawks Pott）
+- [ ] （WIP）《上海話課本》詞彙（卜舫濟 Hawks Pott）
 - [ ] （計畫）《上海方言字彙》（Joseph Edkins）
 - [ ] （計畫）《上海方言英華字彙》（上海教會方言會）
 - [ ] （計畫）《寧波方言字語彙解》（睦禮遜 Morrison）

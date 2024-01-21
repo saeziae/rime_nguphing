@@ -30,12 +30,14 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 
 ## [>拼音體系](https://github.com/DINISHING/standards/blob/main/phonetics/phonology.md)
 
-## 詞彙庫
+## 字音、詞彙庫
+
+詞庫維護方式已遷移到 [DINISHING/vocabulary](https://github.com/DINISHING/vocabulary)，任何字音詞彙問題請到此倉庫反映。
 
 - [x] 自編詞彙（標吳形式）
 - [x] 蘇州詞庫《蘇州方言研究》（汪平）
 - [x] 地名詞庫（上海、蘇南、浙江）
-- [x] 《明清吴语词典》（石汝杰、宮田一郎）
+- [x] 《明清吳語詞典》（石汝杰、宮田一郎）
 - [x] 《上海話課本》詞彙（卜舫濟 Hawks Pott）
 - [ ] （計畫）《上海方言字彙》（Joseph Edkins）
 - [ ] （計畫）《上海方言英華字彙》（上海教會方言會）

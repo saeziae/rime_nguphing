@@ -6,7 +6,7 @@ __include: nguphing.schema:/
 schema:
   schema_id: nguphing-ipa
   name: 吳語拼音·IPA
-  version: "20240116"
+  version: "20240120"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -14,7 +14,6 @@ schema:
     * IPA个 preedit 対 comment 輸出
 
 translator:
-  dictionary: nguphing
   spelling_hints: 10
   comment_format: &ipa
     - xlit|rqx|123|

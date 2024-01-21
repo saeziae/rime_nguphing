@@ -1,0 +1,17 @@
+# Rime schema
+# encoding: utf-8
+
+__include: nguphing.schema:/
+
+schema:
+  schema_id: nguphing-hiunduk
+  name: 吳語拼音·訓讀
+  version: "20240120"
+  author:
+    - 山前 <i@estela.moe>
+  description: |
+    * 標準吳語
+    * 包括官話白話文訓讀
+
+translator:
+  dictionary: nguphing-hiunduk

@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240117"
+version: "20240121"
 sort: by_weight
 ...
 个	keh
@@ -10,8 +10,8 @@ sort: by_weight
 是	zy2
 在	lai2
 在	zai2
-尔	ni2
 尔	ng2
+尔	ni2
 你	ni2
 的	tik
 対	tah
@@ -57,9 +57,9 @@ sort: by_weight
 中	ciung3
 中	ciung1
 呢	ni1
+呢	ne1
 來	lai1
 嗎	ma3
-嗎	mak
 爲	yu3
 爲	wei3
 爲	yu1
@@ -143,7 +143,6 @@ sort: by_weight
 於	yu1
 太	tha3
 嘛	ma1
-嘛	mak
 號	ghau3
 日	nih
 日	zhih
@@ -213,7 +212,7 @@ sort: by_weight
 事	zy3
 隻	ciak
 只	cy2
-只	cik2
+只	cih
 拿	no1
 拿	na1
 帶	ta3
@@ -229,12 +228,10 @@ sort: by_weight
 成	zhing1
 換	woe3
 無	mu1
-無	m1
 嘸	m1
 無	vu1
 嗯	en1
 哪	nou1
-哪	nei1
 哪	na1
 回	wei1
 迴	wei1
@@ -288,9 +285,9 @@ sort: by_weight
 講	kong2
 殺	sah
 組	tzu2
-乾	gie1
 幹	koe3
 乾	koe1
+乾	gie1
 干	koe1
 錯	tsok
 軋	ah
@@ -1401,6 +1398,7 @@ sort: by_weight
 抄	tsau1
 宜	ngi1
 蔣	tziang1
+蔣	tziang2
 核	ghak
 覈	ghak
 維	yu1

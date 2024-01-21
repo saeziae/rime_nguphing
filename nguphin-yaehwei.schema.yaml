@@ -1,57 +1,19 @@
 # Rime schema
 # encoding: utf-8
 
+__include: nguphing.schema:/
+
 schema:
   schema_id: nguphin-yaehwei
   name: 吳語拼音·吳協式
-  version: "20240109"
+  version: "20240120"
   author:
     - 山前 <i@estela.moe>
   description: |
     * 標準吳語
     * 使用吳語協會拼法
-  dependencies:
-    - luna_pinyin #反查
-
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: [漢字, 洋文]
-  - name: full_shape
-    states: [半角, 全角]
-  - name: ascii_punct
-    states: [句讀, 符號]
-  - name: simplification
-    states: [漢字, 汉字]
-
-engine:
-  processors:
-    - ascii_composer
-    - recognizer
-    - key_binder
-    - speller
-    - punctuator
-    - selector
-    - navigator
-    - express_editor
-  segmentors:
-    - ascii_segmentor
-    - matcher
-    - abc_segmentor
-    - punct_segmentor
-    - fallback_segmentor
-  translators:
-    - punct_translator
-    - table_translator@custom_phrase
-    - reverse_lookup_translator
-    - script_translator
-  filters:
-    - simplifier
-    - uniquifier
 
 speller:
-  alphabet: "xrzywvutsqponmlkjihgfedcba"
-  delimiter: " '"
   algebra:
     # xform/  - 改寫（替換，弗共存）
     # derive  - 衍生（共存，單向模糊音）
@@ -120,11 +82,8 @@ speller:
     - abbrev/^(ts|tsh|dz|ng).+$/$1/
 
 translator:
-  dictionary: nguphing
   prism: nguphin-yaehwei
-  spelling_hints: 5
-  comment_format:
-    # 吳語協會式
+  comment_format: &cf # 吳語協會式
     - xform/[1234]//
     - xform/ts/tsh/
     - xform/tz/tz/
@@ -144,32 +103,6 @@ translator:
     - xform/ang/an/
     - xform/iun/iuin/
     - xform/iuh/iuih/
-punctuator:
-  import_preset: symbols_wu
-
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
 
 reverse_lookup:
-  dictionary: luna_pinyin
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
-
-key_binder:
-  import_preset: default
-
-recognizer:
-  import_preset: default
-  patterns:
-    reverse_lookup: "`[a-z]*'?$"
-    punct: "^/([0-9]0?|[A-Za-z]+)$"
+  comment_format: *cf

@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.word
-version: "20240121"
+version: "20240123"
 sort: by_weight
 ...
 #蘇州詞彙
@@ -33,7 +33,6 @@ sort: by_weight
 陣頭響	
 空陣頭	
 天打	
-豁閃	hueh shie2
 落雨	
 小雨	
 毛毛雨	
@@ -1269,7 +1268,6 @@ sort: by_weight
 青邊碗	
 盆子	
 酒盅	
-筷兒	khua3 ng1
 筷箸籠	
 鑊子	
 刮鑊子	
@@ -2759,11 +2757,6 @@ sort: by_weight
 彎場	
 歸場	
 箇場	
-寔介	zhih ka3
-寔介兒	zhih kang3
-箇佬	
-如何	na1 ha1
-幾許	ki2 ho2
 幾時	
 啥辰光	
 幾點鐘啥人	

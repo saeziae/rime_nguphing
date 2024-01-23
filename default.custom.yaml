@@ -1,0 +1,7 @@
+# default.custom.yaml
+
+patch:
+  schema_list:
+    - schema: nguphing
+    - schema: nguphin-yaehwei
+    - schema: luna_pinyin

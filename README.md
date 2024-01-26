@@ -23,8 +23,6 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 - nguphing 標準吳語
 - nguphin-yaehwei 標準吳語 吳語協會式拼寫
 - nguphing-ipa 提示詞使用國際音標
-- nguphing-soochow 標準吳語 蘇州音系 （弗建議）
-- nguphing-shanghai 標準吳語 上海音系 （弗建議）
 
 ## [>用字標準](https://github.com/DINISHING/standards/tree/main/othography)
 

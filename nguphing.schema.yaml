@@ -4,7 +4,7 @@
 schema:
   schema_id: nguphing
   name: 吳語拼音
-  version: "20240116"
+  version: "20240206"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -12,6 +12,7 @@ schema:
     * R/X/Q 代表平上去
   dependencies:
     - luna_pinyin #反查
+  icon: nguphing.ico
 
 switches:
   - name: ascii_mode
@@ -101,7 +102,8 @@ speller:
 translator:
   dictionary: nguphing
   spelling_hints: 5
-  preedit_format:
+  preedit_format: &tone
+    - xform/4//
     - xform/([aeiou])ng([xrq])/$1$2ng/
     - xform/([eiu])n([xrq])/$1$2n/
     - xform/([ao])e([xrq])/$1$2e/
@@ -131,39 +133,10 @@ translator:
     - xform/mx/m̀/
     - xform/mq/ḿ/
     - xform/mr/m̄/
+    - xform/ah/äh/
+    - xform/oh/öh/
     - "xform/;/'/"
-
-  comment_format:
-    - xform/4//
-    - xform/([aeiou])ng([123])/$1$2ng/
-    - xform/([eiu])n([123])/$1$2n/
-    - xform/([ao])e([123])/$1$2e/
-    - xform/([ae])i([123])/$1$2i/
-    - xform/([aeo])u([123])/$1$2u/
-    - xform/a2/à/
-    - xform/a3/á/
-    - xform/a1/ā/
-    - xform/e2/è/
-    - xform/e3/é/
-    - xform/e1/ē/
-    - xform/o2/ò/
-    - xform/o3/ó/
-    - xform/o1/ō/
-    - xform/i2/ì/
-    - xform/i3/í/
-    - xform/i1/ī/
-    - xform/u2/ù/
-    - xform/u3/ú/
-    - xform/u1/ū/
-    - xform/y2/ỳ/
-    - xform/y3/ý/
-    - xform/y1/ȳ/
-    - xform/ng2/ǹg/
-    - xform/ng3/ńg/
-    - xform/ng1/n̄g/
-    - xform/m2/m̀/
-    - xform/m3/ḿ/
-    - xform/m1/m̄/
+  comment_format: *tone
 
 punctuator:
   import_preset: symbols_wu

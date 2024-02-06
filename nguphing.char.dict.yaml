@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240130"
+version: "20240206"
 sort: by_weight
 ...
 个	keh	
@@ -21,7 +21,7 @@ sort: by_weight
 弗	feh	
 就	zieu3	
 了	liau2	
-了	leh	
+了	lek	
 也	ya2	
 也	gha2	
 都	tu1	
@@ -31,15 +31,12 @@ sort: by_weight
 吧	pa1	
 好	hau2	
 好	hau3	
-他	thou1	
 他	tha1	
 佢	gei1	
-佢	gi1	
 扗	leh	
-說	yoh	
+說	shiu3	3%
 說	shioh	
 去	khei3	
-去	khi3	
 到	tau3	
 沒	meh	
 丄	long3	
@@ -63,11 +60,10 @@ sort: by_weight
 嗎	ma3	
 爲	yu3	
 爲	yu1	
-她	thou1	
 她	tha1	
 姖	gei1	
 與	yi2	
-與	yu2	
+與	yi3	
 給	kih	
 不	feh	
 等	teng2	
@@ -290,7 +286,7 @@ sort: by_weight
 干	koe1	
 錯	tsok	3%
 錯	tsou3	
-軋	ah	
+軋	gah	
 些	sia1	
 些	si1	
 住	jiu3	
@@ -1905,7 +1901,7 @@ sort: by_weight
 谿	khi1	
 洲	cieu1	
 鴨	ah	
-捐	yoe1	
+捐	kioe1	
 崗	kong1	
 軸	jiuk	
 翔	ziang1	

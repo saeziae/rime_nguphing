@@ -104,6 +104,7 @@ translator:
   spelling_hints: 5
   preedit_format: &tone
     - xform/4//
+    - xlit|123|rxq|
     - xform/([aeiou])ng([xrq])/$1$2ng/
     - xform/([eiu])n([xrq])/$1$2n/
     - xform/([ao])e([xrq])/$1$2e/

@@ -7,8 +7,7 @@ sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - nguphing.char
+  - nguphing.common
   - nguphing.word
   - nguphing.map
-  - nguphing.words
-  - nguphing.nowords
   - nguphing.phrases

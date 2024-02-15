@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing-hiunduk
-version: "20230121"
+version: "20230215"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:

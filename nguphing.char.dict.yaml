@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240215"
+version: "20240216"
 sort: by_weight
 ...
 丄	long3	
@@ -99,7 +99,7 @@ sort: by_weight
 噢	ghau3	
 噯	ghai3	
 噱	hiuh
-噸	ten3
+噸	ten3	
 𡂿	eu1	
 𫬘	ba3
 囉	lo1	
@@ -181,7 +181,7 @@ sort: by_weight
 朆	feng1
 𣍐	fei3
 𬁭	ang1	
-未	mi3
+未	mi3	
 末	meh	
 枱	dai1
 棍	kuen3
@@ -201,7 +201,8 @@ sort: by_weight
 濮	buk
 濰	vi1	
 瀴	ing3	
-炔	khioh
+炔	khioh	
+炔	kioh	
 焐	u3
 然	nen1	
 爆	bau3	
@@ -227,7 +228,6 @@ sort: by_weight
 盟	mang1	
 盯	ting1
 着	tzek
-知	cy1
 砹	ngai3
 碶	khi3
 礦	khuong3
@@ -312,6 +312,37 @@ sort: by_weight
 齷	uk
 可	khek	1%
 衝	chiung3	
+垃	leh
+圾	seh
+鼻	beh	
+鼻	bih	
+鉛	khae	
+億	i3
+氬	a3	
+氭	tung1	
+硅	kiu1	
+矽	sik
+汞	gung2	
+鎿	na1	
+鍅	fah
+𨧀	du2	
+𨭎	hi2	
+𨨏	pou1	
+𨭆	bou1	
+䥑	mak	
+鐽	dah	
+錀	liun1	
+鎶	kou1	
+鉨	ni2	
+鈇	fu1	
+鉝	lih	
+鿬	diae1	
+鿫	au3	
+倫	len2	
+巰	khieu1	
+蕁	zin1	
+痞	phi2	
+核	weh	
 〇	ling1
 㐁	the3
 㐁	thiae3
@@ -3786,8 +3817,7 @@ sort: by_weight
 万	mae3
 万	mek	1%
 丈	jiang2
-三	sae1
-三	sae3	5%
+三	sae1	
 上	zhiang2	
 上	zhiang3	5%
 下	gho2	
@@ -3800,7 +3830,7 @@ sort: by_weight
 丏	miae2
 丐	kai3
 丐	koh
-丑	chieu2
+丑	chieu2	
 且	tsia2
 且	tzi1
 丕	phi1
@@ -3855,8 +3885,8 @@ sort: by_weight
 乖	kua1
 乗	zhing1
 乗	zhing3
-乘	zhing1
-乘	zhing3
+乘	zhing1	
+乘	zhing3	
 乙	ih
 乚	in2
 乜	mia2
@@ -3872,12 +3902,12 @@ sort: by_weight
 亄	i3
 亄	ih
 亅	gioh
-了	liau2
+了	liau2	
 予	yi1
 予	yi2
 事	tzy3	2%
 事	zy3
-二	ni3
+二	ni3	
 亍	chiuk
 亍	ciu3
 于	hiu1	1%
@@ -3936,8 +3966,8 @@ sort: by_weight
 仌	ping1
 仍	ning1
 从	zung1
-仔	tzy1
-仔	tzy2
+仔	tzy1	
+仔	tzy2	
 仕	zy2
 仗	jiang2
 仗	jiang3
@@ -4001,7 +4031,7 @@ sort: by_weight
 伐	vah
 休	hieu1
 伕	fu1
-伙	hou2
+伙	hou2	
 伢	ngo1
 伭	yae1
 伯	pak
@@ -4493,7 +4523,6 @@ sort: by_weight
 儂	nung1
 儃	dae1
 儃	zhie1
-億	ik
 儅	tong1
 儅	tong3
 儆	ging3
@@ -4592,7 +4621,6 @@ sort: by_weight
 內	nei3
 全	zioe1
 兩	liang2	99%
-兩	liang3	1%
 八	pah
 公	kung1
 六	luk	
@@ -5152,7 +5180,7 @@ sort: by_weight
 吅	hioe1
 吅	zung3
 吆	iau1
-合	gheh	
+合	gheh
 合	keh	5%
 吉	kih
 吊	tiau3
@@ -5288,7 +5316,7 @@ sort: by_weight
 咋	zak
 和	ghou1
 和	ghou3	5%
-咍	hai1
+咍	hai1	
 咎	gieu2
 咎	kau1	1%
 咏	yung3
@@ -5770,7 +5798,6 @@ sort: by_weight
 噴	phen1
 噴	phen3
 噶	koh
-噸	ten1
 噹	tong1
 噻	sai1
 噿	tziu2
@@ -5921,7 +5948,6 @@ sort: by_weight
 圻	ngen1
 圻	ngin1
 圼	niah
-圾	sah
 圿	kah
 址	cy2
 坁	ci2
@@ -5981,7 +6007,6 @@ sort: by_weight
 坿	vu1
 坿	vu3
 垂	zhiu1
-垃	lah
 型	ying1
 垌	thung2
 垍	gi3
@@ -6321,15 +6346,12 @@ sort: by_weight
 夜	ya3
 夝	zing1
 够	keu3
-夠	keu1	10%
 夠	keu3
-夠	kheu1	10%
 夡	khi3
 夢	mung1	5%
 夢	mung3
 夤	yin1
-夥	ghou2
-夥	wo2
+夥	ghou2	
 大	da3	
 大	dou3	5%
 夨	liah
@@ -6969,8 +6991,7 @@ sort: by_weight
 寁	zih
 寂	zik
 寄	ki3
-寅	yi1
-寅	yin1
+寅	yin1	
 密	mih
 寇	kheu3
 寋	gie2
@@ -7033,7 +7054,7 @@ sort: by_weight
 導	dau3
 小	siau2
 尐	tzih
-少	shiau2
+少	shiau2	
 少	shiau3	70%
 尒	ni2
 尔	ni2
@@ -7395,11 +7416,9 @@ sort: by_weight
 巨	gei2
 巩	kiung2
 巫	vu1
-差	tsa1
-差	tsa3
-差	tso1
-差	tsy1
-巰	gieu1
+差	tsa1	
+差	tso1	
+差	tsy1	
 己	ki2
 已	yi2	99%
 已	yi3	1%
@@ -7649,7 +7668,6 @@ sort: by_weight
 廻	wei1
 廾	kiung1
 廾	kiung2
-廿	nih
 弁	bie3
 异	yi1
 异	yi3
@@ -8394,8 +8412,8 @@ sort: by_weight
 戇	tzong3
 戈	kou1
 戉	yoh
-戊	meu3
-戌	siuh
+戊	meu3	
+戌	siuh	
 戍	shiu3
 戎	niung1
 成	zhing1
@@ -9300,7 +9318,7 @@ sort: by_weight
 敷	fu1
 數	sok	3%
 數	su2	3%
-數	su3
+數	su3	
 敹	liau1
 敺	eu2
 敺	khiu1
@@ -9662,7 +9680,7 @@ sort: by_weight
 朦	mung2
 朧	lung1
 木	muk
-未	vi3
+未	vi3	
 末	moh
 本	pen2
 札	tzah
@@ -9914,7 +9932,7 @@ sort: by_weight
 栵	lih
 样	tzong1
 样	yang1
-核	ghak
+核	ghak	
 根	ken1
 栺	cy1
 栺	ngi3
@@ -10767,7 +10785,6 @@ sort: by_weight
 毌	kuoe3
 母	meu2
 每	mei2
-每	mei3	2%
 毐	ai1
 毐	ai2
 毒	duk
@@ -10824,27 +10841,26 @@ sort: by_weight
 氒	kioh
 氓	mang1
 气	khi3
-氕	phiah
-氖	nai2
-氘	tau1
-氙	sie1
-氚	chioe1
+氕	phiah	
+氖	nai2	
+氘	tau1	
+氙	sie1	
+氚	chioe1	
 氛	fen1
 氛	ven1	50%
 氟	feh
-氡	tung1
+氡	tung1	
 氣	hi3
 氣	khi3
 氤	in1
-氦	ghai2
-氧	yang2
+氦	ghai2	
+氧	yang2	
 氨	oe1
-氪	khek
-氫	khing1
-氬	o3
-氮	dae3
-氯	luk
-氰	zing1
+氪	khek	
+氫	khing1	
+氮	dae3	
+氯	luk	
+氰	zing1	
 氲	iun1
 氳	iun1
 水	shiu2
@@ -10891,7 +10907,6 @@ sort: by_weight
 汛	sin3
 汜	zy2
 汝	ni2
-汞	ghung2
 江	kong1
 池	dou1	2%
 池	ji1
@@ -11467,7 +11482,7 @@ sort: by_weight
 溲	seu2
 溳	yun1
 溳	yun2
-溴	hieu3
+溴	hieu3	
 溵	in1
 溶	yung1
 溶	yung2
@@ -11917,7 +11932,7 @@ sort: by_weight
 炎	ye1
 炒	tsau2
 炓	liau3
-炔	kiu3
+炔	kiu3	
 炕	hong1	2%
 炕	khong3
 炖	den3
@@ -11984,8 +11999,7 @@ sort: by_weight
 烯	hi1
 烰	veu1
 烳	phu2
-烴	king2
-烴	thing1
+烴	thing1	
 烷	woe1
 烹	phang1
 烼	hiuh
@@ -12250,8 +12264,7 @@ sort: by_weight
 爻	ghau1
 爽	song2
 爾	ni2
-爿	bae1
-爿	ziang1
+爿	bae1	
 牀	zong1
 牁	kou1
 牃	diah
@@ -13093,9 +13106,7 @@ sort: by_weight
 痙	ging2
 痛	thung3
 痝	mong1
-痞	bi2
-痞	feu2
-痞	pi2
+痞	bi2	
 痟	siau1
 痠	soe1
 痡	fu1
@@ -13627,7 +13638,7 @@ sort: by_weight
 矺	tzak
 矻	khueh
 矼	kong1
-矽	zik
+矽	zik	
 砂	so1
 砅	li3
 砈	ak
@@ -13673,13 +13684,12 @@ sort: by_weight
 砱	ling1
 砳	lak
 破	phou3
-砷	shin1
+砷	shin1	
 砸	zah
 砹	ai3
 砼	dung1
 硂	tsioe1
 硃	ciu1
-硅	huak
 硇	nau1
 硈	khah
 硉	leh
@@ -13692,7 +13702,7 @@ sort: by_weight
 硏	ngiae1
 硐	dung1
 硐	dung2
-硒	si1
+硒	si1	
 硜	khang1
 硝	siau1
 硞	khok
@@ -13765,7 +13775,7 @@ sort: by_weight
 碰	phang3
 碱	kae2
 碲	ti3
-碳	thae3
+碳	thae3	
 碴	tzo1
 碴	zo1
 碸	fung1
@@ -14012,7 +14022,6 @@ sort: by_weight
 秏	hau3
 秏	huei3
 科	khou1
-科	khou3	5%
 秒	miau2
 秔	kang1
 秕	pi2
@@ -14410,7 +14419,6 @@ sort: by_weight
 箔	bok
 箕	ki1
 箖	lin1
-算	soe2	5%
 算	soe3
 箘	giun2
 箘	khiun1
@@ -15247,10 +15255,9 @@ sort: by_weight
 羡	zie3
 羣	giun1
 群	giun1
-羥	khae1
-羥	khang1
-羥	khiang2
-羧	sou1
+羥	khang1	
+羥	khiang2	
+羧	sou1	
 羨	ye3
 羨	yi1
 羨	zie3
@@ -15260,7 +15267,7 @@ sort: by_weight
 羬	ngae1
 羭	yu1
 羯	kih
-羰	thong1
+羰	thong1	
 羱	ngioe1
 羱	nguoe1
 羲	hi1
@@ -15941,7 +15948,6 @@ sort: by_weight
 艖	zou1
 艗	ngik
 艘	sau1
-艘	siau1
 艙	tsong1
 艚	zau1
 艛	leu1
@@ -16648,7 +16654,7 @@ sort: by_weight
 蔾	li1
 蔿	yu2
 蕀	kik
-蕁	de1
+蕁	de1	
 蕂	shing3
 蕃	fae1
 蕃	vae1
@@ -17782,8 +17788,7 @@ sort: by_weight
 覆	phuk	1%
 覆	veu3	5%
 覇	po3
-覈	ghak
-覈	yah	5%
+覈	ghak	
 見	kiae3
 見	yae3	5%
 覎	ie3
@@ -19842,7 +19847,7 @@ sort: by_weight
 鉖	dung1
 鉗	gie1
 鉚	mau2
-鉛	yoe1
+鉛	yoe1	5%
 鉜	veu1
 鉞	yoh
 鉟	bi1
@@ -20148,7 +20153,7 @@ sort: by_weight
 鏊	ngau1
 鏊	ngau3
 鏋	moe2
-鏌	mok
+鏌	mok	
 鏍	lou1
 鏎	pih
 鏏	ziu3
@@ -20484,7 +20489,6 @@ sort: by_weight
 院	yoe3	99%
 陣	jin3
 除	dzy1
-除	dzy3
 陪	bei1
 陫	vi2
 陬	tzeu1
@@ -20496,7 +20500,6 @@ sort: by_weight
 陰	in1
 陲	zhiu1
 陳	jin1
-陳	jin3
 陴	bi1
 陵	ling1
 陶	dau1
@@ -20564,7 +20567,7 @@ sort: by_weight
 隸	li3
 隹	ciu1
 隺	ghuk
-隻	ciak
+隻	ciak	
 隼	siun2
 隽	zioe2
 隿	yik
@@ -22376,7 +22379,6 @@ sort: by_weight
 鼶	sy1
 鼷	yi1
 鼸	yae2
-鼻	bi3
 鼽	gieu1
 鼽	huei1
 鼾	ghoe3

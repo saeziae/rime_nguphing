@@ -6,7 +6,7 @@ __include: nguphing.schema:/
 schema:
   schema_id: nguphin-yaehwei
   name: 吳語拼音·吳協式
-  version: "20240120"
+  version: "20240216"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -55,6 +55,11 @@ speller:
     # dz-z j-zh 弗分
     - derive/^dz/z/
     - derive/^j/zh/
+    - derive/^z/dz/
+    - derive/^zh/j/
+    # ci-cy 弗分
+    - derive/^(c|ch|j|sh|zh)i([qxr])$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)y([qxr])$/$1y$2/
     # l m n 清音簡化
     - derive/^([lmn])h/$1/
     # 吳語協會式

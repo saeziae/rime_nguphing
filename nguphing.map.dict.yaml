@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.map
-version: "20240216"
+version: "20240217"
 sort: by_weight
 ...
 上海
@@ -28,7 +28,7 @@ sort: by_weight
 康健新村
 徐家彙
 凌雲路
-龍華
+龍華	lung1 huo1
 漕河涇
 華涇
 長寧

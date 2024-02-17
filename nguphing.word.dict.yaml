@@ -2,13 +2,18 @@
 # encoding: utf-8
 ---
 name: nguphing.word
-version: "20240216"
+version: "20240217"
 sort: by_weight
 ...
 我伲	ngou2 ni1
 我拉	ngou2 la1
+尔拉	ni2 la1
 尔拉	ng2 la1
 佢拉	gei1 la1
+我儂	ngou2 nung1
+尔儂	ni2 nung2
+尔儂	ng2 nung2
+佢儂	gei1 nung1
 我伲兩家頭
 㑚兩家頭
 佢拉兩家頭
@@ -20,70 +25,112 @@ sort: by_weight
 姑嫂道裏
 婆新婦道裏
 弟兄兩家頭
-兄弟道裏
+弟兄道裏
 姊妹兩家頭
 姊妹道裏
 在許	lai3 hei2
 扗許	leh hei2
+扗居	leh kei1
 在扗	lai3 leh
 冊那	tsak na1
 全部	zae1 bu2
+嘸沒	
 因爲	in1 yu3
+爲着	yu3 tzek
+因得	
+所以	su2 yi2
+箇咾	geh lau2
+箇末	geh meh
+寔居	zhih kei1
+乃末	nai2 meh
+弗過	feh kou3
+但弗過	dae3 pih kou3
+个說話	
+个閑話	
+个閒話	
+倘然	
+假使	
+倘使	
+要是	
+作興	
+啥人	sa1 nin1
+何人	gha1 nin1
+何儂	gha1 nung1
+啥物事	sa1 meh zy3
+何物	gha1 m1
+啥個	sa1 keh
+啥咾	sa1 lau2
+啥體	sa1 thi2
+啥事體	sa1 zy3 thi2
+啥事幹	sa1 zy3 koe2
+啥場許	sa1 jiang2 ho2
+啥地方	sa1 di3 fong1
+啥戶蕩	sa1 wu2 dong2
+何裏頭	gha1 li2 deu1
+幾時	ki2 zhy1
+啥辰光	sa1 zhin1 kuong1
+何辰光	gha1 zhin1 kuong1
+何裏	gha1 li2
+爲啥	yu3 sa1
+爲啥咾	yu3 sa1 lau3
+爲啥體	yu3 sa1 thi2
+作啥	tzou3 sa1
 如何	na1 ha1
 如何儿	na1 hang2
 如然	na1 nen1
+幾許	ki2 ho3
+幾鈿	ki2 diae1
+大家	
+大家儂	
+大家人	
+自家	
+別人家	
+別人	
+別个	
+人家	
+居物	kei1 m1
+箇物	geh m1
+於物	ei1 m1
+許物	hei2 m1
+居個	kei1 keh
+箇個	geh keh
+寔個	dih keh
+於個	ei1 keh
+許個	hei2 keh
+何裏個	gha1 li2 keh
+居隻	kei1 ciak
+箇隻	geh ciak
+寔隻	dih ciak
+於隻	ei1 ciak
+許隻	hei2 ciak
+何裏隻	gha1 li2 ciak
+居𡍲	kei1 tah
+箇𡍲	geh tah
+於𡍲	ei1 tah
+許𡍲	hei2 tah
+何𡍲	gha1 tah
+何裏𡍲	gha1 li2 tah
+居処	kei1 tah
+箇処	geh tah
+於処	ei1 tah
+許処	hei2 tah
+何処	gha1 tah
+何裏処	gha1 li2 tah
+居面	kei1 mie3
+箇面	geh mie3
+許面	hei2 mie3
+於面	ei1 mie3
+箇許	geh hei2
+箇盪	geh dong2
+於盪	ei1 dong2
+箇埭	geh da3
+於埭	ei1 da3
+攏總	
+攏共	
 寔介	zhih ka3
 寔介儿	zhih kang2
 介儿	kang2
-是介	zy2 ka3
-箇咾	geh lau2
-幾許	ki2 ho2
-大家
-自家
-別人家
-別人
-人家
-該個
-箇個
-迭個
-規個
-何個
-何裏個
-居個
-許個
-該𡍲
-箇𡍲
-規𡍲
-何𡍲
-何裏𡍲
-居𡍲
-許𡍲
-該処
-箇処
-規処
-何処
-何裏処
-居処
-許処
-箇面
-規面
-箇許
-規許
-箇盪
-規盪
-啥場化
-幾時
-啥辰光
-啥個
-啥等樣
-作啥
-啥體
-啥事體
-啥佬
-該點
-箇點
-規點
-箇種
+箇然	geh nen1
 筷儿	khuae2
 太陽
 日頭
@@ -111,6 +158,7 @@ sort: by_weight
 星搬場
 大風
 颱風
+風吹
 風潮
 順風
 頂頭風
@@ -203,6 +251,7 @@ sort: by_weight
 天乾
 天變
 變天
+
 半山腰
 山腳下
 山澗水

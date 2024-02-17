@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240216"
+version: "20240217"
 sort: by_weight
 ...
 丄	long3	
@@ -62,7 +62,6 @@ sort: by_weight
 哇	ua1	
 哈	hah	
 哈	ha1	
-𠲎	va1
 哨	sau3
 哪	na2	
 唉	ghai1	
@@ -204,7 +203,7 @@ sort: by_weight
 炔	khioh	
 炔	kioh	
 焐	u3
-然	nen1	
+然	nen1	5%
 爆	bau3	
 爸	pa2	
 爾	el2	
@@ -271,8 +270,7 @@ sort: by_weight
 襪	mah
 覅	viau3
 覅	fiau3
-規	kuei1	
-規	uei1	
+於	ei1	
 許	ho3	
 誒	ei3	
 誒	ghei3	
@@ -328,7 +326,7 @@ sort: by_weight
 𨧀	du2	
 𨭎	hi2	
 𨨏	pou1	
-𨭆	bou1	
+𨭆	hek	
 䥑	mak	
 鐽	dah	
 錀	liun1	
@@ -338,11 +336,18 @@ sort: by_weight
 鉝	lih	
 鿬	diae1	
 鿫	au3	
+𰚼	yun1	
+𰛂	mie2	
 倫	len2	
 巰	khieu1	
 蕁	zin1	
 痞	phi2	
 核	weh	
+該	kei1	
+寔	dih	
+死	si2	
+物	m1	3%
+弗	pih	3%
 〇	ling1
 㐁	the3
 㐁	thiae3

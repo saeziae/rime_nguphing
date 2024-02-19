@@ -2,10 +2,10 @@
 # encoding: utf-8
 ---
 name: nguphing.common
-version: "20240216"
+version: "20240219"
 sort: by_weight
 ...
-㠁嵯	tsen1 tsy1
+㠁嵯	tseng1 tsy1
 一些	ih sia1
 一切	ih tsi3
 一種	ih ciung2
@@ -21,11 +21,11 @@ sort: by_weight
 上諭	zhiang3 yu3
 下海	gho3 hai2
 下載	gho2 zai3
-不勝	feh shing1
-不悖	feh beh
-不禁	feh kin1
-不要	feh iau3
-不錯	feh tsok
+不勝	fek shing1
+不悖	fek bek
+不禁	fek kin1
+不要	fek iau3
+不錯	fek tsok
 丞相	zhing1 siang3
 並行	bing2 ghang1
 中意	ciung3 i3
@@ -42,7 +42,7 @@ sort: by_weight
 乾唱	koe1 chiang3
 乾嘔	koe1 eu2
 乾嚎	koe1 ghau1
-乾坤	gie1 khuen1
+乾坤	gie1 khueng1
 乾妹	koe1 mei3
 乾媽	koe1 mo1
 乾安	gie1 oe1
@@ -56,17 +56,17 @@ sort: by_weight
 乾淨	koe1 zing2
 乾渴	koe1 khoh
 乾溼	koe1 shih
-乾澀	koe1 seh
+乾澀	koe1 sek
 乾燒	koe1 shiau1
 乾燥	koe1 sau2
 乾爸	koe1 bou2
 乾爹	koe1 tia1
 乾爽	koe1 song2
-乾癟	koe1 phih
+乾癟	koe1 phieh
 乾白	koe1 bak
 乾硬	koe1 ngang3
 乾等	koe1 teng2
-乾粉	koe1 fen2
+乾粉	koe1 feng2
 乾糧	koe1 liang1
 乾紅	koe1 ghung1
 乾絲	koe1 sy1
@@ -75,7 +75,7 @@ sort: by_weight
 乾肉	koe1 niuk
 乾脆	koe1 tsiu3
 乾花	koe1 huo1
-乾裂	koe1 lih
+乾裂	koe1 lieh
 乾貝	koe1 pei3
 乾貨	koe1 hou3
 乾透	koe1 theu3
@@ -107,7 +107,7 @@ sort: by_weight
 住店	jiu3 tiae3
 住手	ciu3 shieu2
 何種	ghou1 ciung2
-佛教	veh kau3
+佛教	vek kau3
 作爲	tzok yu1
 使用	sy2 yung3
 使節	sy3 tziah
@@ -147,7 +147,7 @@ sort: by_weight
 儲藏	dzy1 zong1
 元朝	ngioe1 jiau1
 充值	chiung1 jik
-充分	chiung1 ven3
+充分	chiung1 veng3
 全勝	zioe1 shing3
 兩種	liang2 ciung2
 公使	kung1 sy3
@@ -162,10 +162,10 @@ sort: by_weight
 出差	chiuh tsa1
 出發	chiuh fah
 函數	ghe1 su3
-分别	fen1 pih
-分子	fen1 tzy2
-分子	ven3 tzy2
-分行	fen1 ghong1
+分别	feng1 pieh
+分子	feng1 tzy2
+分子	veng3 tzy2
+分行	feng1 ghong1
 切割	tsiah koh
 切實	tsi3 zhih
 切普	tsiah phu2
@@ -183,16 +183,16 @@ sort: by_weight
 勞軍	lau3 kiun1
 北朝	puk jiau1
 北燕	puk iae1
-區別	khiu1 pih
+區別	khiu1 pieh
 南下	ne1 gho3
 南朝	ne1 jiau1
 南燕	ne1 iae1
 占卜	cie1 puk
 即使	tzik sy2
 厭惡	ie3 u3
-參商	sen1 shiang1
-參宿	sen1 sieu3
-參差	tsen1 tsy1
+參商	seng1 shiang1
+參宿	seng1 sieu3
+參差	tseng1 tsy1
 參數	tse1 su3
 參與	tse1 yi3
 參觀	tse1 kuoe1
@@ -218,8 +218,8 @@ sort: by_weight
 同種	dung1 ciung2
 名勝	ming1 shing3
 名將	ming1 tziang3
-吞咽	then1 iae3
-吞嚥	then1 iae3
+吞咽	theng1 iae3
+吞嚥	theng1 iae3
 周易	cieu1 yik
 周朝	cieu1 jiau1
 命令	ming3 ling3
@@ -240,7 +240,7 @@ sort: by_weight
 嗚呼	u1 hu1
 噬嗑	zhi3 gheh
 回覆	wei1 fuk
-回鶻	wei1 weh
+回鶻	wei1 wek
 因爲	in1 yu3
 固相	ku3 siang3
 圈地	khioe1 di3
@@ -280,7 +280,7 @@ sort: by_weight
 姥爺	lau2 ya1
 嫪毐	lau3 ai2
 子女	tzy2 niu2
-孑孓	kih kiung2
+孑孓	kieh kiung2
 孝弟	hau3 di3
 孝悌	hau3 di3
 學校	ghok ghau3
@@ -295,7 +295,7 @@ sort: by_weight
 寶藏	pau2 zong3
 將帥	tziang3 sei3
 將領	tziang3 ling2
-尊重	tzen1 jiung2
+尊重	tzeng1 jiung2
 對應	tei3 ing3
 少兒	shiau3 ni1
 少商	shiau3 shiang1
@@ -307,7 +307,7 @@ sort: by_weight
 少量	shiau2 liang3
 少陰	shiau3 in1
 少陽	shiau3 yang1
-尺度	chiak du3
+尺度	chik du3
 居住	kei1 jiu3
 崋山	wo3 sae1
 崔嵬	zei1 nguei1
@@ -315,7 +315,7 @@ sort: by_weight
 左傳	tzou2 jioe3
 左轉	tzou2 cioe2
 差使	tsa1 sy2
-差別	tso1 pih
+差別	tso1 pieh
 差池	tsy1 ji1
 差異	tsa1 yi3
 差異	tso1 yi3
@@ -333,7 +333,7 @@ sort: by_weight
 延請	ye1 zing3
 彈出	dae1 chiuh
 彈劾	dae1 ghek
-很少	ghen2 shiau2
+很少	gheng2 shiau2
 後來	gheu2 lai1
 後悔	gheu2 huei2
 後燕	gheu2 iae1
@@ -346,22 +346,22 @@ sort: by_weight
 德操	tek tsau3
 德行	tek ghang3
 必勝	pih shing3
-忖度	tsen2 dok
+忖度	tseng2 dok
 志操	cy3 tsau3
 快樂	khua3 lok
 恐怕	khiung3 pho3
 恐懼	khiung2 giu3
 恐襲	khiung2 zih
 悔過	huei3 kou3
-悖論	beh len3
-悖逆	beh ngik
+悖論	bek leng3
+悖逆	bek ngik
 情調	zing1 diau3
 惡少	ok shiau3
 想要	siang2 iau3
 愛好	ai3 hau3
 慘重	tse2 jiung2
 慰勞	iu3 lau3
-懇切	khen2 tsi3
+懇切	kheng2 tsi3
 應姓	ing1 sing3
 應對	ing3 tei3
 應爲	ing1 yu1
@@ -460,7 +460,7 @@ sort: by_weight
 書畫	sy1 wo3
 曹參	zau1 tse1
 曹操	zau1 tsau3
-曾參	tzeng1 sen1
+曾參	tzeng1 seng1
 曾姓	tzeng1 sing3
 曾經	zeng1 king1
 最好	tzei3 hau2
@@ -536,8 +536,8 @@ sort: by_weight
 樹立	zhiu2 lih
 次數	tsy3 su3
 次要	tsy3 iau3
-欱水	hah shiu2
-欱酒	hah tzieu2
+欱水	heh shiu2
+欱酒	heh tzieu2
 歡樂	huoe1 lok
 正在	cing3 zai2
 正好	cing3 hau2
@@ -566,7 +566,7 @@ sort: by_weight
 清華	tsing1 wo1
 測量	tsek liang1
 湯湯	shiang1 shiang1
-滑稽	kueh ki1
+滑稽	kuek ki1
 漢朝	hoe3 jiau1
 漢藏	hoe3 zong3
 澹臺	dae1 dai1
@@ -590,10 +590,10 @@ sort: by_weight
 爲難	yu1 nae1
 爲首	yu1 shieu2
 牛蒡	ngieu1 pong2
-物種	veh ciung2
+物種	vek ciung2
 犒勞	khau3 lau3
 狋氏	gioe1 tzing1
-理論	li2 len3
+理論	li2 leng3
 番号	fae1 ghau3
 番禺	phoe1 ngiu1
 當作	tong1 tzok
@@ -661,17 +661,17 @@ sort: by_weight
 種馬	ciung2 mo2
 稽攷	ki1 khau2
 稽首	khi2 shieu2
-積分	tzik fen1
+積分	tzik feng1
 空當	khung3 tong1
 空缺	khung3 khioh
 空閑	khung3 ghae1
 空閒	khung1 kae1
 立夏	lih gho3
 等差	teng2 tsy1
-答應	tah ing3
+答應	teh ing3
 節省	tziah sang2
 簡易	kae2 yi3
-純束	den1 shiuk
+純束	deng1 shiuk
 素質	su3 cih
 給予	kih yi2
 經過	king1 kou1
@@ -679,7 +679,7 @@ sort: by_weight
 總要	tzung2 iau3
 羊圈	yang1 gioe2
 翹楚	giau1 tsu2
-翹舌	giau3 zhih
+翹舌	giau3 zhieh
 翹起	giau3 khi2
 翹首	giau1 shieu2
 聖上	shing3 zhiang3
@@ -697,7 +697,7 @@ sort: by_weight
 芳菲	fong1 fi1
 茶几	dzo1 ki2
 荷花	ghou1 huo1
-荸薺	beh zy1
+荸薺	bek zy1
 莞爾	wae2 ni2
 莽蒼	mong2 tsong2
 菏澤	kou1 dzak
@@ -738,7 +738,7 @@ sort: by_weight
 行伍	ghong1 ngu2
 行兇	ghang1 hiung1
 行刑	ghang1 ying1
-行列	ghong1 lih
+行列	ghong1 lieh
 行刺	ghang1 tsy3
 行動	ghang1 dung2
 行号	ghong1 ghau3
@@ -760,7 +760,7 @@ sort: by_weight
 行會	ghong1 wei3
 行李	ghang1 li2
 行板	ghang1 pae2
-行業	ghong1 ngih
+行業	ghong1 ngieh
 行楷	ghang1 kha2
 行樂	ghang1 lok
 行權	ghang1 gioe1
@@ -792,18 +792,18 @@ sort: by_weight
 行騙	ghang1 phie3
 行高	ghong1 kau1
 衞藏	yu3 zong3
-複雜	fuk zah
+複雜	fuk zeh
 西夏	si1 gho2
 西燕	si1 iae1
 西藏	si1 zong3
-要不	iau3 feh
+要不	iau3 fek
 要事	iau3 zy3
 要挾	iau1 yah
 要服	iau1 vuk
 要求	iau1 gieu1
 要約	iau1 iak
 要請	iau1 tsing2
-覆滅	fuk mih
+覆滅	fuk mieh
 覆蓋	feu3 kai3
 觀光	kuoe1 kuong1
 觀感	kuoe1 ke2
@@ -816,7 +816,7 @@ sort: by_weight
 計劃	ki3 wak
 計畫	ki3 wak
 計畫	ki3 wo3
-評論	bing1 len3
+評論	bing1 leng3
 試劑	shy3 zi3
 語種	ngei2 ciung2
 說客	shiu3 khak
@@ -832,7 +832,7 @@ sort: by_weight
 調解	diau1 ka2
 調音	diau1 in1
 調飢	cieu1 ki1
-論語	len1 ngei2
+論語	leng1 ngei2
 諡号	zhy3 ghau3
 諸曁	tzy1 ki3
 變徵	pie3 cy2
@@ -852,7 +852,7 @@ sort: by_weight
 質量	cih liang3
 跑圈	phau2 khioe1
 跑調	phau2 diau3
-身分	shin1 ven3
+身分	shin1 veng3
 車主	chia1 ciu2
 車票	chia1 phiau3
 車道	chia1 dau2
@@ -906,7 +906,7 @@ sort: by_weight
 郵遞	yeu1 di3
 配種	phei3 ciung2
 重出	jiung1 chiuh
-重合	jiung1 ghah
+重合	jiung1 gheh
 重心	jiung2 sin1
 重慶	jiung1 khing3
 重新	jiung1 sin1
@@ -926,11 +926,11 @@ sort: by_weight
 錯綜	tsok tzung3
 錯誤	tsok ngu3
 錯開	tsok khai1
-錯雜	tsok zah
-鏈接	lie3 tzih
+錯雜	tsok zeh
+鏈接	lie3 tzieh
 長假	jiang1 ko3
 長子	ciang2 tzy2
-長孫	ciang2 sen1
+長孫	ciang2 seng1
 長幼	ciang2 ieu3
 長興	jiang1 hing1
 長調	jiang3 diau3
@@ -945,8 +945,8 @@ sort: by_weight
 降服	ghong1 vuk
 降落	kong3 lok
 院校	yoe3 ghau3
-離別	li1 bih
-離别	li1 bih
+離別	li1 bieh
+離别	li1 bieh
 難易	nae1 yi3
 雨燕	yu2 iae3
 雪颮	sioh piau1
@@ -981,16 +981,16 @@ sort: by_weight
 代謝率	dai3 zia3 liuh
 函谷關	ghae1 kuk kuae1
 南北朝	ne1 puk jiau1
-吐谷渾	thu2 yuk wen1
-大汶口	da3 ven3 kheu2
+吐谷渾	thu2 yuk weng1
+大汶口	da3 veng3 kheu2
 將進酒	tsiang1 tzin3 tzieu2
 推普機	thei1 phu2 ki1
 教數學	kau1 su3 ghok
 教育部	kau3 yuk beu2
-教語文	kau1 ngei2 ven1
+教語文	kau1 ngei2 veng1
 暴風雨	bau3 fung1 yu2
 朋友圈	bang1 yeu2 khioe1
-李世乭	li2 shi3 deh
+李世乭	li2 shi3 dek
 校醫院	ghau3 i1 yoe3
 梅乾菜	mei1 koe1 tsai3
 爲什麼	yu3 zhih mou1
@@ -999,14 +999,14 @@ sort: by_weight
 紅種人	ghung1 ciung2 nin1
 自乾五	zy3 koe1 ngu2
 自行車	zy3 ghang1 chia1
-要不然	iau3 feh nie1
+要不然	iau3 fek nie1
 觀前街	kuoe3 ziae1 ka1
 豆腐乾	deu3 vu2 koe1
-進化論	tzin3 huo3 len3
+進化論	tzin3 huo3 leng3
 電動車	diae3 dung2 chia1
 青少年	tsing1 shiau3 niae1
 高句驪	kau1 keu1 li1
-不亦說乎	feh yik yoh wu1
+不亦說乎	fek yik yoh wu1
 六出祁山	luk chiuh gi1 sae1
 十年樹木	zhih niae1 zhiu2 muk
 審時度勢	shin2 zhy1 dok shi3
@@ -1016,5 +1016,5 @@ sort: by_weight
 朝三暮四	ciau1 sae1 mu3 sy3
 朝朝暮暮	ciau1 ciau1 mu3 mu3
 百年樹人	pak niae1 zhiu2 nin1
-知識分子	ci1 shik ven3 tzy2
+知識分子	ci1 shik veng3 tzy2
 宮商角徵羽	kiung1 shiang1 kok cy2 yu3

@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.word
-version: "20240217"
+version: "20240219"
 sort: by_weight
 ...
 我伲	ngou2 ni1
@@ -14,7 +14,11 @@ sort: by_weight
 尔儂	ni2 nung2
 尔儂	ng2 nung2
 佢儂	gei1 nung1
+兩家頭	liang2 ko1 deu1
+道裏	dau2 li2
 我伲兩家頭
+伲兩家頭
+尔拉兩家頭
 㑚兩家頭
 佢拉兩家頭
 夫妻兩家頭
@@ -28,22 +32,31 @@ sort: by_weight
 弟兄道裏
 姊妹兩家頭
 姊妹道裏
+冊那	tsak na3
+戳㑚	tsak na3
+戳㑚娘	tsak na3 niang2
+戳㑚娘隻屄	tsak na3 niang1 ciak pi1
+娘隻屄	niang1 ciak pi1
+娘戲屄	niang1 hi3 phih
 在許	lai3 hei2
 扗許	leh hei2
 扗居	leh kei1
 在扗	lai3 leh
 冊那	tsak na1
 全部	zae1 bu2
-嘸沒	
+嘸物	
+嘸沒	m1 mek
+嘸沒	m1 pek
+嘸沒	m1 bek
 因爲	in1 yu3
 爲着	yu3 tzek
 因得	
 所以	su2 yi2
-箇咾	geh lau2
-箇末	geh meh
+箇咾	gek lau2
+箇末	gek mek
 寔居	zhih kei1
-乃末	nai2 meh
-弗過	feh kou3
+乃末	nai2 mek
+弗過	fek kou3
 但弗過	dae3 pih kou3
 个說話	
 个閑話	
@@ -56,9 +69,9 @@ sort: by_weight
 啥人	sa1 nin1
 何人	gha1 nin1
 何儂	gha1 nung1
-啥物事	sa1 meh zy3
+啥物事	sa1 mek zy3
 何物	gha1 m1
-啥個	sa1 keh
+啥個	sa1 kek
 啥咾	sa1 lau2
 啥體	sa1 thi2
 啥事體	sa1 zy3 thi2
@@ -87,61 +100,65 @@ sort: by_weight
 別人家	
 別人	
 別个	
+別他	
 人家	
 居物	kei1 m1
-箇物	geh m1
+箇物	gek m1
 於物	ei1 m1
 許物	hei2 m1
-居個	kei1 keh
-箇個	geh keh
-寔個	dih keh
-於個	ei1 keh
-許個	hei2 keh
-何裏個	gha1 li2 keh
+居個	kei1 kek
+箇個	gek kek
+寔個	dih kek
+於個	ei1 kek
+許個	hei2 kek
+何裏個	gha1 li2 kek
 居隻	kei1 ciak
-箇隻	geh ciak
+箇隻	gek ciak
 寔隻	dih ciak
 於隻	ei1 ciak
 許隻	hei2 ciak
 何裏隻	gha1 li2 ciak
 居𡍲	kei1 tah
-箇𡍲	geh tah
+箇𡍲	gek tah
 於𡍲	ei1 tah
 許𡍲	hei2 tah
 何𡍲	gha1 tah
 何裏𡍲	gha1 li2 tah
 居処	kei1 tah
-箇処	geh tah
+箇処	gek tah
 於処	ei1 tah
 許処	hei2 tah
 何処	gha1 tah
 何裏処	gha1 li2 tah
 居面	kei1 mie3
-箇面	geh mie3
+箇面	gek mie3
 許面	hei2 mie3
 於面	ei1 mie3
-箇許	geh hei2
-箇盪	geh dong2
+箇許	gek hei2
+箇盪	gek dong2
 於盪	ei1 dong2
-箇埭	geh da3
+箇埭	gek da3
 於埭	ei1 da3
 攏總	
 攏共	
 寔介	zhih ka3
 寔介儿	zhih kang2
 介儿	kang2
-箇然	geh nen1
+箇然	gek nen1
 筷儿	khuae2
 太陽
 日頭
 旺太陽
 太陽旺
+晴日頭
 旺日頭
 毒日頭
+開晴
 亮光
 光線
 大白天亮
 陰頭裏
+陰勢天
 背暗
 天亮
 天黑
@@ -176,8 +193,10 @@ sort: by_weight
 起陣頭
 烏雲
 缸爿頭雲
+賴柴
 鯉魚斑
-豁閃	hueh shie2
+豁閃	huah shie2
+豁閃	huoh shie2
 雷響
 陣頭響
 空陣頭
@@ -251,7 +270,214 @@ sort: by_weight
 天乾
 天變
 變天
+<<<<<<< HEAD
+=======
+松樹
+松果	
+柏樹
+桑樹
+桑葚
+楊柳樹	
+楊樹	
+柳樹	
+梧桐樹	
+梧桐	
+樹梗	
+樹梢
+樹葉子	
+樹丫子	
+竹頭	
+冬筍
+春筍
+筍殼
+篾青	
+篾黃	
+桂花	
+菊花	
+梅花	
+月季花	
+月月紅	
+薔薇花	
+鳳仙花	
+節甲花	
+荷花	
+荷葉	
+白蘭花	
+白玉蘭	
+茉莉花	
+玳玳花	
+千年雲	
+花瓣	
+花蕊頭	
+蘆柴	
+茅柴	
+青粘苔	
+服盆	
+雙季稻	
+秧把頭	
+礱糠	
+稻穀
+稻柴	
+柴草	
+稻秿	
+稻穧	
+稗草子	
+癟穀	
+秕穀	
+糙米	
+白米	
+粳米	
+大米	
+秈米	
+糯米	
+米粉	
+糯米粉	
+小麥
+大麥
+麥穡頭	
+元麥
+麥柴	
+麩皮	
+麪粉	
+麥粉
+御麥	
+油菜
+菜籽	
+棉花
+花萁	
+五穀	
+六陳	
+黃豆
+毛豆
+綠豆
+赤豆	
+蠶豆
+寒豆	
+豇豆
+長豇豆	
+扁豆
+菠菜
 
+白菜	
+黃芽菜	
+膠菜	
+菜結	
+青菜	
+上海青	
+蘇州青	
+青江菜	
+青梗菜	
+菜薹	
+細青菜
+矮腳青菜
+雞毛菜	
+捲心菜	
+包菜	
+芹菜	
+旱芹	
+西洋芹	
+藥芹	
+水芹菜	
+韭菜	
+韭芽	
+韭黃	
+莧菜	
+紅莧菜	
+青莧菜	
+白莧菜	
+菜見	
+塌棵菜	
+蕹菜	
+薺菜	
+蓬蒿菜	
+香菜
+番茄
+菜頭	
+蘿蔔	lau1 buk
+太湖蘿蔔
+蘿蔔乾	lau1 buk koe1
+黃蘿蔔	
+辣椒	
+辣火	
+燈籠辣火	
+茄子	
+落蘇	
+茭白	
+萵苣	
+萵苣筍	
+山芋	
+紫山芋
+紫心山芋
+黃心山芋
+洋山芋	
+洋芋艿	
+芋艿	
+胡蔥	
+洋蔥頭	
+大蒜	
+大蒜頭	
+大蒜子	
+蒜苗	
+芥菜	
+茨菰	
+香蕈	
+蘑菇	
+生薑	
+老薑	
+嫩薑	
+胡椒	
+馬蘭頭	
+枸杞頭	
+冬瓜
+南瓜	
+飯瓜	vae3 kuo1
+番瓜	vae1 kuo1
+金瓜	
+黃瓜
+絲瓜
+西瓜
+扁蒲	
+葫蘆	wek lu1
+桃子
+杏子
+杏仁
+蘋果
+嘉慶子	
+棗子
+枇杷	bih bo1
+楊梅
+柿子
+柿餅
+石榴
+橘子
+金橘
+文旦	
+沙田柚
+桂圓	
+橄欖
+栗子
+葡萄	bek dau1
+蒲桃	bu1 dau1
+核桃	wek1 dau1
+沙胡桃
+香榧子	
+白果	
+西瓜子
+荸薺	bek zi2
+甘蔗
+長生果	
+果肉
+花生米
+長生果衣	
+向日葵
+香瓜子	
+蓮蓬
+蓮心	
+雞頭米	
+水紅菱
+老烏菱
+沙瓜菱
+>>>>>>> 22cc901 (update phonology)
 半山腰
 山腳下
 山澗水
@@ -825,168 +1051,6 @@ sort: by_weight
 泥鰍
 螞蟥
 烏龜
-松樹
-松果
-柏樹
-桑樹
-桑葚
-楊柳樹
-梧桐樹
-梧桐
-樹梗
-樹梢
-樹葉子
-樹丫子
-竹頭
-冬筍
-春筍
-筍殼
-篾青
-篾黃
-桂花
-菊花
-梅花
-月季花
-薔薇花
-鳳仙花
-荷花
-荷葉
-白蘭花
-茉莉花
-玳玳花
-千年雲
-花瓣
-花蕊頭
-蘆柴
-茅柴
-青粘苔
-服盆
-雙季稻
-礱糠
-稻柴
-稗草子
-秕穀
-糙米
-白米
-粳米
-大米
-秈米
-糯米
-米粉
-小麥
-大麥
-元麥
-麥柴
-麩皮
-麪粉
-御麥
-菜子
-棉花
-黃豆
-毛豆
-綠豆
-赤豆
-蠶豆
-寒寒豆
-長豇豆
-扁豆
-菠菜
-白菜
-青菜
-大菜
-小青菜
-雞毛菜
-捲心菜
-包菜
-芹菜
-藥芹
-水芹菜
-韭菜
-韭芽
-韭黃
-莧菜
-紅莧菜
-白莧菜
-菜見
-塌棵菜
-蕹菜
-薺菜
-蓬蒿菜
-香菜
-番茄
-老卜
-太湖老卜
-老卜幹
-黃老卜
-辣火
-燈籠辣火
-茄子
-茭白
-萵苣筍
-山芋
-山薯
-洋山芋
-洋芋艿
-芋艿
-胡蔥
-洋蔥頭
-大蒜
-大蒜頭
-蒜苗
-芥菜
-慈菇
-香蕈
-蘑菇
-老薑
-嫩姜
-胡椒
-馬蘭頭
-枸杞頭
-冬瓜
-南瓜
-黃瓜
-絲瓜
-西瓜
-扁蒲
-活蘆
-桃子
-杏子
-杏仁
-蘋果
-嘉慶子
-棗子
-枇杷
-楊梅
-柿子
-柿餅
-石榴
-橘子
-金橘
-文旦
-沙田柚
-桂圓
-橄欖
-栗子
-葡萄
-蒲桃
-沙胡桃
-香榧子
-白果
-西瓜子
-荸薺
-甘蔗
-長生果
-果肉
-花生米
-長生果衣
-向日葵
-香瓜子
-蓮蓬
-蓮心
-雞頭米
-水紅菱
-老烏菱
-沙瓜菱
 開火倉
 火倉銅鈿
 點飢
@@ -18640,6 +18704,7 @@ T恤衫	thi1 siuh sae1
 X光	e1 kheh sy1 kuong1
 RIME	lai3 m1
 A股	ei1 ku2
+B超	bi1 chiau1
 硬碰硬	ngang3 phang3 ngang3
 睏覺	khuen3 kau3
 睏晏覺	khuen3 ae3 kau3

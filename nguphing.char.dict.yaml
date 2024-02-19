@@ -2,15 +2,15 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240217"
+version: "20240219"
 sort: by_weight
 ...
 丄	long3	
 且	tsi2	
 𠀾	fei3
-个	keh	
+个	kek	
 也	gha2	
-了	leh	
+了	lek	
 五	ng2	
 些	si1	
 亞	a3	
@@ -25,8 +25,8 @@ sort: by_weight
 佢	gei1	
 㑚	na3	
 㑢	khik	
-個	keh	
-㑭	pen2
+個	kek	
+㑭	peng2
 做	tzou3
 儿	ng1
 儿	ng2
@@ -34,7 +34,7 @@ sort: by_weight
 処	tah	
 凹	au1	
 凼	dong3
-切	tsih	
+切	tsieh	
 𰄚	tiau1
 劇	giak	
 加	ka1	
@@ -52,7 +52,6 @@ sort: by_weight
 吳	ng1	
 吶	nei3	
 吶	nhei1	
-吻	men2	
 呢	ne1	
 呣	m1	
 味	mi3	
@@ -60,7 +59,6 @@ sort: by_weight
 咖	kha1	
 咾	lau2
 哇	ua1	
-哈	hah	
 哈	ha1	
 哨	sau3
 哪	na2	
@@ -70,7 +68,7 @@ sort: by_weight
 啊	a1	
 啊	a3	
 啊	gha3	
-問	men3	
+問	meng3	
 啡	fi1
 啥	so1	
 啥	sa1
@@ -80,7 +78,7 @@ sort: by_weight
 啦	lah	
 㖠	na3	
 㖪	wek
-喂	uei3	
+詴	uei1	
 𠲎	va1	
 喔	uk1
 喺	ghai1	
@@ -98,7 +96,7 @@ sort: by_weight
 噢	ghau3	
 噯	ghai3	
 噱	hiuh
-噸	ten3	
+噸	teng3	
 𡂿	eu1	
 𫬘	ba3
 囉	lo1	
@@ -111,7 +109,6 @@ sort: by_weight
 𡍲	tah	
 塳	bung1
 壗	hang3	
-奪	deh
 她	tha1	
 如	na1	
 姆	m2	
@@ -138,15 +135,14 @@ sort: by_weight
 廿	nie3	
 微	mi1	
 怖	pu3
-恁	nen1
+恁	neng1
 恍	huong2
 𢜶	sau3	
 㥰	sau3	
 憦	lau3
 懈	ga3
-懾	shih
 戇	gong3
-扗	leh	
+扗	lek	
 抬	dai1	
 拉	la1	
 拉	lha1
@@ -174,6 +170,7 @@ sort: by_weight
 擔	nhae1	
 擤	heng2
 攞	lou1
+伏	bu3	
 於	yu1	
 昨	za1	
 是	zy2	
@@ -181,9 +178,9 @@ sort: by_weight
 𣍐	fei3
 𬁭	ang1	
 未	mi3	
-末	meh	
+末	mek	
 枱	dai1
-棍	kuen3
+棍	kueng3
 檸	ning1
 檻	gae2
 欸	ei3	
@@ -203,12 +200,12 @@ sort: by_weight
 炔	khioh	
 炔	kioh	
 焐	u3
-然	nen1	5%
+然	neng1	5%
 爆	bau3	
 爸	pa2	
 爾	el2	
 牙	nga1	
-物	meh	
+物	mek	
 犟	giang3
 狧	wok
 瑪	ma2	
@@ -217,10 +214,9 @@ sort: by_weight
 甮	fiung1
 甮	fung1
 甽	kioe2
-畀	peh	
+畀	pek	
 畝	m2	
 畸	gi1
-疋	phih
 㽹	vae3
 疼	deng1
 盅	ciung1
@@ -232,8 +228,8 @@ sort: by_weight
 礦	khuong3
 萬	vae3	
 站	zae3	
-箇	geh	
-箇	keh	
+箇	gek	
+箇	kek	
 䈆	da3
 䈍	mang2
 篛	niak
@@ -243,10 +239,10 @@ sort: by_weight
 糢	mu1
 糸	sy1
 維	vi1	
-聞	men1	
+聞	meng1	
 肥	bi1	
-脗	ven2
-脫	theh	
+脗	veng2
+脫	thek	
 脯	bu1
 膊	pok	
 臉	lie2	
@@ -261,8 +257,7 @@ sort: by_weight
 莎	sa1	
 莧	hiae3
 蔭	in1	
-蘋	bing1	
-蚊	men1	
+蚊	meng1	
 蝦	ho1
 蟆	po1
 蟹	ha2	
@@ -280,16 +275,15 @@ sort: by_weight
 踏	dah	
 踫	bae1
 蹘	liau1
-蹲	ten3
+蹲	teng3
 車	tso1	
 軋	gah	
-迭	dih	
 那	na3	
 釕	liau2
 鋸	ga3
 錯	tsou3	
 鏢	piau1
-鐵	thih
+鐵	thieh
 閘	zah	
 閡	ghek
 防	bong1	
@@ -297,8 +291,8 @@ sort: by_weight
 阿	ah	
 陂	bi1
 雫	no3
-頁	yih	
-顛	tin1
+頁	yeh	
+顛	tin1	
 餃	kiau2
 饃	mou1
 馬	ma2	
@@ -310,9 +304,7 @@ sort: by_weight
 齷	uk
 可	khek	1%
 衝	chiung3	
-垃	leh
-圾	seh
-鼻	beh	
+鼻	bek	
 鼻	bih	
 鉛	khae	
 億	i3
@@ -338,16 +330,37 @@ sort: by_weight
 鿫	au3	
 𰚼	yun1	
 𰛂	mie2	
-倫	len2	
+倫	leng2	
 巰	khieu1	
 蕁	zin1	
 痞	phi2	
-核	weh	
+核	wek	
 該	kei1	
 寔	dih	
 死	si2	
 物	m1	3%
 弗	pih	3%
+屄	phih	1%
+戳	tsak	1%
+崑	khueng1	
+崐	khueng1	
+葡	bek	
+猢	wek	
+葫	wek	
+枇	bih	
+隻	ciak	
+石	zhiak	
+碩	zhiak	
+尺	chiak	
+薺	zia3	
+蘿	lau1	5%
+癟	piah	
+莖	king1	
+爻	gau1	
+浮	bu1	
+覆	phuk	
+豁	huah	
+轄	huah	
 〇	ling1
 㐁	the3
 㐁	thiae3
@@ -370,8 +383,8 @@ sort: by_weight
 㑟	pang2
 㑥	yi3
 㑦	li3
-㑮	ngen1
-㑮	wen1
+㑮	ngeng1
+㑮	weng1
 㑰	yang3
 㑳	nah
 㑳	tzu1
@@ -384,14 +397,14 @@ sort: by_weight
 㒅	khi2
 㒇	vu2
 㒈	hae3
-㒊	seh
+㒊	sek
 㒋	sy1
 㒌	giung1
 㒓	thah
 㒔	duk
 㒔	zhiuk
 㒚	in3
-㒚	uen2
+㒚	ueng2
 㒝	mah
 㒝	miah
 㒟	niau2
@@ -400,7 +413,7 @@ sort: by_weight
 㒨	sie1
 㒰	zioe1
 㒳	liang2
-㒴	kueh
+㒴	kuek
 㒸	ziu3
 㒹	tiae1
 㒼	moe1
@@ -442,7 +455,7 @@ sort: by_weight
 㔍	tsioh
 㔍	tsoh
 㔎	ngih
-㔎	sih
+㔎	sieh
 㔏	lik
 㔒	yu1
 㔓	kie2
@@ -469,7 +482,7 @@ sort: by_weight
 㔻	phi1
 㕆	tu2
 㕆	wu2
-㕇	lah
+㕇	leh
 㕈	ai2
 㕈	uei3
 㕊	fu1
@@ -493,7 +506,7 @@ sort: by_weight
 㕭	au1
 㕮	fu2
 㕮	vu2
-㕯	neh
+㕯	nek
 㕯	nioh
 㕯	noh
 㕰	hok
@@ -512,7 +525,7 @@ sort: by_weight
 㖷	zhi1
 㗁	ngok
 㗉	liak
-㗊	tzeh
+㗊	tzek
 㗔	khie1
 㗕	keu1
 㗗	pi1
@@ -538,7 +551,7 @@ sort: by_weight
 㗵	hiuh
 㗻	ghou1
 㗻	kou1
-㗼	ngih
+㗼	ngieh
 㗾	hio1
 㗿	ho2
 㗿	ho3
@@ -585,6 +598,7 @@ sort: by_weight
 㙱	ghau3
 㙲	iung3
 㙴	chie3
+㙷	jieh
 㙷	jih
 㙻	jie1
 㚀	hi1
@@ -598,11 +612,11 @@ sort: by_weight
 㚊	khai1
 㚋	tiau1
 㚍	khuei2
-㚒	shiak
 㚒	shie2
+㚒	shik
 㚔	ghang2
-㚔	nih
-㚖	chiak
+㚔	nieh
+㚖	chik
 㚖	kau2
 㚗	zia1
 㚘	boe2
@@ -613,9 +627,9 @@ sort: by_weight
 㚠	khiau1
 㚢	nu1
 㚤	yik
-㚫	sah
+㚫	seh
 㚲	chie1
-㚲	chih
+㚲	chieh
 㚷	na2
 㛁	phang1
 㛂	ngou2
@@ -631,8 +645,8 @@ sort: by_weight
 㛒	deu3
 㛗	sou1
 㛗	tsou1
-㛘	pheh
-㛥	thah
+㛘	phek
+㛥	theh
 㛧	mae2
 㛪	ie3
 㛮	sau2
@@ -648,10 +662,10 @@ sort: by_weight
 㜊	cie2
 㜌	kheu3
 㜎	yi1
-㜓	tah
-㜗	tsah
+㜓	teh
 㜗	tse1
 㜗	tse2
+㜗	tseh
 㜘	tzia1
 㜝	nge2
 㜢	liu2
@@ -668,7 +682,7 @@ sort: by_weight
 㜳	wa1
 㜵	niau2
 㜷	mi1
-㜸	ngih
+㜸	ngieh
 㜺	tzae3
 㜺	zae3
 㜽	tzy2
@@ -715,10 +729,10 @@ sort: by_weight
 㞏	jih
 㞒	ha3
 㞓	khi3
-㞕	seh
+㞕	sek
 㞙	niau3
 㞚	sah
-㞚	tseh
+㞚	tsek
 㞚	tzah
 㞛	ki2
 㞜	thei1
@@ -726,9 +740,9 @@ sort: by_weight
 㞟	ting2
 㞡	cie2
 㞢	cy1
-㞣	fen1
-㞣	ven1
-㞥	zen1
+㞣	feng1
+㞣	veng1
+㞥	zeng1
 㞦	ki2
 㞷	giong1
 㞽	hioh
@@ -784,20 +798,20 @@ sort: by_weight
 㡁	khuo2
 㡅	nou2
 㡆	huong1
-㡇	cih
+㡇	cieh
 㡇	thiah
 㡇	tiae1
 㡉	kiae1
 㡊	khah
-㡋	ih
+㡋	ieh
 㡏	su1
 㡏	su3
 㡑	tsiau1
 㡑	tziau2
 㡒	ciun1
-㡒	den2
+㡒	deng2
 㡒	jiun1
-㡓	kuen1
+㡓	kueng1
 㡔	mu1
 㡔	muk
 㡔	vu3
@@ -806,7 +820,7 @@ sort: by_weight
 㡘	lie1
 㡙	pi1
 㡜	si3
-㡜	sih
+㡜	sieh
 㡜	sioh
 㡝	vung3
 㡟	tsau1
@@ -817,11 +831,11 @@ sort: by_weight
 㡨	tzie1
 㡯	dzak
 㡲	wae1
-㡷	pen2
+㡷	peng2
 㡹	tsy3
 㡺	tae3
 㡼	yi3
-㡿	chiak
+㡿	chik
 㢀	tsy3
 㢁	chi2
 㢂	ngie2
@@ -845,9 +859,9 @@ sort: by_weight
 㢨	ghoe3
 㢪	khu1
 㢪	u1
-㢯	ten1
+㢯	teng1
 㢰	bi3
-㢵	hih
+㢵	hieh
 㢸	bih
 㢻	ni3
 㢼	piah
@@ -895,7 +909,7 @@ sort: by_weight
 㤜	hiuh
 㤝	chiung1
 㤞	dok
-㤠	lih
+㤠	lieh
 㤤	yu1
 㤤	yu2
 㤥	ghai3
@@ -906,17 +920,17 @@ sort: by_weight
 㤱	feu2
 㤱	feu3
 㤲	khiah
-㤴	chih
+㤴	chieh
 㤸	hik
-㤻	len2
+㤻	leng2
 㤾	se3
 㤿	ie1
 㤿	ie3
 㥁	tek
 㥂	thek
 㥄	ling1
-㥆	theh
 㥆	thei3
+㥆	thek
 㥈	diah
 㥊	bang1
 㥋	i1
@@ -954,7 +968,7 @@ sort: by_weight
 㦃	tsoe2
 㦄	mo1
 㦅	diah
-㦌	hueh
+㦌	huek
 㦎	huak
 㦒	li1
 㦓	yae2
@@ -1003,9 +1017,9 @@ sort: by_weight
 㧴	ngou2
 㧶	khang1
 㧹	thek
-㧺	dah
+㧺	deh
 㧻	tzok
-㧾	khueh
+㧾	khuek
 㨁	jy3
 㨁	zhik
 㨃	tei2
@@ -1028,11 +1042,11 @@ sort: by_weight
 㨟	ghai1
 㨟	kai1
 㨠	miae2
-㨡	weh
-㨡	wen1
+㨡	wek
+㨡	weng1
 㨤	khua1
-㨥	nah
-㨧	ben2
+㨥	neh
+㨧	beng2
 㨨	chieu1
 㨵	tzie2
 㨶	tau2
@@ -1046,7 +1060,7 @@ sort: by_weight
 㨾	yang3
 㩇	huak
 㩇	wak
-㩉	lah
+㩉	leh
 㩉	tah
 㩊	sioe1
 㩋	siau1
@@ -1077,7 +1091,7 @@ sort: by_weight
 㩼	ci3
 㩽	gi1
 㩾	ciu1
-㩿	khueh
+㩿	khuek
 㪁	gin1
 㪁	khe1
 㪁	khie1
@@ -1089,11 +1103,11 @@ sort: by_weight
 㪋	ghoe3
 㪋	hou2
 㪌	sung2
-㪍	beh
+㪍	bek
 㪏	pi2
 㪏	pi3
-㪐	leh
-㪑	ih
+㪐	lek
+㪑	ieh
 㪒	ngi1
 㪒	ngi2
 㪖	luk
@@ -1123,7 +1137,7 @@ sort: by_weight
 㫎	hiu1
 㫏	iau2
 㫐	iau2
-㫚	hueh
+㫚	huek
 㫱	nae2
 㫹	su3
 㫽	luk
@@ -1155,26 +1169,26 @@ sort: by_weight
 㭔	lu1
 㭕	khei1
 㭘	gheh
-㭘	gih
+㭘	gieh
 㭘	keh
 㭚	li2
 㭛	pha3
 㭜	niung1
 㭝	gieu1
 㭠	siae2
-㭩	lih
+㭩	lieh
 㭩	loh
 㭩	lu2
 㭫	zou1
 㭭	pah
 㭭	piah
-㭯	cih
+㭯	cieh
 㭰	tziu1
 㭰	tziu2
 㭸	du1
 㭺	ie2
-㭼	dah
-㭼	thah
+㭼	deh
+㭼	theh
 㭿	ngong1
 㮀	ghae1
 㮁	ghau1
@@ -1200,8 +1214,8 @@ sort: by_weight
 㮫	ghoh
 㮬	ung1
 㮭	ghae1
-㮯	wen1
-㮯	wen2
+㮯	weng1
+㮯	weng2
 㮰	bi1
 㮰	biah
 㮲	tseu1
@@ -1216,14 +1230,14 @@ sort: by_weight
 㯅	bi1
 㯅	pi1
 㯉	tsy1
-㯊	ghen1
+㯊	gheng1
 㯋	kiung2
 㯍	tziang2
 㯓	thah
 㯔	tsiu3
 㯕	si1
-㯙	jih
-㯚	tah
+㯙	jieh
+㯚	teh
 㯛	wu1
 㯜	sin1
 㯞	kioe3
@@ -1240,10 +1254,10 @@ sort: by_weight
 㯸	tzin2
 㯺	ghae3
 㯺	he2
-㯻	kuen2
+㯻	kueng2
 㯽	pin1
-㯿	lih
-㯿	yih
+㯿	lieh
+㯿	yeh
 㰁	lou2
 㰂	shin2
 㰈	lie2
@@ -1280,7 +1294,7 @@ sort: by_weight
 㰶	biau2
 㰹	hae1
 㰻	i2
-㰼	sih
+㰼	sieh
 㰽	ie3
 㱀	tsy2
 㱂	khong1
@@ -1289,7 +1303,7 @@ sort: by_weight
 㱇	sek
 㱊	ieu1
 㱍	loe1
-㱎	kuen1
+㱎	kueng1
 㱒	hou1
 㱕	kiu1
 㱖	ziu3
@@ -1317,7 +1331,7 @@ sort: by_weight
 㱲	i3
 㱳	mak
 㱴	zy3
-㱵	fen3
+㱵	feng3
 㱸	bik
 㱻	lei3
 㱻	lou3
@@ -1340,12 +1354,12 @@ sort: by_weight
 㲓	shiu3
 㲔	sie1
 㲕	lei3
-㲕	lih
+㲕	lieh
 㲖	siau1
 㲗	fu1
 㲚	so1
 㲝	mau3
-㲞	seh
+㲞	sek
 㲟	ing2
 㲡	na3
 㲢	biae2
@@ -1355,7 +1369,7 @@ sort: by_weight
 㲫	buk
 㲬	tziau1
 㲰	nang1
-㲱	lih
+㲱	lieh
 㲲	diah
 㲳	cih
 㲺	tzih
@@ -1375,7 +1389,7 @@ sort: by_weight
 㳛	yu1
 㳥	lung3
 㳦	gha3
-㳧	chih
+㳧	chieh
 㳨	tzah
 㳬	zioe1
 㳬	zioe3
@@ -1391,7 +1405,7 @@ sort: by_weight
 㴥	tsiau3
 㴦	kiung1
 㴧	sik
-㴫	kuen3
+㴫	kueng3
 㴬	zia3
 㴯	cy1
 㴲	sy1
@@ -1444,12 +1458,12 @@ sort: by_weight
 㶟	li2
 㶣	dae1
 㶣	jie1
-㶧	nen2
+㶧	neng2
 㶳	zin3
 㶴	chi2
 㶼	ai1
 㶼	hi1
-㶿	beh
+㶿	bek
 㷄	huei2
 㷄	kuoe3
 㷅	tsah
@@ -1468,12 +1482,12 @@ sort: by_weight
 㷰	li1
 㷳	ngoe3
 㷷	tziu1
-㷸	yih
+㷸	yeh
 㷹	dzau3
 㸃	tiae2
 㸅	tziah
 㸊	la3
-㸎	nih
+㸎	nieh
 㸏	mi1
 㸒	yin1
 㸙	cia1
@@ -1482,7 +1496,7 @@ sort: by_weight
 㸛	zhiau1
 㸡	zhiu1
 㸢	bi3
-㸣	ngih
+㸣	ngieh
 㸤	phiae3
 㸪	zhiun1
 㸪	ziun1
@@ -1495,7 +1509,7 @@ sort: by_weight
 㸸	eu2
 㸸	heu2
 㸸	kheu2
-㸹	lih
+㸹	lieh
 㸹	loh
 㸼	fung1
 㹁	liang1
@@ -1518,8 +1532,8 @@ sort: by_weight
 㹛	niau1
 㹜	ngin1
 㹞	ngin1
-㹠	den1
-㹤	khih
+㹠	deng1
+㹤	khieh
 㹥	ciu3
 㹧	ong1
 㹭	yi3
@@ -1530,7 +1544,7 @@ sort: by_weight
 㹲	hau1
 㹳	ngu1
 㹶	ding1
-㹺	thah
+㹺	theh
 㹼	kiuk
 㹽	tsae2
 㹾	biau2
@@ -1583,7 +1597,7 @@ sort: by_weight
 㻯	thu1
 㻶	pih
 㻷	kik
-㻸	tzen1
+㻸	tzeng1
 㻾	iung1
 㻿	zhiuk
 㼉	jin3
@@ -1593,9 +1607,9 @@ sort: by_weight
 㼎	bok
 㼏	nei2
 㼐	biae1
-㼑	liae3
+㼑	liae3	
 㼒	thong2
-㼔	uen1
+㼔	ueng1
 㼕	tong1
 㼗	ding1
 㼛	ying1
@@ -1617,7 +1631,7 @@ sort: by_weight
 㼱	niu1
 㼱	tziun3
 㼲	liah
-㼲	lih
+㼲	lieh
 㼳	sang2
 㼴	ngeu2
 㼵	di2
@@ -1669,11 +1683,11 @@ sort: by_weight
 㽺	kih
 㽻	ci1
 㽽	ku3
-㽾	ngeh
+㽾	ngek
 㽿	khou1
 㽿	kou1
-㾀	khih
-㾁	hueh
+㾀	khieh
+㾁	huek
 㾂	hai1
 㾄	duk
 㾆	chie1
@@ -1688,9 +1702,9 @@ sort: by_weight
 㾐	li3
 㾑	heh
 㾑	ngeh
-㾑	tah
+㾑	teh
 㾓	ioe1
-㾕	sen2
+㾕	seng2
 㾕	sin1
 㾖	li1
 㾖	li2
@@ -1713,7 +1727,7 @@ sort: by_weight
 㾭	tzeu3
 㾯	huei1
 㾰	wu1
-㾶	kueh
+㾶	kuek
 㾷	si1
 㾷	sy1
 㾹	za1
@@ -1733,8 +1747,8 @@ sort: by_weight
 㿊	tsie1
 㿋	sau3
 㿌	hie1
-㿎	ven2
-㿎	ven3
+㿎	veng2
+㿎	veng3
 㿑	yak
 㿒	jieu3
 㿒	tau2
@@ -1755,7 +1769,7 @@ sort: by_weight
 㿭	tsak
 㿮	iang3
 㿮	ing1
-㿯	tah
+㿯	teh
 㿱	zioh
 㿴	tah
 㿷	tsau3
@@ -1813,18 +1827,18 @@ sort: by_weight
 䀴	nging2
 䀵	shy1
 䀶	liang3
-䀷	kih
+䀷	kieh
 䀸	chi3
 䀸	ci3
-䀹	tzih
+䀹	tzieh
 䀼	nin3
 䀽	ye1
-䀿	cih
+䀿	cieh
 䁁	liang3
 䁂	ghae2
 䁅	mang2
 䁅	mang3
-䁆	ih
+䁆	ieh
 䁇	mek
 䁇	mik
 䁈	khi3
@@ -1869,9 +1883,9 @@ sort: by_weight
 䁷	kok
 䁷	uk
 䁸	nong1
-䁺	shiak
+䁺	shik
 䁻	shiak
-䁽	lih
+䁽	lieh
 䁾	miah
 䁿	mek
 䂃	tziau3
@@ -1902,10 +1916,10 @@ sort: by_weight
 䂹	sak
 䂻	dzang3
 䂽	diau2
-䂿	dah
+䂿	deh
 䃀	tsei3
 䃁	o1
-䃂	kuen2
+䃂	kueng2
 䃊	tzi2
 䃊	tzik
 䃍	dei3
@@ -1926,7 +1940,7 @@ sort: by_weight
 䃫	tae2
 䃬	nguei2
 䃭	ke2
-䃳	lih
+䃳	lieh
 䃴	tzy1
 䃵	niau2
 䃸	siae3
@@ -1955,14 +1969,14 @@ sort: by_weight
 䄮	fu1
 䄱	fong1
 䄲	niu3
-䄶	beh
+䄶	bek
 䄶	bih
-䄷	zhiak
+䄷	zhik
 䄻	dzau1
 䄼	thiae2
 䄿	yi3
 䅀	li3
-䅀	lih
+䅀	lieh
 䅁	oe3
 䅂	ghok
 䅃	giung1
@@ -1985,7 +1999,7 @@ sort: by_weight
 䅢	tzieu3
 䅣	wong1
 䅥	khoh
-䅥	kih
+䅥	kieh
 䅧	ie1
 䅧	in3
 䅩	ci2
@@ -2000,7 +2014,7 @@ sort: by_weight
 䅻	li1
 䅼	mae1
 䅾	gin1
-䅾	zen1
+䅾	zeng1
 䆀	mei2
 䆀	mei3
 䆁	kau1
@@ -2054,7 +2068,7 @@ sort: by_weight
 䇬	chiu1
 䇮	nin2
 䇯	niung1
-䇷	pih
+䇷	pieh
 䇸	jing1
 䇹	kiun1
 䇽	ci3
@@ -2068,10 +2082,10 @@ sort: by_weight
 䈇	tzau3
 䈈	vi1
 䈉	sah
-䈉	tzih
-䈋	thah
-䈎	chih
-䈎	yih
+䈉	tzieh
+䈋	theh
+䈎	chieh
+䈎	yeh
 䈏	bok
 䈐	kuei3
 䈑	kuo2
@@ -2131,7 +2145,7 @@ sort: by_weight
 䉧	lieu2
 䉨	ngi3
 䉬	fi3
-䉭	lih
+䉭	lieh
 䉮	lin3
 䉰	ghau2
 䉰	kau1
@@ -2157,9 +2171,10 @@ sort: by_weight
 䊎	khioe2
 䊓	ji2
 䊓	zhi3
+䊝	sieh
 䊝	sih
 䊞	tzak
-䊟	men1
+䊟	meng1
 䊠	hi3
 䊡	moe1
 䊤	de1
@@ -2203,15 +2218,15 @@ sort: by_weight
 䋼	thing1
 䋾	tzo2
 䋿	uei1
-䌌	tsih
+䌌	tsieh
 䌎	liak
 䌐	mik
 䌑	kiae1
 䌖	tzih
-䌖	zih
+䌖	zieh
 䌗	fu2
 䌘	piah
-䌜	nih
+䌜	nieh
 䌞	lie2
 䌟	bak
 䌠	hiae1
@@ -2241,7 +2256,7 @@ sort: by_weight
 䍍	feu1
 䍍	kheu3
 䍍	khuk
-䍎	tsen3
+䍎	tseng3
 䍎	tsiae3
 䍐	hoe2
 䍐	hoe3
@@ -2254,7 +2269,7 @@ sort: by_weight
 䍙	vu2
 䍛	ku3
 䍜	tzau3
-䍝	thah
+䍝	theh
 䍡	luk
 䍢	vu1
 䍤	tzi2
@@ -2277,8 +2292,8 @@ sort: by_weight
 䍺	wae3
 䍻	sioe3
 䍻	zioe3
-䍼	tzah
 䍼	tze1
+䍼	tzeh
 䍽	lik
 䍿	wong1
 䎀	hioh
@@ -2288,7 +2303,7 @@ sort: by_weight
 䎈	yi3
 䎉	hiuh
 䎌	tsuk
-䎎	nih
+䎎	nieh
 䎑	luk
 䎒	cie2
 䎒	tzae2
@@ -2304,7 +2319,7 @@ sort: by_weight
 䎤	giuk
 䎦	ye2
 䎧	bong2
-䎨	ih
+䎨	ieh
 䎩	tzy1
 䎪	nek
 䎫	tsong1
@@ -2346,7 +2361,7 @@ sort: by_weight
 䏨	huei2
 䏪	ni3
 䏰	niun3
-䏳	cih
+䏳	cieh
 䏵	mung2
 䏷	ghoe3
 䏼	zae1
@@ -2370,7 +2385,7 @@ sort: by_weight
 䐎	di1
 䐎	ti1
 䐏	chiun2
-䐑	jih
+䐑	jieh
 䐒	tzo1
 䐒	tzo3
 䐓	nieu1
@@ -2383,7 +2398,7 @@ sort: by_weight
 䐠	hong1
 䐢	tsu3
 䐢	tzeu3
-䐣	sen2
+䐣	seng2
 䐤	tsa1
 䐤	tso1
 䐥	ung2
@@ -2432,7 +2447,7 @@ sort: by_weight
 䑞	shiun3
 䑠	liau2
 䑡	tso1
-䑢	ngeh
+䑢	ngek
 䑣	chin1
 䑥	ngeh
 䑦	keu1
@@ -2447,7 +2462,7 @@ sort: by_weight
 䒀	bu3
 䒀	fu1
 䒁	zih
-䒆	chih
+䒆	chieh
 䒈	vi2
 䒉	vu2
 䒊	hi1
@@ -2496,11 +2511,11 @@ sort: by_weight
 䓏	fu1
 䓘	kau1
 䓙	khuo1
-䓛	kueh
+䓛	kuek
 䓜	cy1
 䓞	li3
 䓠	tah
-䓠	thah
+䓠	theh
 䓣	liang2
 䓭	tsah
 䓮	mau2
@@ -2508,7 +2523,7 @@ sort: by_weight
 䓲	yoh
 䓲	yu3
 䓳	gha1
-䓳	ghen2
+䓳	gheng2
 䓴	nioe2
 䓵	fu1
 䓶	la3
@@ -2551,7 +2566,7 @@ sort: by_weight
 䔽	i3
 䔾	ghoh
 䔾	khi3
-䔿	tzen2
+䔿	tzeng2
 䕁	fi2
 䕃	in3
 䕄	cing1
@@ -2575,7 +2590,7 @@ sort: by_weight
 䕭	zie1
 䕸	ghah
 䕸	ka1
-䕹	zah
+䕹	zeh
 䕹	ziah
 䕺	zung1
 䕻	li1
@@ -2608,7 +2623,7 @@ sort: by_weight
 䖱	khiong1
 䖲	ziun1
 䖳	dzo3
-䖵	kuen1
+䖵	kueng1
 䖶	huei1
 䖹	mi2
 䖻	lieu1
@@ -2639,7 +2654,7 @@ sort: by_weight
 䗥	tzung1
 䗧	khong1
 䗪	cia3
-䗪	ciak
+䗪	cik
 䗯	tzin3
 䗰	kuoe3
 䗱	buk
@@ -2655,7 +2670,7 @@ sort: by_weight
 䘅	nek
 䘆	hie2
 䘆	hin2
-䘇	ven1
+䘇	veng1
 䘌	nih
 䘎	uae1
 䘒	tzei1
@@ -2670,7 +2685,7 @@ sort: by_weight
 䘱	yu3
 䘳	kin1
 䘷	piah
-䘸	ciak
+䘸	cik
 䘸	yik
 䘼	ioe2
 䘽	ngi1
@@ -2680,7 +2695,7 @@ sort: by_weight
 䘾	kuoe3
 䘿	giuh
 䙃	dou3
-䙄	tseh
+䙄	tsek
 䙄	tzah
 䙅	iau1
 䙇	nioe1
@@ -2728,11 +2743,11 @@ sort: by_weight
 䚙	hi1
 䚙	hioe1
 䚜	pi1
-䚝	zeh
-䚠	wen2
+䚝	zek
+䚠	weng2
 䚡	sai1
 䚢	chi3
-䚢	chih
+䚢	chieh
 䚣	di1
 䚣	ti1
 䚥	nok
@@ -2786,7 +2801,7 @@ sort: by_weight
 䜅	tseu1
 䜅	yu1
 䜅	zhiu1
-䜆	cih
+䜆	cieh
 䜈	tsau1
 䜉	tsih
 䜋	wei2
@@ -2801,7 +2816,7 @@ sort: by_weight
 䜕	ha3
 䜕	ma3
 䜙	nge1
-䜚	dah
+䜚	deh
 䜜	yu3
 䜝	thoe2
 䜢	hie2
@@ -2811,7 +2826,7 @@ sort: by_weight
 䜮	liau1
 䜯	giuk
 䜱	moe1
-䜲	lih
+䜲	lieh
 䜴	tsu3
 䜶	ghong1
 䜷	tsin1
@@ -2830,7 +2845,7 @@ sort: by_weight
 䝐	yu2
 䝑	chiung1
 䝒	zu2
-䝕	cih
+䝕	cieh
 䝖	tzau2
 䝚	ni1
 䝜	soe1
@@ -2864,11 +2879,11 @@ sort: by_weight
 䞗	tsa1
 䞗	tsai1
 䞘	gih
-䞙	tzah
+䞙	tzeh
 䞚	gi1
 䞚	khi2
-䞞	veh
-䞠	ciak
+䞞	vek
+䞠	cik
 䞣	chia3
 䞣	tsia3
 䞤	fu2
@@ -2894,10 +2909,10 @@ sort: by_weight
 䞾	ji1
 䞿	hie1
 䞿	khie1
-䟂	men1
+䟂	meng1
 䟂	moe1
-䟃	tsah
 䟃	tse1
+䟃	tseh
 䟄	tsik
 䟄	zuak
 䟅	zie2
@@ -2939,7 +2954,7 @@ sort: by_weight
 䟷	chi3
 䟸	giu1
 䟸	kiu1
-䟹	lih
+䟹	lieh
 䟺	bei3
 䟺	pei3
 䟽	su1
@@ -2950,7 +2965,7 @@ sort: by_weight
 䠆	jiang1
 䠇	giuh
 䠇	kiuh
-䠈	theh
+䠈	thek
 䠊	vi3
 䠍	gho1
 䠐	khiuk
@@ -3003,7 +3018,7 @@ sort: by_weight
 䡝	iun2
 䡞	kiuk
 䡣	hie1
-䡣	wen1
+䡣	weng1
 䡧	u2
 䡩	khang1
 䡬	mae3
@@ -3018,7 +3033,7 @@ sort: by_weight
 䡵	ziu3
 䡼	ling1
 䡽	tzoe1
-䡾	ngih
+䡾	ngieh
 䡾	ngoh
 䢃	nguei3
 䢅	zhin1
@@ -3078,8 +3093,8 @@ sort: by_weight
 䣜	zou1
 䣝	du1
 䣝	dzo1
-䣟	zah
 䣟	ze1
+䣟	zeh
 䣠	zia3
 䣡	ngi1
 䣢	zik
@@ -3126,10 +3141,10 @@ sort: by_weight
 䤨	phik
 䤪	tou2
 䤬	sou1
-䤮	zhih
+䤮	zhieh
 䤳	zia3
 䤴	ghe1
-䤶	ih
+䤶	ieh
 䤹	seu1
 䤻	dou2
 䤽	kuae1
@@ -3139,7 +3154,7 @@ sort: by_weight
 䥍	bi3
 䥍	cih
 䥍	cy3
-䥍	sih
+䥍	sieh
 䥏	ngei2
 䥗	khuoe2
 䥗	khuoe3
@@ -3157,7 +3172,7 @@ sort: by_weight
 䦈	tzia1
 䦋	ngau1
 䦌	chiu3
-䦍	ngeh
+䦍	ngek
 䦏	gha3
 䦏	yi3
 䦐	thing2
@@ -3197,9 +3212,9 @@ sort: by_weight
 䧦	hiu1
 䧦	yu1
 䧦	yu2
-䧨	ngih
-䧪	chih
-䧰	wen2
+䧨	ngieh
+䧪	chieh
+䧰	weng2
 䧴	ci1
 䧴	shi3
 䧼	kuk
@@ -3217,7 +3232,7 @@ sort: by_weight
 䨡	ghe1
 䨢	de2
 䨣	kak
-䨥	ciak
+䨥	cik
 䨥	wok
 䨦	phong1
 䨨	ciu1
@@ -3244,7 +3259,7 @@ sort: by_weight
 䩌	ziau1
 䩍	liau2
 䩏	miah
-䩐	hueh
+䩐	huek
 䩒	hiu1
 䩒	iu1
 䩒	yu1
@@ -3257,7 +3272,7 @@ sort: by_weight
 䩠	thing1
 䩡	kah
 䩢	ci3
-䩢	cih
+䩢	cieh
 䩣	thu1
 䩤	hiah
 䩥	dae2
@@ -3280,19 +3295,19 @@ sort: by_weight
 䩺	ung1
 䩼	vung1
 䩽	iu1
-䩿	ven1
+䩿	veng1
 䪁	fuk
 䪁	puk
 䪂	kak
 䪂	sak
 䪆	thi2
 䪈	khie3
-䪉	lih
+䪉	lieh
 䪊	lung1
 䪌	zae3
 䪍	lae1
 䪎	sei1
-䪏	nah
+䪏	neh
 䪐	pi3
 䪒	ciu3
 䪔	vu2
@@ -3310,7 +3325,7 @@ sort: by_weight
 䪧	ji1
 䪩	ngin1
 䪫	ghang1
-䪬	pheh
+䪬	phek
 䪯	iung1
 䪳	yun2
 䪴	cin2
@@ -3322,7 +3337,7 @@ sort: by_weight
 䪻	vae2
 䪼	cioh
 䪾	cin2
-䫀	ken2
+䫀	keng2
 䫁	bi3
 䫂	tou2
 䫄	tsoh
@@ -3333,7 +3348,7 @@ sort: by_weight
 䫌	phi2
 䫎	cioh
 䫏	khi1
-䫒	men1
+䫒	meng1
 䫔	khi3
 䫔	khiah
 䫖	chin2
@@ -3344,7 +3359,7 @@ sort: by_weight
 䫜	au1
 䫞	hiau1
 䫞	khiau1
-䫟	wen2
+䫟	weng2
 䫟	yun2
 䫠	bi1
 䫠	phi1
@@ -3372,7 +3387,7 @@ sort: by_weight
 䫴	gin2
 䫴	yin3
 䫵	mie1
-䫶	ven1
+䫶	veng1
 䫸	tsau1
 䫹	ghung1
 䫻	yuh
@@ -3391,7 +3406,7 @@ sort: by_weight
 䬊	sah
 䬌	feu1
 䬍	hiuh
-䬍	hueh
+䬍	huek
 䬎	kuak
 䬐	niu1
 䬑	yu3
@@ -3433,14 +3448,14 @@ sort: by_weight
 䭐	yang3
 䭑	lie2
 䭒	sik
-䭓	ngen3
+䭓	ngeng3
 䭔	tei1
 䭕	tzae2
 䭖	tzy3
 䭘	ing2
 䭙	tzin2
-䭡	en3
-䭡	uen3
+䭡	eng3
+䭡	ueng3
 䭢	nang1
 䭤	khie2
 䭦	bok
@@ -3449,7 +3464,7 @@ sort: by_weight
 䭩	mou1
 䭬	khi2
 䭭	shieu2
-䭮	feh
+䭮	fek
 䭱	biah
 䭱	phiah
 䭴	wae1
@@ -3473,7 +3488,7 @@ sort: by_weight
 䮔	ciu2
 䮗	ngoe3
 䮙	yuk
-䮝	wen1
+䮝	weng1
 䮟	seu1
 䮠	pik
 䮢	zah
@@ -3482,7 +3497,7 @@ sort: by_weight
 䮥	lik
 䮧	ghoe1
 䮧	ghoe3
-䮩	kueh
+䮩	kuek
 䮭	mik
 䮱	jiuk
 䮳	vae1
@@ -3497,12 +3512,12 @@ sort: by_weight
 䮾	bung1
 䮾	long1
 䯂	sin1
-䯂	zeh
+䯂	zek
 䯇	khuah
-䯇	khueh
+䯇	khuek
 䯈	nguoe1
 䯉	uah
-䯉	ueh
+䯉	uek
 䯊	khou1
 䯋	boh
 䯋	khoh
@@ -3560,10 +3575,10 @@ sort: by_weight
 䰖	tzah
 䰘	kiau2
 䰙	ngi2
-䰚	ven1
+䰚	veng1
 䰝	tzing3
 䰞	tzy2
-䰟	wen1
+䰟	weng1
 䰠	shin1
 䰡	chy3
 䰤	tung1
@@ -3592,7 +3607,7 @@ sort: by_weight
 䱏	theu2
 䱐	fu1
 䱐	veu1
-䱒	ih
+䱒	ieh
 䱔	yeu1
 䱕	meu1
 䱖	lieu1
@@ -3637,7 +3652,7 @@ sort: by_weight
 䲚	la3
 䲚	thah
 䲛	mung3
-䲜	ngih
+䲜	ngieh
 䲦	da3
 䲬	gi1
 䲯	gih
@@ -3646,7 +3661,7 @@ sort: by_weight
 䲸	ka3
 䲹	bi1
 䲽	tiau2
-䲽	zhiak
+䲽	zhik
 䲾	khau2
 䳀	diah
 䳀	yih
@@ -3665,14 +3680,14 @@ sort: by_weight
 䳑	yeu2
 䳔	kiuk
 䳕	veu1
-䳖	nih
+䳖	nieh
 䳚	khai3
 䳚	khoe3
 䳚	khoh
 䳝	pheu2
 䳟	ming1
 䳢	gi1
-䳤	pih
+䳤	pieh
 䳦	hioe1
 䳦	sioe1
 䳩	iau1
@@ -3689,8 +3704,8 @@ sort: by_weight
 䴁	ngiu1
 䴁	ngiu3
 䴃	nau1
-䴅	pen1
-䴅	ven1
+䴅	peng1
+䴅	veng1
 䴆	buk
 䴆	phuk
 䴇	ling1
@@ -3714,7 +3729,7 @@ sort: by_weight
 䴳	wah
 䴵	ping2
 䴷	wae2
-䴷	wen1
+䴷	weng1
 䴹	kou2
 䴹	wo2
 䴺	beu2
@@ -3751,7 +3766,7 @@ sort: by_weight
 䵦	zia2
 䵧	tzai3
 䵨	mong1
-䵬	thah
+䵬	theh
 䵮	shiang1
 䵮	yang3
 䵱	hik
@@ -3766,7 +3781,7 @@ sort: by_weight
 䵼	shiang1
 䵽	tsah
 䶀	kheh
-䶀	thah
+䶀	theh
 䶂	ciak
 䶂	pau3
 䶂	tik
@@ -3803,7 +3818,7 @@ sort: by_weight
 䶦	tsak
 䶩	zi3
 䶬	kiae1
-䶬	ngih
+䶬	ngieh
 䶱	ciung1
 䶱	dung1
 䶲	ne1
@@ -3828,7 +3843,7 @@ sort: by_weight
 下	gho2	
 下	gho3	3%
 丌	ki1
-不	feh
+不	fek
 不	feu1	2%
 不	feu2	2%
 与	yi2
@@ -3851,7 +3866,7 @@ sort: by_weight
 丣	yeu2
 並	bing2
 丨	gioh
-丨	kuen2
+丨	kueng2
 丩	kieu1
 丫	o1
 中	ciung1
@@ -3873,7 +3888,7 @@ sort: by_weight
 丽	li3
 丿	phiah
 丿	yi3
-乀	feh
+乀	fek
 乂	nguei3
 乃	nai2
 久	kieu2
@@ -3899,7 +3914,7 @@ sort: by_weight
 乞	khih
 也	ya2
 乩	ki1
-乭	deh
+乭	dek
 乳	niu2
 乾	gie1
 乾	koe1	
@@ -3948,7 +3963,7 @@ sort: by_weight
 亯	hiang2
 亳	bok
 亶	tae2
-亹	men1
+亹	meng1
 亹	vi2
 人	nin1
 亻	nin1
@@ -4012,7 +4027,7 @@ sort: by_weight
 任	nin1
 任	nin3
 份	pin1
-份	ven3	
+份	veng3	
 仿	fong2
 伀	ciung1
 企	khi2
@@ -4021,8 +4036,8 @@ sort: by_weight
 伃	yi1
 伄	tiau2
 伄	tiau3
-伆	veh
-伆	ven2
+伆	vek
+伆	veng2
 伈	sin2
 伉	khong3
 伊	i1
@@ -4084,7 +4099,7 @@ sort: by_weight
 佐	tzou3
 佑	yeu3
 佒	ong1
-体	ben2
+体	beng2
 佔	tiae1
 何	ghou1
 何	ghou2	1%
@@ -4095,7 +4110,7 @@ sort: by_weight
 余	yi1
 余	zhia1
 佚	yih
-佛	veh
+佛	vek
 作	tzok
 作	tzou3
 作	tzu3
@@ -4113,7 +4128,7 @@ sort: by_weight
 佬	lau2
 佮	eh
 佮	keh	
-佮	thah
+佮	theh
 佯	yang1
 佯	ziang1
 佰	mak
@@ -4126,7 +4141,7 @@ sort: by_weight
 併	ping2
 併	ping3
 佶	gih
-佷	ghen2
+佷	gheng2
 佸	kuoh
 佸	woh
 佹	kiu2
@@ -4212,8 +4227,8 @@ sort: by_weight
 俐	li3
 俑	thung1	1%
 俑	yung2	99%
-俒	wen1
-俒	wen3
+俒	weng1
+俒	weng3
 俓	king3
 俓	ngang1
 俓	ngiae1
@@ -4262,7 +4277,7 @@ sort: by_weight
 倄	ghau1
 倄	wei2
 倅	tsei3
-倅	tzeh
+倅	tzek
 倆	lia2
 倆	liang2
 倇	ioe2
@@ -4274,7 +4289,7 @@ sort: by_weight
 倍	bei2
 倏	shiuk
 倐	shiuk
-們	men1
+們	meng1
 倒	tau2
 倒	tau3
 倓	dae1
@@ -4298,7 +4313,7 @@ sort: by_weight
 倠	hiu1
 倡	chiang1
 倡	chiang3
-倢	zih
+倢	zieh
 倣	fong2
 倥	khung1
 倥	khung2
@@ -4318,7 +4333,7 @@ sort: by_weight
 倯	sung1
 倰	leng1
 倰	leng3
-倱	wen2
+倱	weng2
 倲	tung1
 倳	tzy3
 倷	nai2
@@ -4334,7 +4349,7 @@ sort: by_weight
 假	ko2
 假	ko3	30%
 偈	gi3
-偈	gih
+偈	gieh
 偉	yu2
 偋	bing3
 偌	nia3
@@ -4355,7 +4370,7 @@ sort: by_weight
 停	ding1
 偝	bei3
 偞	hiah
-偞	yih
+偞	yeh
 偟	wong1
 偠	iau2
 偡	dzae2
@@ -4401,7 +4416,7 @@ sort: by_weight
 傍	bong3
 傎	tiae1
 傏	dong1
-傑	gih
+傑	gieh
 傒	yi1
 傓	shie3
 傔	khiae3
@@ -4476,7 +4491,7 @@ sort: by_weight
 僒	giun2
 僓	thei2
 僓	wei3
-僔	tzen2
+僔	tzeng2
 僕	buk
 僖	hi1
 僗	lau3
@@ -4499,7 +4514,7 @@ sort: by_weight
 僥	ngiau1
 僦	tzieu3
 僧	seng1
-僨	fen3
+僨	feng3
 僩	ghae2
 僩	kae2
 僬	tziau1
@@ -4559,7 +4574,7 @@ sort: by_weight
 償	shiang2
 償	zhiang1
 償	zhiang3
-儠	lih
+儠	lieh
 儡	lei1
 儡	lei2
 儢	li2
@@ -4593,9 +4608,9 @@ sort: by_weight
 儽	li1
 儾	nong3
 儿	nin1
-兀	ngeh
+兀	ngek
 允	yun2
-兂	tzen1
+兂	tzeng1
 元	ngioe1
 兄	hiung1
 充	chiung1
@@ -4669,7 +4684,7 @@ sort: by_weight
 冘	yeu1
 冘	yin1
 冞	mi1
-冟	shiak
+冟	shik
 冠	kuoe1
 冠	kuoe3	50%
 冡	mung1
@@ -4689,9 +4704,9 @@ sort: by_weight
 冷	ling2	20%
 冸	phoe3
 冹	fah
-冹	feh
+冹	fek
 冼	siae2
-冽	lih
+冽	lieh
 凄	tsi1
 凅	ku3
 准	ciun2
@@ -4726,7 +4741,7 @@ sort: by_weight
 凶	hiung1
 凷	khua3
 凷	khuei3
-凸	deh
+凸	dek
 凸	diah
 凹	ah
 出	chiu3	5%
@@ -4737,14 +4752,13 @@ sort: by_weight
 刁	tiau1
 刂	tau1
 刃	nin3
-分	fen1	
-分	ven3	50%
+分	feng1	
+分	veng3	50%
 切	tsi3
-切	tsiah
 刈	nguei3
 刊	khoe1
-刌	tsen2
-刎	ven2
+刌	tseng2
+刎	veng2
 刏	gi1
 刏	ki1
 刏	kuei3
@@ -4754,25 +4768,25 @@ sort: by_weight
 划	wo1
 刓	nguoe1
 刕	li1
-刖	ngeh
+刖	ngek
 刖	ngioh
 刖	nguah
 列	ciu1	1%
-列	lih
-刜	feh
-刜	veh
+列	lieh
+刜	fek
+刜	vek
 初	tsu1
 刞	tsi3
 刡	min2
 刢	ling1
 判	phoe3
-別	bih
-別	pih
+別	bieh
+別	pieh
 刨	bau1
 利	li3
 刪	sae1
-别	bih
-别	pih
+别	bieh
+别	pieh
 刮	kuah
 到	tau3
 刱	tsong3
@@ -4886,13 +4900,13 @@ sort: by_weight
 劜	ah
 功	kung1
 加	ko1
-劣	lih
+劣	lieh
 劤	kin3
 劥	khang1
 劦	yah
 助	zu3
 努	nu2
-劫	kih
+劫	kieh
 劬	giu1
 劭	zhiau3
 劮	yih
@@ -4906,7 +4920,7 @@ sort: by_weight
 劾	kha3	20%
 勀	khek
 勁	king3
-勃	beh
+勃	bek
 勅	chik
 勇	yung2
 勉	mie2
@@ -4959,9 +4973,9 @@ sort: by_weight
 勻	yun1
 勼	kieu1
 勽	bau3
-勽	ven2
+勽	veng2
 勾	keu1
-勿	veh
+勿	vek
 匀	yun1
 匃	kai3
 匃	koh
@@ -4987,7 +5001,7 @@ sort: by_weight
 匚	fong1
 匜	yi1
 匜	yi2
-匝	tzah
+匝	tzeh
 匠	ziang3
 匡	khiong1
 匣	ghah
@@ -4996,7 +5010,7 @@ sort: by_weight
 匧	khiah
 匨	tzong1
 匪	fi2
-匫	hueh
+匫	huek
 匭	kiu2
 匯	khua1	2%
 匯	wei2
@@ -5022,6 +5036,7 @@ sort: by_weight
 千	tsiae1
 卄	kiung1
 卅	sah
+卅	seh
 升	shing1
 午	ngu2
 卉	hiu2
@@ -5030,8 +5045,8 @@ sort: by_weight
 卌	sih
 卍	mae3
 卑	pi1
-卒	tseh	20%
-卒	tzeh
+卒	tsek	20%
+卒	tzek
 卒	tziuh	20%
 卓	tzok
 協	yah
@@ -5105,7 +5120,7 @@ sort: by_weight
 厬	kiu2
 厭	ie2
 厭	ie3
-厭	ih
+厭	ieh
 厱	khae1
 厱	khie1
 厲	li3
@@ -5122,10 +5137,10 @@ sort: by_weight
 叀	zhioe3
 叁	sae1
 參	sae1	10%
-參	sen1	10%
+參	seng1	10%
 參	tse1	
 參	tse3	10%
-參	tsen1	10%
+參	tseng1	10%
 又	yeu3
 叉	tsa1
 叉	tso1
@@ -5189,7 +5204,7 @@ sort: by_weight
 合	keh	5%
 吉	kih
 吊	tiau3
-吋	tsen3
+吋	tseng3
 同	dung1
 名	ming1
 后	gheu2
@@ -5205,7 +5220,7 @@ sort: by_weight
 君	kiun1
 吜	chieu2
 吝	lin3
-吞	then1
+吞	theng1
 吞	thiae1
 吟	ngin1
 吟	ngin3
@@ -5218,8 +5233,8 @@ sort: by_weight
 否	feu2
 吧	pho1	2%
 吧	po1
-吨	then2
-吩	fen1
+吨	theng2
+吩	feng1
 吪	ngou1
 含	ghe1
 听	ngin2
@@ -5236,13 +5251,13 @@ sort: by_weight
 吴	ngu1
 吵	miau2
 吵	tsau2
-吶	nah
+吶	neh
 吷	hioh
 吸	hih
 吹	chiu1
 吹	chiu3
 吺	teu1
-吻	ven2
+吻	veng2
 吼	heu2
 吼	heu3
 吽	heu2
@@ -5263,7 +5278,7 @@ sort: by_weight
 告	kau3
 告	kuk
 呋	fu1
-呎	chiak
+呎	chik
 呐	nioh
 呔	tai1
 呝	ak
@@ -5298,20 +5313,20 @@ sort: by_weight
 呾	tah
 呿	khei3
 呿	khia1
-呿	khih
+呿	khieh
 咀	ah
 咀	tzi2
 咀	zi2
 咁	ke1
-咂	tzah
-咄	teh
+咂	tzeh
+咄	tek
 咄	toh
 咅	theu3
 咆	bau1
 咇	biah
 咇	bih
 咇	pih
-咈	veh
+咈	vek
 咉	ong1
 咉	ong2
 咊	ghou1
@@ -5343,7 +5358,7 @@ sort: by_weight
 咥	diah
 咥	tiah
 咦	hi1
-咧	lih
+咧	lieh
 咨	tzy1
 咩	mi2
 咩	mia2
@@ -5400,7 +5415,7 @@ sort: by_weight
 哊	yuk
 哎	ai3
 哎	ngai3
-哏	ghen1
+哏	gheng1
 哐	khiong1
 哚	tou2
 哞	meu1
@@ -5411,8 +5426,8 @@ sort: by_weight
 哤	mong1
 哥	kou1
 哦	ngou1
-哧	chiak
-哧	shiak
+哧	chik
+哧	shik
 哨	siau1
 哨	tsiau3
 哩	li2
@@ -5423,14 +5438,14 @@ sort: by_weight
 哮	hau3
 哯	yae2
 哰	lau1
-哱	pheh
-哲	cih
+哱	phek
+哲	cieh
 哳	tzah
 哴	liang3
 哴	long1
 哵	pah
 哶	mia2
-哷	lih
+哷	lieh
 哹	feu1
 哹	veu1
 哺	bu3
@@ -5485,14 +5500,14 @@ sort: by_weight
 唻	lai1
 唻	lai2
 唼	sah
-唼	tzah
-唼	tzih
+唼	tzeh
+唼	tzieh
 唾	thou3
 啀	nga1
 啁	cieu1
 啁	tzau1
 啂	neu2
-啃	khen2
+啃	kheng2
 啄	tuk
 啄	tzok
 啅	tzok
@@ -5501,17 +5516,17 @@ sort: by_weight
 啉	le1
 啊	ou1
 啌	hong1
-啍	den1
+啍	deng1
 啎	ngu3
-問	ven3
+問	veng3
 啐	sei3
 啐	tsei3
 啐	tsua3
 啐	tziuh
 啑	sah
 啑	ti3
-啒	hueh
-啒	kueh
+啒	huek
+啒	kuek
 啓	khi2
 啕	dau1
 啖	dae2
@@ -5536,7 +5551,7 @@ sort: by_weight
 啣	ghae1
 啤	bi1
 啥	zhia2
-啦	lah
+啦	leh
 啪	phak
 啵	pou1
 啶	ding3
@@ -5551,7 +5566,7 @@ sort: by_weight
 喃	nae1
 善	zhie2
 喅	yuk
-喆	cih
+喆	cieh
 喇	lah
 喈	ka1
 喉	gheu1
@@ -5583,15 +5598,15 @@ sort: by_weight
 喟	khua3
 喠	chiung2
 喠	ciung2
-喢	chih
+喢	chieh
 喢	sah
-喢	sih
+喢	sieh
 喢	tsah
 喣	hiu2
 喤	huang1
 喤	wang1
 喥	dok
-喦	nih
+喦	nieh
 喧	hioe1
 喨	liang3
 喪	song1
@@ -5605,7 +5620,7 @@ sort: by_weight
 單	zhie1	5%
 單	zhie2	5%
 單	zhie3	5%
-喰	sen1
+喰	seng1
 喰	tsae1
 喱	li1
 喲	iak
@@ -5630,13 +5645,13 @@ sort: by_weight
 嗈	iung1
 嗉	su3
 嗊	hung2
-嗋	hih
+嗋	hieh
 嗌	ik
 嗍	sok
 嗎	mo1
 嗑	gheh	5%
 嗑	keh
-嗒	tah
+嗒	teh
 嗒	thah
 嗓	song2
 嗔	chin1
@@ -5655,7 +5670,7 @@ sort: by_weight
 嗡	ung1
 嗡	ung2
 嗢	uah
-嗢	ueh
+嗢	uek
 嗣	zy3
 嗤	chy1
 嗥	ghau1
@@ -5663,7 +5678,7 @@ sort: by_weight
 嗨	hai1
 嗩	sou2
 嗪	zin1
-嗯	en1
+嗯	eng1
 嗲	tia2
 嗵	thung1
 嗶	pih
@@ -5686,7 +5701,7 @@ sort: by_weight
 嗿	the2
 嘀	tik
 嘀	tzak
-嘁	tzah
+嘁	tzeh
 嘂	kiau3
 嘅	khai3
 嘆	thae1
@@ -5743,17 +5758,17 @@ sort: by_weight
 嘾	de2
 嘿	hek
 噁	u3
-噂	tzen2
+噂	tzeng2
 噅	hiu1
 噆	tse2
-噆	tzah
+噆	tzeh
 噇	dzong1
 噈	tzuk
 噉	dae2
 噊	yuh
 噊	zhiuh
 噋	khuok
-噋	then1
+噋	theng1
 噌	tsang1
 噍	tziau1
 噍	ziau3
@@ -5800,8 +5815,8 @@ sort: by_weight
 噱	giak
 噲	khua3
 噳	ngiu2
-噴	phen1
-噴	phen3
+噴	pheng1
+噴	pheng3
 噶	koh
 噹	tong1
 噻	sai1
@@ -5810,13 +5825,13 @@ sort: by_weight
 嚂	he2
 嚂	khe3
 嚂	lae3
-嚃	thah
+嚃	theh
 嚄	wak
 嚅	niu1
 嚆	hau1
 嚇	hak
 嚇	ho3
-嚈	ih
+嚈	ieh
 嚊	phi3
 嚌	zi3
 嚎	ghau1
@@ -5832,7 +5847,7 @@ sort: by_weight
 嚛	huk
 嚜	mi3
 嚝	huang1
-嚞	cih
+嚞	cieh
 嚡	gha1
 嚥	iae3
 嚦	lik
@@ -5856,8 +5871,8 @@ sort: by_weight
 嚼	ziak
 嚾	huoe3
 囀	cioe3
-囁	cih
-囁	nih
+囁	cieh
+囁	nieh
 囂	hiau1
 囃	tsah
 囅	chie2
@@ -5881,17 +5896,17 @@ sort: by_weight
 囟	sin3
 因	in1
 囡	ne1
-囤	den2
+囤	deng2
 囦	ioe1
 囧	kiung2
 囩	yun1
 囪	tsong1
 囪	tsung1
-囫	hueh
+囫	huek
 园	nguoe1
 囮	ngou1
 囮	yeu1
-困	khuen3
+困	khueng3
 囱	tsong1
 囱	tsung1
 囷	khiun1
@@ -5900,7 +5915,7 @@ sort: by_weight
 囿	yeu3
 囿	yuk
 圁	ngin1
-圂	wen3
+圂	weng3
 圃	pu2
 圃	pu3
 圄	ngei2
@@ -5935,7 +5950,7 @@ sort: by_weight
 圡	thu2
 圢	thiae2
 圢	thing2
-圣	khueh
+圣	khuek
 圤	phok
 在	zai2	
 在	zai3	3%
@@ -5950,7 +5965,7 @@ sort: by_weight
 圱	tsiae1
 圳	ciun3
 圻	gi1
-圻	ngen1
+圻	ngeng1
 圻	ngin1
 圼	niah
 圿	kah
@@ -5961,13 +5976,13 @@ sort: by_weight
 坄	yuk
 坅	khin2
 均	kiun1
-坉	den1
-坉	den2
+坉	deng1
+坉	deng2
 坊	fong1
 坊	vong1
-坋	ven2
-坋	ven3
-坌	ben3
+坋	veng2
+坋	veng3
+坌	beng3
 坍	thae1
 坎	khe2
 坏	phei1
@@ -5979,7 +5994,7 @@ sort: by_weight
 坡	phou1
 坢	phoe2
 坣	dong1
-坤	khuen1
+坤	khueng1
 坥	tsi1
 坥	tsi3
 坦	thae2
@@ -5994,7 +6009,7 @@ sort: by_weight
 坯	phei1
 坰	kiung1
 坱	ong2
-坲	veh
+坲	vek
 坳	au1
 坴	luk
 坵	khieu1
@@ -6012,6 +6027,7 @@ sort: by_weight
 坿	vu1
 坿	vu3
 垂	zhiu1
+垃	leh
 型	ying1
 垌	thung2
 垍	gi3
@@ -6031,7 +6047,7 @@ sort: by_weight
 垛	dou2
 垝	kiu2
 垝	kiu3
-垠	ngen1
+垠	ngeng1
 垠	ngin1
 垡	vah
 垢	keu2
@@ -6065,7 +6081,7 @@ sort: by_weight
 埏	ye1
 埐	tzin1
 埐	zin1
-埒	lih
+埒	lieh
 埔	phu2
 埕	jing1
 埝	niah
@@ -6110,12 +6126,12 @@ sort: by_weight
 埿	ni1
 埿	ni3
 堀	giuh
-堀	khueh
+堀	khuek
 堁	khou2
 堁	khou3
 堁	khuei3
 堂	dong1
-堃	khuen1
+堃	khueng1
 堄	ngi2
 堄	ngi3
 堅	kiae1
@@ -6130,9 +6146,9 @@ sort: by_weight
 堋	phang1
 堍	thu3
 堖	nau2
-堗	deh
+堗	dek
 堙	in1
-堚	wen1
+堚	weng1
 堛	phik
 堜	liae3
 堝	kou1
@@ -6212,7 +6228,7 @@ sort: by_weight
 填	cin3	2%
 填	diae1
 填	diae3	2%
-塭	uen1
+塭	ueng1
 塯	lieu3
 塲	shiang1
 塵	jin1
@@ -6237,8 +6253,8 @@ sort: by_weight
 墉	yung1
 墊	diah
 墊	tiae3
-墋	tsen2
-墌	ciak
+墋	tseng2
+墌	cik
 墍	gi3
 墍	hi3
 墐	gin1
@@ -6260,7 +6276,7 @@ sort: by_weight
 墤	khua3
 墦	vae1
 墨	mek
-墩	ten1
+墩	teng1
 墫	tsiun1
 墬	di3
 墭	zhing3
@@ -6270,15 +6286,15 @@ sort: by_weight
 墲	mu1
 墲	phu1
 墲	vu1
-墳	ven1
-墳	ven2	20%
+墳	veng1
+墳	veng2	20%
 墶	dah
 墺	au3
 墺	iuk
 墻	ziang1
 墼	kik
 墽	khiau1
-墾	khen2
+墾	kheng2
 墿	yik
 壁	pik
 壂	diae3
@@ -6321,7 +6337,7 @@ sort: by_weight
 壹	ih
 壺	wu1
 壻	si3
-壼	khuen2
+壼	khueng2
 壽	zhieu2
 壽	zhieu3	2%
 壾	mong2
@@ -6370,7 +6386,7 @@ sort: by_weight
 夭	iau1
 夭	iau2
 央	iang1
-夯	ben2
+夯	beng2
 夯	hong1
 夯	hong2
 夰	ghau2
@@ -6401,8 +6417,8 @@ sort: by_weight
 奒	khai1
 奓	tzo1
 奓	tzo3
-奔	pen1
-奔	pen3
+奔	peng1
+奔	peng3
 奕	yik
 套	thau3
 奘	zong2
@@ -6425,8 +6441,8 @@ sort: by_weight
 奩	lie1
 奪	doh
 奫	iun1
-奭	shiak
-奮	fen3
+奭	shik
+奮	feng3
 奯	huoh
 奰	bi3
 奲	chia2
@@ -6480,10 +6496,10 @@ sort: by_weight
 妜	ioh
 妝	tzong1
 妞	nieu2
-妠	nah
 妠	ne3
+妠	neh
 妠	noh
-妢	ven1
+妢	veng1
 妣	pi2
 妤	yi1
 妥	thou2
@@ -6508,7 +6524,7 @@ sort: by_weight
 妻	tsi1
 妻	tsi3
 妼	bih
-妾	tsih
+妾	tsieh
 妿	kou1
 妿	ou1
 姁	giu1
@@ -6516,7 +6532,7 @@ sort: by_weight
 姁	hiu2
 姁	hiu3
 姂	fae3
-姂	khih
+姂	khieh
 姂	vah
 姅	phoe3
 姅	poe3
@@ -6566,7 +6582,7 @@ sort: by_weight
 姰	yoe3
 姱	khuo1
 姳	ming2
-姴	lih
+姴	lieh
 姶	eh
 姷	yeu3
 姸	ngiae1
@@ -6589,7 +6605,7 @@ sort: by_weight
 娋	sau3
 娌	li2
 娎	hiau3
-娎	hih
+娎	hieh
 娏	mong1
 娑	sou1
 娑	sou2
@@ -6622,7 +6638,7 @@ sort: by_weight
 娩	mae2
 娩	mae3
 娩	mie2
-娩	ven3
+娩	veng3
 娪	ngu1
 娬	vu2
 娭	hi1
@@ -6657,10 +6673,10 @@ sort: by_weight
 婐	ou2
 婓	fi1
 婔	yu1
-婕	tzih
+婕	tzieh
 婗	ngi1
 婘	gioe1
-婚	huen1
+婚	hueng1
 婞	ying2
 婟	wu2
 婟	wu3
@@ -6695,7 +6711,7 @@ sort: by_weight
 媁	yu2
 媄	mi2
 媅	te1
-媆	nen3
+媆	neng3
 媉	ok
 媊	tzie2
 媊	tzy1
@@ -6715,7 +6731,7 @@ sort: by_weight
 媞	di1
 媞	di2
 媞	zhi2
-媟	sih
+媟	sieh
 媠	dou3
 媠	thou2
 媢	mau2
@@ -6784,7 +6800,7 @@ sort: by_weight
 嫧	tsak
 嫧	tsik
 嫧	tzak
-嫩	nen3
+嫩	neng3
 嫪	lau1
 嫪	lau3
 嫫	mu1
@@ -6852,7 +6868,7 @@ sort: by_weight
 嬭	ni2
 嬮	ie1
 嬮	ie3
-嬮	ih
+嬮	ieh
 嬯	dai1
 嬰	ing1
 嬱	tsie3
@@ -6888,7 +6904,7 @@ sort: by_weight
 孎	ciuk
 孎	tzok
 子	tzy2
-孑	kih
+孑	kieh
 孒	kioh
 孒	kiuh
 孒	kiung2
@@ -6899,10 +6915,10 @@ sort: by_weight
 孖	tzy1
 孖	zy3
 字	zy3
-存	zen1
+存	zeng1
 孚	fu1
-孛	beh
 孛	bei3
+孛	bek
 孜	tzy1
 孝	hau3
 孟	mang3
@@ -6917,7 +6933,7 @@ sort: by_weight
 孨	nih
 孨	tzioe3
 孩	ghai1
-孫	sen1
+孫	seng1
 孬	nau1
 孮	zung1
 孰	zhiuk
@@ -6932,8 +6948,8 @@ sort: by_weight
 孷	li1
 學	ghok
 孺	niu3
-孼	ngih
-孽	ngih
+孼	ngieh
+孽	ngieh
 孿	lie1
 孿	sioe3
 孿	soe3
@@ -6948,7 +6964,7 @@ sort: by_weight
 守	shieu2	
 守	shieu3	2%
 安	oe1
-宊	theh
+宊	thek
 宋	sung3
 完	woe1
 宎	iau1
@@ -6993,7 +7009,7 @@ sort: by_weight
 宿	suk
 寀	tsai2
 寁	tze2
-寁	zih
+寁	zieh
 寂	zik
 寄	ki3
 寅	yin1	
@@ -7014,7 +7030,7 @@ sort: by_weight
 察	tsah
 寡	kuo2
 寢	tsin2
-寣	hueh
+寣	huek
 寤	ngu3
 寥	liau1
 寥	lik
@@ -7035,7 +7051,7 @@ sort: by_weight
 寵	chiung2
 寶	pau2
 寷	fung1
-寸	tsen3
+寸	tseng3
 寺	zy3
 寽	liuh
 封	fung1
@@ -7044,7 +7060,7 @@ sort: by_weight
 射	ya3	3%
 射	yik	2%
 射	zhia3
-射	zhiak
+射	zhik
 尅	khek
 將	tsiang1	1%
 將	tziang1
@@ -7052,13 +7068,13 @@ sort: by_weight
 專	cioe1
 尉	iu3
 尉	iuh
-尊	tzen1
+尊	tzeng1
 尋	zin1
 尌	zhiu3
 對	tei3
 導	dau3
 小	siau2
-尐	tzih
+尐	tzieh
 少	shiau2	
 少	shiau3	70%
 尒	ni2
@@ -7086,14 +7102,13 @@ sort: by_weight
 尰	zhiung2
 就	zieu3
 尲	kae1
-尳	kueh
-尳	weh
+尳	kuek
+尳	wek
 尵	dei1
 尵	dzua1
 尷	kae1
 尸	shy1
 尹	yun2
-尺	chiak
 尻	khau1
 尼	ni1
 尾	vi2
@@ -7143,9 +7158,9 @@ sort: by_weight
 屩	kiak
 屬	ciuk
 屬	zhiuk
-屮	chih
+屮	chieh
 屯	ciun1
-屯	den1
+屯	deng1
 屰	ngik
 山	sae1
 屳	hie1
@@ -7155,17 +7170,17 @@ sort: by_weight
 屸	lung1
 屹	ngih
 屺	khi2
-屼	ngeh
+屼	ngek
 屾	sin1
 岈	ho1
-岉	veh
+岉	vek
 岊	tziah
 岊	ziah
 岌	ngih
 岍	khiae1
 岏	nguoe1
 岐	gi1
-岑	zen1
+岑	zeng1
 岓	gi1
 岔	tso3
 岜	po1
@@ -7239,16 +7254,14 @@ sort: by_weight
 崍	lai1
 崎	gi1
 崎	khi1
-崐	kuen1
-崑	kuen1
 崒	ziuh
 崔	tsei1
 崔	zei1	1%
 崖	nga1
 崖	ngi1
 崗	kong1
-崘	len1
-崙	len1
+崘	leng1
+崙	leng1
 崚	ling1
 崛	giuh
 崛	ngiuh
@@ -7262,9 +7275,9 @@ sort: by_weight
 崥	pi2
 崦	ie1
 崧	sung1
-崨	zih
+崨	zieh
 崩	pang1
-崪	zeh
+崪	zek
 崮	ku3
 崱	zek
 崲	wong1
@@ -7309,7 +7322,7 @@ sort: by_weight
 嵣	dong2
 嵣	dong3
 嵤	wang1
-嵥	gih
+嵥	gieh
 嵦	ngai1
 嵧	lieu1
 嵨	u2
@@ -7327,7 +7340,7 @@ sort: by_weight
 嵸	tzung2
 嵼	sae2
 嵽	diah
-嵾	tsen1
+嵾	tseng1
 嶀	thu1
 嶁	leu2
 嶁	liu2
@@ -7341,7 +7354,7 @@ sort: by_weight
 嶈	tsiang1
 嶉	tziu1
 嶊	tzei2
-嶏	feh
+嶏	fek
 嶏	phei3
 嶑	ziang2
 嶒	zing1
@@ -7356,7 +7369,7 @@ sort: by_weight
 嶜	zin1
 嶝	teng3
 嶞	dou2
-嶟	tzen1
+嶟	tzeng1
 嶟	tziun1
 嶠	giau3
 嶢	ngiau1
@@ -7364,7 +7377,7 @@ sort: by_weight
 嶨	ghok
 嶨	khok
 嶩	nau1
-嶪	ngih
+嶪	ngieh
 嶭	ngiah
 嶭	ngoh
 嶮	hie2
@@ -7403,7 +7416,7 @@ sort: by_weight
 巔	tiae1
 巖	ngae1
 巘	ngie2
-巛	khuen1
+巛	khueng1
 巜	kuei3
 川	chioe1
 州	cieu1
@@ -7412,7 +7425,7 @@ sort: by_weight
 巡	ziun1
 巢	zau1
 巢	zau3
-巤	lih
+巤	lieh
 工	kung1	
 左	tzou2
 左	tzou3	5%
@@ -7436,15 +7449,15 @@ sort: by_weight
 巷	ghong3
 巸	yi1
 巹	kin2
-巽	sen3
+巽	seng3
 巾	kin1
-巿	feh
-帀	tzah
+巿	fek
+帀	tzeh
 市	zhy2
 布	pu3
 帆	vae1
 帆	vae3
-帇	nih
+帇	nieh
 帊	pho3
 帋	ci2
 希	hi1
@@ -7458,7 +7471,7 @@ sort: by_weight
 帕	mah
 帕	pho3
 帖	thiah
-帗	feh
+帗	fek
 帗	poh
 帘	lie1
 帘	zin1
@@ -7563,8 +7576,8 @@ sort: by_weight
 庄	bang1
 庇	pi3
 庈	gin1
-庉	den1
-庉	den2
+庉	deng1
+庉	deng2
 床	zong1
 庋	ki2
 庋	kiu2
@@ -7678,7 +7691,7 @@ sort: by_weight
 异	yi3
 弃	khi3
 弄	lung3	
-弅	ven2
+弅	veng2
 弆	kei2
 弆	khei2
 弇	ie2
@@ -7697,7 +7710,7 @@ sort: by_weight
 弔	tik	1%
 引	yin2
 引	yin3
-弗	feh
+弗	fek
 弘	ghung1
 弛	shi2
 弜	gi1
@@ -7725,7 +7738,7 @@ sort: by_weight
 弲	hioe1
 弲	ioe1
 弳	king3
-弴	ten1
+弴	teng1
 弴	tiau1
 張	ciang1
 張	ciang3	2%
@@ -7735,7 +7748,7 @@ sort: by_weight
 弸	phang1
 弼	bih
 弽	hiah
-弽	shih
+弽	shieh
 彀	keu3
 彃	pih
 彄	kheu1
@@ -7772,7 +7785,7 @@ sort: by_weight
 彡	sae1
 彡	sie1
 形	ying1
-彣	ven1
+彣	veng1
 彤	dung1
 彥	ngie3
 彦	ngie3
@@ -7798,13 +7811,13 @@ sort: by_weight
 彼	pi2
 彽	jy1
 彾	ling1
-彿	feh
+彿	fek
 往	yong2
 征	cing1
 徂	zu1
 待	dai2
 徇	ziun3
-很	ghen2
+很	gheng2
 徉	yang1
 徊	wei1
 律	liuh
@@ -7844,8 +7857,8 @@ sort: by_weight
 徵	cing1
 徵	cy2	20%
 德	tek
-徹	chih
-徹	jih
+徹	chieh
+徹	jieh
 徼	kiau1
 徼	kiau3
 徽	hiu1
@@ -7866,7 +7879,7 @@ sort: by_weight
 忕	da3
 忕	tha3
 忕	zhi3
-忖	tsen2
+忖	tseng2
 志	cy3
 忘	mong1	3%
 忘	mong3	97%
@@ -7893,25 +7906,25 @@ sort: by_weight
 忯	gi1
 忯	zhi1
 忱	zhin1
-忳	den1
+忳	deng1
 念	niae3
-忶	wen1
+忶	weng1
 忶	yun3
 忸	niuk
 忺	hie1
 忻	hin1
 忼	hong1
 忼	khong2
-忽	hueh
+忽	huek
 忾	hi1
-忿	fen2
-忿	fen3
+忿	feng2
+忿	feng3
 怊	chiau1
-怋	men1
+怋	meng1
 怋	min1
 怌	phi1
 怍	zok
-怎	tzen2
+怎	tzeng2
 怏	iang2
 怏	iang3
 怐	heu3
@@ -7946,13 +7959,13 @@ sort: by_weight
 怨	ioe3
 怩	ni1
 怪	kua3
-怫	veh
+怫	vek
 怫	vi3
 怭	bih
 怮	iau1
 怮	ieu1
 怮	ieu2
-怯	khih
+怯	khieh
 怱	tsung1
 怲	ping2
 怲	ping3
@@ -7999,8 +8012,8 @@ sort: by_weight
 恥	chy2
 恧	nik
 恧	niuk
-恨	ghen3
-恩	en1
+恨	gheng3
+恩	eng1
 恪	khok
 恫	dung3
 恫	thung1
@@ -8018,7 +8031,7 @@ sort: by_weight
 悁	ioe1
 悂	phi1
 悂	pi1
-悃	khuen2
+悃	khueng2
 悄	tsiau2
 悅	yoh
 悆	yi3
@@ -8028,7 +8041,7 @@ sort: by_weight
 悈	ka3
 悈	kik
 悉	sih
-悊	cih
+悊	cieh
 悋	lin3
 悌	di2
 悌	di3
@@ -8040,8 +8053,8 @@ sort: by_weight
 悔	huei2
 悔	huei3	20%
 悕	hi1
-悖	beh
-悖	bei3	10%
+悖	bei3
+悖	bek	10%
 悗	moe1
 悙	hang1
 悚	sung2
@@ -8061,7 +8074,7 @@ sort: by_weight
 悲	pi1
 悴	ziu3
 悵	chiang3
-悶	men3
+悶	meng3
 悷	li3
 悸	giu3
 悹	kuoe1
@@ -8076,18 +8089,18 @@ sort: by_weight
 悾	khung1
 悾	khung3
 悿	thiae2
-惀	len2
+惀	leng2
 惀	liun1
 惁	sik
 惂	khe2
-惃	kuen1
-惃	kuen2
+惃	kueng1
+惃	kueng2
 惄	nik
 情	zing1
 惆	chieu1
 惆	khieu1
 惇	ciun1
-惇	ten1
+惇	teng1
 惈	kou2
 惋	uoe3
 惌	ioe1
@@ -8103,10 +8116,10 @@ sort: by_weight
 惗	sie3
 惘	mong2
 惙	cioh
-惚	hueh
-惛	huen1
-惛	huen2
-惛	huen3
+惚	huek
+惛	hueng1
+惛	hueng2
+惛	hueng3
 惜	sik
 惝	chiang2
 惝	thong2
@@ -8154,7 +8167,7 @@ sort: by_weight
 愐	mie2
 愒	khai3
 愒	khi3
-愒	khih
+愒	khieh
 愓	dong2
 愔	in1
 愕	ngok
@@ -8184,14 +8197,14 @@ sort: by_weight
 愮	yau1
 愯	sung2
 愱	zih
-愲	kueh
+愲	kuek
 愴	tsong2
 愴	tsong3
 愵	nik
-愶	hih
+愶	hieh
 愷	khai2
 愺	tsau2
-愻	sen3
+愻	seng3
 愼	zhin3
 愽	pok
 愾	hi3
@@ -8199,7 +8212,7 @@ sort: by_weight
 愿	ngioe3
 慀	gha1
 慀	yi3
-慁	wen3
+慁	weng3
 慂	yung2
 慃	ong2
 慄	lih
@@ -8251,7 +8264,7 @@ sort: by_weight
 慱	doe1
 慲	moe1
 慳	khae1
-慴	cih
+慴	cieh
 慴	diah
 慵	zhiung1
 慶	khing3
@@ -8259,6 +8272,7 @@ sort: by_weight
 慸	chi3
 慸	di3
 慸	tsa3
+慹	cieh
 慹	cih
 慹	niah
 慹	zih
@@ -8277,8 +8291,8 @@ sort: by_weight
 憃	tsong1
 憉	bang1
 憊	ba3
-憋	phih
-憋	pih
+憋	phieh
+憋	pieh
 憌	giung1
 憍	khiau1
 憍	kiau1
@@ -8303,7 +8317,7 @@ sort: by_weight
 憠	gioh
 憡	tsak
 憢	hiau1
-憤	ven2
+憤	veng2
 憥	lau1
 憧	chiung1
 憧	dzong3
@@ -8348,7 +8362,7 @@ sort: by_weight
 懅	gei1
 懆	tsau2
 懆	tsau3
-懇	khen2
+懇	kheng2
 懈	ka3
 應	ing1
 應	ing3
@@ -8375,8 +8389,8 @@ sort: by_weight
 懡	mou2
 懢	lae1
 懢	lae3
-懣	men2
-懣	men3
+懣	meng2
+懣	meng3
 懣	moe2
 懤	jieu1
 懤	jieu3
@@ -8405,7 +8419,7 @@ sort: by_weight
 懼	giu3
 懽	huoe1
 懽	kuoe3
-懾	cih
+懾	cieh
 懿	i3
 戀	lie3
 戁	nae2
@@ -8437,7 +8451,7 @@ sort: by_weight
 戠	cik
 戡	cin2
 戡	khe1
-戢	tzeh
+戢	tzek
 戣	giu1
 戤	ghai3
 戥	teng2
@@ -8492,7 +8506,7 @@ sort: by_weight
 扑	phuk
 扒	pa3
 扒	pah
-扒	pih
+扒	pieh
 打	tang2
 打	ting2	5%
 扔	ning1
@@ -8511,20 +8525,20 @@ sort: by_weight
 扠	tsa1
 扡	yi2
 扢	kih
-扢	kueh
-扢	weh
+扢	kuek
+扢	wek
 扣	kheu2
 扣	kheu3
-扤	ngeh
+扤	ngek
 扤	ngioh
 扦	tsie1
 扭	cieu2
 扭	nieu2
-扮	fen1	2%
-扮	fen2	2%
+扮	feng1	2%
+扮	feng2	2%
 扮	kah	2%
 扮	pae3
-扮	ven2	2%
+扮	veng2	2%
 扯	chia2
 扱	tsah
 扳	pae1
@@ -8536,7 +8550,7 @@ sort: by_weight
 批	phi1
 扺	ci2
 扼	ak
-扽	ten3
+扽	teng3
 找	tzau2
 承	zhing1
 技	gi2
@@ -8545,9 +8559,9 @@ sort: by_weight
 抄	tsau1
 抄	tsau2
 抄	tsau3
-抆	ven2
-抆	ven3
-抇	weh
+抆	veng2
+抆	veng3
+抇	wek
 抈	ngioh
 抉	ioh
 抉	kioh
@@ -8559,8 +8573,8 @@ sort: by_weight
 抍	shing1
 抎	yun2
 抏	nguoe1
-抐	neh
-抐	nen3
+抐	nek
+抐	neng3
 抑	ik
 抒	zi2
 抒	zy2
@@ -8573,9 +8587,9 @@ sort: by_weight
 抖	teu2
 抗	ghong1	2%
 抗	khong3
-折	cih	
+折	cieh	
 折	di1	10%
-折	zhih	50%
+折	zhieh	50%
 抛	phau1
 抛	phau3
 抧	ci2
@@ -8595,8 +8609,8 @@ sort: by_weight
 抱	bau2
 抲	hou1
 抳	ni2
+抴	yeh
 抴	yi3
-抴	yih
 抵	ti2
 抶	chih
 抹	moh
@@ -8605,17 +8619,17 @@ sort: by_weight
 押	kah
 抽	chieu1
 抾	khi1
-抾	khih
+抾	khieh
 抿	min1
 抿	min2
-拂	feh
+拂	fek
 拃	tzae2
 拄	ciu2
 担	tae2
 拆	tsak
 拇	meu2
 拈	niae1
-拉	lah
+拉	leh
 拊	fu2
 拋	phau1
 拌	boe2
@@ -8626,7 +8640,7 @@ sort: by_weight
 拐	kuo2
 拑	gie1
 拒	gei2
-拓	ciak
+拓	cik
 拓	thok
 拔	bah
 拔	boh	5%
@@ -8639,10 +8653,10 @@ sort: by_weight
 拘	kiu1
 拙	cioh
 拚	bie3
-拚	fen3
+拚	feng3
 招	ciau1
 拜	pa3
-拫	ghen1
+拫	gheng1
 括	kuoh
 拭	shik
 拮	kiah
@@ -8654,17 +8668,17 @@ sort: by_weight
 拲	kiung2
 拳	gioe1
 拴	tsioe1
-拵	zen1
+拵	zeng1
 拶	tzah
 拷	khau2
 拸	yi1
-拹	hih
+拹	hieh
 拺	sak
 拺	tsak
 拼	pang1
 拼	phing1
 拼	ping1
-拽	yih
+拽	yeh
 拽	zhi3
 拾	zhih
 拿	no1
@@ -8687,7 +8701,7 @@ sort: by_weight
 挑	diau2	10%
 挑	thau1	1%
 挑	thiau1
-挒	lih
+挒	lieh
 挖	uah
 挨	a2
 挨	ai2
@@ -8695,7 +8709,7 @@ sort: by_weight
 挩	thoh
 挪	nou1
 挫	tzou3
-挬	beh
+挬	bek
 挭	kang2
 挮	thi2
 振	cin1	2%
@@ -8721,7 +8735,7 @@ sort: by_weight
 捄	gieu1
 捄	kiu1
 捅	thung2
-捆	khuen2
+捆	khueng2
 捇	huak
 捈	du1
 捈	thu1
@@ -8743,7 +8757,7 @@ sort: by_weight
 捖	woe1
 捘	tsiun1
 捘	tzei3
-捘	tzen3
+捘	tzeng3
 捜	seu1
 捠	pang1
 捥	uoe3
@@ -8752,7 +8766,7 @@ sort: by_weight
 捨	shia2
 捩	li3
 捩	liah
-捫	men1
+捫	meng1
 捭	pa2
 据	kei1
 捱	nga1
@@ -8761,13 +8775,13 @@ sort: by_weight
 捲	kioe3
 捳	ngok
 捶	ciu2
-捷	zih
+捷	zieh
 捺	nah
 捻	niah
 捼	nei1
 捼	niu1
 捼	nou1
-捽	zeh
+捽	zek
 捽	ziuh
 捾	uoh
 掀	hie1
@@ -8775,7 +8789,7 @@ sort: by_weight
 掂	tiae1
 掃	sau2
 掃	sau3
-掄	len1
+掄	leng1
 掄	liun1
 掅	tsing3
 掆	kong1
@@ -8791,7 +8805,7 @@ sort: by_weight
 掊	peu2
 掊	veu1
 掌	ciang2
-掍	wen2
+掍	weng2
 掎	khi3
 掎	ki1
 掎	ki2
@@ -8821,9 +8835,9 @@ sort: by_weight
 探	the1	1%
 探	the3
 掣	chi3
-掣	chih
+掣	chieh
 掤	ping1
-接	tzih
+接	tzieh
 控	khong1
 控	khung3
 推	chiu1
@@ -8895,19 +8909,19 @@ sort: by_weight
 揩	kha3
 揪	tzieu1
 揫	tzieu1
-揬	deh
-揭	gih
+揬	dek
+揭	gieh
 揭	khi3
-揭	khih
-揭	kih
+揭	khieh
+揭	kieh
 揮	hiu1
 揯	keng3
 揱	sau3
 揱	siau1
 揱	sok
 揲	diah
-揲	yih
-揲	zhih
+揲	yeh
+揲	zhieh
 揳	siah
 援	yoe1
 援	yoe3
@@ -8916,8 +8930,8 @@ sort: by_weight
 揶	ya1
 揹	pei1
 揾	iun2
-揾	ueh
-揾	uen3
+揾	uek
+揾	ueng3
 搄	keng1
 搆	keu3
 搇	khin3
@@ -8930,8 +8944,8 @@ sort: by_weight
 搋	tsa1
 搌	chie2
 搌	cie2
-損	sen2
-搎	sen1
+損	seng2
+搎	seng1
 搏	fu3
 搏	phok
 搏	pok
@@ -8950,6 +8964,7 @@ sort: by_weight
 搙	nok
 搙	nuk
 搚	lah
+搚	leh
 搛	kiae3
 搛	lie1
 搜	sau2
@@ -8958,14 +8973,14 @@ sort: by_weight
 搠	sok
 搡	song2
 搢	tzin3
-搣	mih
+搣	mieh
 搤	ak
 搥	tei1
 搦	nak
 搦	nok
 搧	shie1
 搨	thah
-搩	gih
+搩	gieh
 搪	dong1
 搫	boe1
 搫	bou1
@@ -8973,9 +8988,9 @@ sort: by_weight
 搭	thah
 搮	lih
 搯	thau1
-搰	weh
+搰	wek
 搴	kie2
-搵	uen3
+搵	ueng3
 搶	tsiang1
 搶	tsiang2
 搶	tsong2
@@ -8984,13 +8999,12 @@ sort: by_weight
 搹	kak
 携	yu1
 搽	dzo1
-搿	gheh
 摀	u2
-摁	en3
+摁	eng3
 摇	yau1
 摇	yau3
 摋	sah
-摋	sih
+摋	sieh
 摌	sae2
 摍	suk
 摎	kau1
@@ -9031,7 +9045,7 @@ sort: by_weight
 摪	tziang1
 摫	kiu1
 摬	ing2
-摭	ciak
+摭	cik
 摮	ngau1
 摯	cy3
 摰	ngiah
@@ -9050,8 +9064,8 @@ sort: by_weight
 摸	mok
 摸	mu1
 摹	mu1
-摺	cih
-摺	lah
+摺	cieh
+摺	leh
 摻	sae1
 摻	sae2
 摼	khang1
@@ -9068,7 +9082,7 @@ sort: by_weight
 撍	tze1
 撍	tze2
 撍	tze3
-撍	tzen1
+撍	tzeng1
 撎	i3
 撏	ze1
 撏	zhie1
@@ -9083,8 +9097,8 @@ sort: by_weight
 撖	khae2
 撖	khe1
 撗	wong1
-撘	tah
-撙	tzen2
+撘	teh
+撙	tzeng2
 撚	niae2
 撛	lin2
 撛	lin3
@@ -9102,8 +9116,8 @@ sort: by_weight
 撣	dae1
 撣	dae3
 撣	zhie1
-撤	chih
-撤	jih
+撤	chieh
+撤	jieh
 撥	poh
 撦	chia2
 撨	siau1
@@ -9172,7 +9186,7 @@ sort: by_weight
 擩	niu2
 擩	niu3
 擪	ie2
-擪	ih
+擪	ieh
 擬	ngi2
 擭	uak
 擭	wok
@@ -9187,7 +9201,7 @@ sort: by_weight
 擷	hiah
 擷	yah
 擸	lah
-擸	lih
+擸	lieh
 擹	thae1
 擺	pa2
 擻	seu2
@@ -9226,7 +9240,7 @@ sort: by_weight
 攛	tsoe1
 攜	yu1
 攝	niah	5%
-攝	shih
+攝	shieh
 攡	li1
 攢	tzae2
 攢	tzae3
@@ -9305,8 +9319,8 @@ sort: by_weight
 敤	khou3
 敦	doe1	5%
 敦	tei1	5%
-敦	ten1
-敦	ten3	5%
+敦	teng1
+敦	teng3	5%
 敫	kiau3
 敫	kik
 敫	yak
@@ -9340,7 +9354,7 @@ sort: by_weight
 斄	li1
 斅	ghau3
 斆	ghau3
-文	ven1
+文	veng1
 斌	pin1
 斐	fi2
 斑	pae1
@@ -9365,7 +9379,7 @@ sort: by_weight
 斤	kin1
 斤	kin3	2%
 斥	chia3
-斥	chiak
+斥	chik
 斦	ngin1
 斧	fu2
 斨	tsiang1
@@ -9421,7 +9435,7 @@ sort: by_weight
 无	mu1
 无	vu1
 旡	ki3
-旡	tzen1
+旡	tzeng1
 既	ki3
 旣	ki3
 日	nih
@@ -9447,8 +9461,8 @@ sort: by_weight
 昄	bae2
 昄	pae2
 昄	poe2
-昅	gih
-昆	kuen1
+昅	gieh
+昆	kueng1
 昇	shing1
 昈	wu2
 昉	fong2
@@ -9456,9 +9470,9 @@ sort: by_weight
 昋	kiu3
 昌	chiang1
 明	ming1
-昏	huen1
-昒	hueh
-昒	veh
+昏	hueng1
+昒	huek
+昒	vek
 易	yi3
 易	yik
 昔	sik
@@ -9470,7 +9484,7 @@ sort: by_weight
 星	sing1
 映	ing3
 映	ong2
-昢	pheh
+昢	phek
 昤	ling1
 春	chiun1
 昦	ghau2
@@ -9487,7 +9501,7 @@ sort: by_weight
 昵	nih
 昶	chiang2
 昶	chiang3
-昷	uen1
+昷	ueng1
 晁	jiau1
 時	zhy1
 晃	wong2
@@ -9504,14 +9518,14 @@ sort: by_weight
 晚	mae2
 晛	niae3
 晛	yae2
-晜	kuen1
+晜	kueng1
 晝	cieu3
 晞	hi1
 晟	zhing3
 晡	pu1
 晢	ci3
-晢	cih
-晣	cih
+晢	cieh
+晣	cieh
 晤	ngu3
 晥	woe2
 晦	huei3
@@ -9532,7 +9546,7 @@ sort: by_weight
 晵	khie3
 晶	tzing1
 晷	kiu2
-晹	shiak
+晹	shik
 智	ci3
 晻	e2
 晻	ie2
@@ -9551,7 +9565,7 @@ sort: by_weight
 暋	min2
 暌	khiu1
 暍	hoh
-暍	ih
+暍	ieh
 暎	ing3
 暏	tu2
 暐	yu2
@@ -9571,7 +9585,7 @@ sort: by_weight
 暨	ki3
 暫	zae3
 暬	niah
-暬	sih
+暬	sieh
 暭	ghau2
 暮	mu3
 暰	tsung1
@@ -9585,14 +9599,15 @@ sort: by_weight
 暹	sie1
 暻	kiung2
 暼	phiah
-暾	then1
+暾	theng1
 曀	i3
 曁	gi3
 曁	ki3
 曁	kih
 曃	thai3
+曄	yeh
 曄	yih
-曅	yih
+曅	yeh
 曆	lik
 曇	de1
 曈	dung1
@@ -9605,7 +9620,7 @@ sort: by_weight
 曏	shiang2
 曏	shiang3
 曐	sing1
-曑	sen1
+曑	seng1
 曔	ging3
 曖	ai3
 曖	ai3	0%
@@ -9633,7 +9648,7 @@ sort: by_weight
 更	kang1
 更	kang3
 曵	yi3
-曶	hueh
+曶	huek
 曷	ghoh
 書	sy1
 曹	zau1
@@ -9648,14 +9663,14 @@ sort: by_weight
 朁	zie1
 會	kuei3	2%
 會	wei3
-朅	khih
+朅	khieh
 朆	mung1
 月	ngioh
 有	yeu2
 朊	ngioe2
 朋	bang1
 朌	pae1
-朌	ven1
+朌	veng1
 服	vuk
 朏	fi2
 朏	phei2
@@ -9687,7 +9702,7 @@ sort: by_weight
 木	muk
 未	vi3	
 末	moh
-本	pen2
+本	peng2
 札	tzah
 朮	jiuh
 朮	zhiuh
@@ -9721,12 +9736,12 @@ sort: by_weight
 杈	tsa3
 杈	tso1
 杉	sae1
-杌	ngeh
+杌	ngek
 杍	tzy2
 李	li2
 杏	ghang2
 材	zai1
-村	tsen1
+村	tseng1
 杒	nin3
 杓	phiau1
 杓	piau1
@@ -9750,7 +9765,7 @@ sort: by_weight
 杭	ghong1
 杮	fi3
 杯	pei1
-杰	gih
+杰	gieh
 東	tung1
 杲	kau2
 杳	iau2
@@ -9770,7 +9785,7 @@ sort: by_weight
 杽	chieu2
 松	zung1
 板	pae2
-极	gih
+极	gieh
 枂	ngioh
 枂	nguoh
 枃	tzin3
@@ -9783,7 +9798,7 @@ sort: by_weight
 枊	ngong1
 枊	ngong3
 枋	fong1
-枌	ven1
+枌	veng1
 枍	i3
 枎	vu1
 析	sik
@@ -9823,7 +9838,7 @@ sort: by_weight
 枹	vu1
 枺	mei3
 枻	yi3
-枼	yih
+枼	yeh
 枾	zy2
 枿	ngoh
 柀	pi2
@@ -9870,9 +9885,9 @@ sort: by_weight
 查	zo1
 柧	ku1
 柩	gieu3
-柫	feh
+柫	fek
 柬	kae2
-柮	teh
+柮	tek
 柮	zoh
 柯	kou1
 柰	na3
@@ -9923,7 +9938,7 @@ sort: by_weight
 栩	hiu2
 栩	yu2
 株	ciu1
-栫	zen3
+栫	zeng3
 栫	ziae3
 栭	ni1
 栯	iuk
@@ -9934,11 +9949,11 @@ sort: by_weight
 栳	lau2
 栴	cie1
 栵	li3
-栵	lih
+栵	lieh
 样	tzong1
 样	yang1
 核	ghak	
-根	ken1
+根	keng1
 栺	cy1
 栺	ngi3
 栻	chik
@@ -9947,7 +9962,7 @@ sort: by_weight
 栽	tzai1
 栽	zai3
 栿	vuk
-桀	gih
+桀	gieh
 桁	ghang1
 桁	ghong1
 桂	kiu3
@@ -9982,7 +9997,7 @@ sort: by_weight
 桯	thing1
 桯	ying1
 桱	king3
-桲	beh
+桲	bek
 桴	fu1
 桴	veu1
 桵	niu1
@@ -10032,14 +10047,14 @@ sort: by_weight
 梡	woe2
 梢	sau1
 梢	sau2
-梣	zen1
+梣	zeng1
 梣	zin1
-梤	ven1
+梤	veng1
 梧	ngu1
 梨	li1
 梩	li1
 梪	deu3
-梫	tsen1
+梫	tseng1
 梫	tsin2
 梫	tzin1
 梬	ying2
@@ -10047,16 +10062,16 @@ sort: by_weight
 梮	kiuk
 梯	thi1
 械	gha3
-梱	khuen2
-梱	ngen1
+梱	khueng2
+梱	ngeng1
 梲	cioh
-梲	theh
+梲	thek
 梲	thoh
 梳	su1
 梴	chie1
 梵	vae3	2%
 梵	vung1
-棁	theh
+棁	thek
 棁	thoh
 棃	li1
 棄	khi3
@@ -10067,7 +10082,7 @@ sort: by_weight
 棊	gi1
 棋	gi1
 棌	tsai3
-棍	wen2
+棍	weng2
 棎	zhie1
 棏	dek
 棏	tzak
@@ -10078,7 +10093,7 @@ sort: by_weight
 棓	bei1
 棓	bong2
 棓	veu1
-棔	huen1
+棔	hueng1
 棕	tzung1
 棖	dzang1
 棗	tzau2
@@ -10101,7 +10116,7 @@ sort: by_weight
 棪	ye2
 棫	yuk
 棬	khioe1
-森	sen1
+森	seng1
 棯	nin2
 棰	ciu2
 棱	leng1
@@ -10121,15 +10136,15 @@ sort: by_weight
 棹	dzau3
 棺	kuoe1
 棺	kuoe3
-棻	fen1
-棻	ven1
-棼	ven1
+棻	feng1
+棻	veng1
+棼	veng1
 棽	chin1
-棽	sen1
+棽	seng1
 棿	ngi1
 椀	uoe2
 椁	kuok
-椄	tzih
+椄	tzieh
 椅	i1	5%
 椅	i2	95%
 椆	cieu3
@@ -10137,7 +10152,7 @@ sort: by_weight
 椇	kiu2
 椈	kiuk
 椉	zhing1
-椊	zeh
+椊	zek
 椋	liang1
 椌	khong1
 椌	khung1
@@ -10190,7 +10205,7 @@ sort: by_weight
 楋	lah
 楌	ngae1
 楎	hiu1
-楎	wen1
+楎	weng1
 楏	khiu1
 楑	giu1
 楑	giu2
@@ -10221,11 +10236,11 @@ sort: by_weight
 楨	cing1
 楩	bie1
 楩	bie2
-楪	yih
-楫	tzih
-楬	gih
+楪	yeh
+楫	tzieh
+楬	gieh
 楬	khah
-業	ngih
+業	ngieh
 楮	tsy2
 楮	tu2
 楯	chiun1
@@ -10246,7 +10261,7 @@ sort: by_weight
 楺	nieu2
 榀	phin2
 概	kai3
-榅	ueh
+榅	uek
 榆	yau1
 榆	yu1
 榍	siah
@@ -10265,11 +10280,11 @@ sort: by_weight
 榜	pang3	20%
 榜	pong2
 榝	sah
-榝	sih
+榝	sieh
 榞	ngioe1
 榠	ming1
 榣	yau1
-榤	gih
+榤	gieh
 榥	wong2
 榦	koe3
 榧	fi2
@@ -10294,7 +10309,7 @@ sort: by_weight
 榼	kheh
 榽	gha1
 榽	yi1
-榾	kueh
+榾	kuek
 榿	khi1
 榿	ki1
 槀	kau2
@@ -10336,9 +10351,9 @@ sort: by_weight
 槪	kai3
 槭	tzuk
 槮	se2
-槮	sen1
-槮	sen2
-槮	tsen1
+槮	seng1
+槮	seng2
+槮	tseng1
 槯	zei1
 槱	yeu2
 槱	yeu3
@@ -10390,7 +10405,7 @@ sort: by_weight
 樞	chiu1
 樟	ciang1
 樠	mae1
-樠	men1
+樠	meng1
 樠	moe1
 模	mu1
 樣	yang3
@@ -10413,7 +10428,7 @@ sort: by_weight
 樻	giu3
 樻	khiu3
 樼	tzin1
-樽	tzen1
+樽	tzeng1
 樾	yoh
 樿	cie2
 橀	hai2
@@ -10458,7 +10473,7 @@ sort: by_weight
 橦	dzong1
 橧	tzeng1
 橧	zing1
-橨	ven1
+橨	veng1
 橨	vi2
 橪	iae1
 橪	nie2
@@ -10498,14 +10513,14 @@ sort: by_weight
 檜	kuei3
 檜	kuoh
 檜	wei3
-檝	tzih
+檝	tzieh
 檝	zih
 檞	ka2
 檟	ko2
 檠	ging1
 檠	ging3
 檡	dzak
-檡	shiak
+檡	shik
 檢	kie2
 檣	ziang1
 檥	ngi2
@@ -10565,10 +10580,10 @@ sort: by_weight
 櫪	lik
 櫫	tzy1
 櫬	tsin3
-櫭	gih
+櫭	gieh
 櫰	kuei1
 櫰	wa1
-櫱	ngih
+櫱	ngieh
 櫱	ngoh
 櫳	lung1
 櫸	kei2
@@ -10586,8 +10601,8 @@ sort: by_weight
 欃	zae1
 欃	zae3
 欄	lae1
-欇	shih
-欇	zhih
+欇	shieh
+欇	zhieh
 欈	yu1
 權	gioe1
 欋	giu1
@@ -10652,11 +10667,11 @@ sort: by_weight
 歂	zhioe1
 歂	zhioe2
 歃	sah
-歃	sih
+歃	sieh
 歄	kuo1
 歅	in1
 歆	hin1
-歇	hih
+歇	hieh
 歈	deu1
 歈	yu1
 歉	khae2
@@ -10673,12 +10688,12 @@ sort: by_weight
 歐	eu2
 歑	hu1
 歔	hei1
-歕	phen1
-歕	phen3
+歕	pheng1
+歕	pheng3
 歖	hi1
 歗	siau3
 歙	hih
-歙	shih
+歙	shieh
 歛	he1
 歜	chiuk
 歜	ze2
@@ -10699,7 +10714,7 @@ sort: by_weight
 歫	gei2
 歬	ziae1
 歭	jy2
-歰	seh
+歰	sek
 歱	ciung2
 歲	siu3
 歳	siu3
@@ -10708,9 +10723,9 @@ sort: by_weight
 歹	tai2
 歺	ngoh
 死	sy2
-歿	meh
+歿	mek
 殀	iau2
-殁	meh
+殁	mek
 殂	zu1
 殃	iang1
 殄	diae2
@@ -10731,15 +10746,15 @@ sort: by_weight
 殕	feu2
 殕	fu2
 殖	zhik
-殗	ih
+殗	ieh
 殘	zae1
-殙	huen1
+殙	hueng1
 殛	kik
-殜	jih
-殜	yih
+殜	jieh
+殜	yeh
 殞	yun2
-殟	ueh
-殟	uen1
+殟	uek
+殟	ueng1
 殠	chieu3
 殠	hieu2
 殢	hi3
@@ -10851,9 +10866,9 @@ sort: by_weight
 氘	tau1	
 氙	sie1	
 氚	chioe1	
-氛	fen1
-氛	ven1	50%
-氟	feh
+氛	feng1
+氛	veng1	50%
+氟	fek
 氡	tung1	
 氣	hi3
 氣	khi3
@@ -10873,7 +10888,7 @@ sort: by_weight
 氶	cing2
 永	yung2
 氹	dae2
-氽	then2
+氽	theng2
 氾	fae3
 氾	vae1
 氿	kiu2
@@ -10923,10 +10938,10 @@ sort: by_weight
 汦	cy1
 汧	khiae1
 汧	khiae3
-汨	kueh
+汨	kuek
 汨	mik
 汨	yuh
-汩	kueh
+汩	kuek
 汩	yuh
 汪	iong2
 汪	uong1
@@ -10940,18 +10955,18 @@ sort: by_weight
 汳	fae3
 汴	bie3
 汶	min1
-汶	ven1
-汶	ven3
+汶	veng1
+汶	veng3
 汸	fong1
 決	hioh	2%
 決	kioh
 汻	hong2
 汽	khi3
-汾	ven1
+汾	veng1
 沁	tsin3
 沂	ngi1
 沃	uk
-沄	wen1
+沄	weng1
 沄	yun1
 沅	ngioe1
 沆	ghong1
@@ -10962,18 +10977,18 @@ sort: by_weight
 沈	shin2
 沉	jin1
 沋	yeu1
-沌	den1
-沌	den2
+沌	deng1
+沌	deng2
 沌	jioe2
 沏	tsiah
 沐	muk
 沑	nieu2
 沑	niuk
-沒	meh
-沓	dah
+沒	mek
+沓	deh
 沔	mie2
 沕	mih
-沕	veh
+沕	vek
 沖	jiung1
 沘	bi1
 沘	pi2
@@ -10984,8 +10999,8 @@ sort: by_weight
 沛	phei3
 沜	phoe3
 沝	ciu2
-沞	tzah
-没	meh
+沞	tzeh
+没	mek
 沫	moh
 沬	mei3
 沬	vi3
@@ -11020,7 +11035,7 @@ sort: by_weight
 沿	yoe1
 況	hiong3
 泂	yung2
-泄	sih
+泄	sieh
 泄	yi3
 泅	zieu1
 泆	diah
@@ -11034,7 +11049,7 @@ sort: by_weight
 泌	pih
 泎	zak
 泏	ciuh
-泏	khueh
+泏	khuek
 泐	lek
 泐	lik
 泑	ieu1
@@ -11077,7 +11092,7 @@ sort: by_weight
 泱	ong2
 泳	yung3
 泵	pang3
-泿	ngen1
+泿	ngeng1
 泿	ngin1
 洁	kih
 洄	wei1
@@ -11089,7 +11104,7 @@ sort: by_weight
 洋	yang1	99%
 洋	ziang1	1%
 洌	li3
-洌	lih
+洌	lieh
 洍	yi1
 洍	zy2
 洎	gi3
@@ -11155,9 +11170,9 @@ sort: by_weight
 洿	u1
 洿	wu2
 流	lieu1
-浖	lih
+浖	lieh
 浘	vi2
-浙	cih
+浙	cieh
 浚	siun3
 浛	ghe3
 浜	pang1
@@ -11166,11 +11181,12 @@ sort: by_weight
 浞	zok
 浟	yeu1
 浠	hi1
-浡	beh
+浡	bek
 浢	deu3
 浣	woe2
 浤	wang1
 浥	ah
+浥	ieh
 浥	ih
 浦	phu2
 浧	ying2
@@ -11203,13 +11219,13 @@ sort: by_weight
 涀	yi2
 涂	du1
 涂	dzy1
-涃	khuen3
+涃	khueng3
 涅	niah
 涇	ging2
 涇	king1
 消	siau1
 涉	tiah
-涉	zhih
+涉	zhieh
 涊	niae2
 涊	nin2
 涌	yung2
@@ -11222,9 +11238,9 @@ sort: by_weight
 涐	ngou1
 涑	seu1
 涑	suk
-涒	then1
+涒	theng1
 涓	kioe1
-涔	zen1
+涔	zeng1
 涕	thi2
 涕	thi3
 涖	li3
@@ -11254,18 +11270,18 @@ sort: by_weight
 涻	shia3
 涼	liang1
 涼	liang3
-涾	dah
+涾	deh
 涿	tzok
 淀	diae3
-淁	tsih
+淁	tsieh
 淂	tek
 淃	gioe3
 淄	tzy1
 淅	sik
 淆	ghau1
 淇	gi1
-淈	gheh
-淈	kueh
+淈	ghek
+淈	kuek
 淊	ae1
 淊	ae3
 淊	ghe2
@@ -11317,10 +11333,10 @@ sort: by_weight
 深	shin3
 淲	biau1
 淳	zhiun1
-淴	ueh
+淴	uek
 淵	ioe1
 淶	lai1
-混	wen2
+混	weng2
 淸	tsing1
 淹	ie1
 淹	ie3
@@ -11346,15 +11362,15 @@ sort: by_weight
 渡	du3
 渢	vung1
 渣	tzo1
-渤	beh
+渤	bek
 渥	ok
 渦	kou1
 渦	ou1
 渧	ti3
 渨	uei1
-温	uen1
+温	ueng1
 渫	diah
-渫	sih
+渫	sieh
 渫	zah
 測	tsek
 渭	yu3
@@ -11364,7 +11380,7 @@ sort: by_weight
 渱	ghung1
 渲	sioe3
 渳	mi2
-渴	gih
+渴	gieh
 渴	khoh
 渶	ing1
 渷	yoe2
@@ -11375,8 +11391,8 @@ sort: by_weight
 渻	sing2
 渼	mi2
 渽	tzai1
-渾	wen1
-渾	wen2
+渾	weng1
+渾	weng2
 渿	na3
 湀	giu2
 湀	khioh
@@ -11399,9 +11415,9 @@ sort: by_weight
 湑	si1
 湑	si2
 湒	tzih
-湓	ben1
-湓	fen3
-湓	phen3
+湓	beng1
+湓	feng3
+湓	pheng3
 湔	tziae1
 湔	tzie1
 湔	tzie3
@@ -11471,14 +11487,14 @@ sort: by_weight
 溠	tzo1
 溠	tzo3
 溢	yih
-溣	len3
+溣	leng3
 溥	phu2
 溥	pok
 溧	lih
 溨	zai1
 溩	u2
 溪	khi1
-溫	uen1
+溫	ueng1
 溭	zek
 溯	su3
 溰	ngi1
@@ -11491,12 +11507,13 @@ sort: by_weight
 溵	in1
 溶	yung1
 溶	yung2
-溷	wen3
+溷	weng3
 溹	sak
 溹	sok
 溺	niak
 溺	nik
 溻	thah
+溻	theh
 溼	shih
 溽	niuk
 溾	ua1
@@ -11507,7 +11524,7 @@ sort: by_weight
 滃	ung2
 滄	tsong1
 滄	tsong3	2%
-滅	mih
+滅	mieh
 滆	ghak
 滇	diae1	20%
 滇	thiae3	20%
@@ -11520,10 +11537,10 @@ sort: by_weight
 滍	jy2
 滎	yung1
 滏	vu2
-滐	gih
-滑	kueh	5%
+滐	gieh
+滑	kuek	5%
 滑	wah
-滑	weh	5%
+滑	wek	5%
 滒	kou1
 滓	tzy2
 滔	thau1
@@ -11537,18 +11554,18 @@ sort: by_weight
 滰	giang2
 滱	kheu1
 滱	kheu3
-滲	sen3
+滲	seng3
 滴	tik
 滵	mih
 滶	ngau1
-滷	chiak
+滷	chik
 滷	dik
 滷	lu2
 滸	hu2
 滹	hu1
 滻	sae2
 滽	yung1
-滾	kuen2
+滾	kueng2
 滿	moe2
 漁	ngei1
 漂	phiau1
@@ -11591,7 +11608,7 @@ sort: by_weight
 漭	mong3
 漮	khong1
 漯	lou3
-漯	thah
+漯	theh
 漰	phang1
 漱	seu3
 漲	ciang1
@@ -11614,7 +11631,7 @@ sort: by_weight
 漿	tziang1
 潁	yung2
 潎	phi3
-潎	phih
+潎	phieh
 潏	kioh
 潏	yuh
 潏	zhiuh
@@ -11636,7 +11653,7 @@ sort: by_weight
 潝	hih
 潞	lu3
 潟	sik
-潠	sen3
+潠	seng3
 潢	wong1
 潢	wong3
 潣	mei2
@@ -11673,8 +11690,8 @@ sort: by_weight
 潾	lae1
 潾	lin1
 潿	yu1
-澀	seh
-澁	seh
+澀	sek
+澁	sek
 澂	jing1
 澄	dzang1
 澄	jing1
@@ -11684,7 +11701,7 @@ sort: by_weight
 澇	lau1
 澇	lau2
 澇	lau3
-澈	jih
+澈	jieh
 澉	ke2
 澉	thae3
 澋	wang2
@@ -11719,7 +11736,7 @@ sort: by_weight
 澮	kuei3
 澰	lie2
 澱	diae3
-澲	ngih
+澲	ngieh
 澳	au3
 澳	iuk	2%
 澴	wae1
@@ -11742,22 +11759,21 @@ sort: by_weight
 濃	niung1
 濄	ou1
 濅	tzin3
-濆	phen1
-濆	ven1
-濇	seh
+濆	pheng1
+濆	veng1
 濇	sek
-濈	tzeh
+濈	tzek
 濉	siu1
 濊	huei3
 濊	huoh
 濊	uei3
 濋	tsu2
-濌	thah
+濌	theh
 濎	ting2
 濓	liae1
 濔	mi2
 濕	shih
-濕	thah
+濕	theh
 濗	mik
 濘	ni3
 濘	ning2
@@ -11863,7 +11879,7 @@ sort: by_weight
 瀴	ang3
 瀴	ing2
 瀴	ming2
-瀵	fen3
+瀵	feng3
 瀶	lin1
 瀷	chik
 瀷	yik
@@ -11876,7 +11892,7 @@ sort: by_weight
 瀿	vae1
 灂	zok
 灃	fung1
-灄	shih
+灄	shieh
 灈	giu1
 灉	iung1
 灉	iung3
@@ -11931,7 +11947,7 @@ sort: by_weight
 炂	ciung1
 炅	kiu3
 炅	kiung2
-炆	ven1
+炆	veng1
 炈	yuk
 炊	chiu1
 炎	ye1
@@ -11940,16 +11956,16 @@ sort: by_weight
 炔	kiu3	
 炕	hong1	2%
 炕	khong3
-炖	den3
+炖	deng3
 炘	hin1
 炘	hin3
 炙	cia3
-炙	ciak
+炙	cik
 炟	tah
 炠	ghah
 炢	jiuh
 炤	ciau3
-炥	veh
+炥	vek
 炦	boh
 炪	chiuh
 炪	cioh
@@ -11971,11 +11987,11 @@ sort: by_weight
 炷	ciu3
 炸	tzo3
 為	yu1
-炻	zhiak
+炻	zhik
 烀	hu1
 烄	kau2
 烄	kau3
-烈	lih
+烈	lieh
 烊	yang1
 烋	hieu1
 烏	u1
@@ -12009,13 +12025,13 @@ sort: by_weight
 烹	phang1
 烼	hiuh
 烽	fung1
-烾	chiak
+烾	chik
 焀	ghuk
 焁	hi1
 焃	huak
 焄	hiun1
 焅	khuk
-焆	ih
+焆	ieh
 焆	ioh
 焆	kioe1
 焇	siau1
@@ -12023,15 +12039,15 @@ sort: by_weight
 焉	ye1
 焊	hoe2
 焌	tsiuh
-焌	tzen3
+焌	tzeng3
 焌	tziun3
-焎	hih
+焎	hieh
 焐	ngu3
 焓	ghe1
 焗	giuk
 焙	bei3
-焚	ven1
-焜	wen2
+焚	veng1
+焜	weng2
 焞	zhiun1
 焟	sik
 焠	tsei3
@@ -12058,8 +12074,8 @@ sort: by_weight
 煆	ho1
 煆	ho3
 煇	hiu1
-煇	wen1
-煇	wen2
+煇	weng1
+煇	weng2
 煉	liae3
 煊	hioe1
 煋	sing1
@@ -12084,8 +12100,8 @@ sort: by_weight
 煝	mi3
 煞	sah
 煟	yu3
-煠	chih
-煠	yih
+煠	chieh
+煠	yeh
 煠	zah
 煢	giung1
 煣	nieu2
@@ -12109,8 +12125,8 @@ sort: by_weight
 煼	tsau2
 煽	shie1
 煽	shie3
-煾	en1
-熁	hih
+煾	eng1
+熁	hieh
 熂	hi3
 熄	sik
 熆	gheh
@@ -12144,7 +12160,7 @@ sort: by_weight
 熯	hoe2
 熯	hoe3
 熯	nie2
-熱	nih
+熱	nieh
 熲	kiung2
 熳	mae3
 熳	moe3
@@ -12159,19 +12175,19 @@ sort: by_weight
 燀	chie1
 燀	chie2
 燀	cie2
-燁	yih
+燁	yeh
 燂	de1
 燂	zie1
 燃	nie1
 燄	ye2
 燅	zie1
 燈	teng1
-燉	den1
-燉	then1
+燉	deng1
+燉	theng1
 燊	sin1
 燋	tziak
 燋	tziau1
-燌	ven1
+燌	veng1
 燍	sy1
 燎	liau1
 燎	liau2
@@ -12189,7 +12205,7 @@ sort: by_weight
 燘	mei2
 燙	thong3
 燚	yik
-燜	men3
+燜	meng3
 營	yung1
 燠	au2
 燠	au3
@@ -12236,7 +12252,7 @@ sort: by_weight
 爒	liau2
 爓	ye3
 爓	zie1
-爗	yih
+爗	yeh
 爚	shiak
 爚	yak
 爛	lae3
@@ -12304,7 +12320,7 @@ sort: by_weight
 牦	mau1
 牧	muk
 牨	kong1
-物	veh
+物	vek
 牭	sy3
 牮	tziae3
 牯	ku2
@@ -12330,7 +12346,7 @@ sort: by_weight
 犄	i1
 犅	kong1
 犆	jik
-犇	pen1
+犇	peng1
 犈	gioe1
 犈	kioe3
 犉	niun1
@@ -12359,7 +12375,7 @@ sort: by_weight
 犡	la3
 犡	li3
 犢	duk
-犣	lih
+犣	lieh
 犤	ba1
 犤	bi1
 犥	phiau1
@@ -12411,7 +12427,7 @@ sort: by_weight
 狚	tae3
 狚	tah
 狟	woe1
-狠	ghen2
+狠	gheng2
 狡	kau2
 狢	ghok
 狣	jiau2
@@ -12450,7 +12466,7 @@ sort: by_weight
 猎	zik
 猏	kiae1
 猐	khiang1
-猑	kuen1
+猑	kueng1
 猒	ie1
 猒	ie3
 猓	kou2
@@ -12464,9 +12480,8 @@ sort: by_weight
 猚	nga1
 猛	mang2
 猜	tsai1
-猝	tseh
+猝	tsek
 猞	shia1
-猢	wu1
 猣	tzung1
 猣	tzung2
 猤	giu3
@@ -12484,9 +12499,9 @@ sort: by_weight
 猰	khiah
 猱	nau1
 猱	nieu3
-猲	hih
+猲	hieh
 猲	hoh
-猲	khih
+猲	khieh
 猳	ko1
 猴	gheu1
 猵	bin2
@@ -12498,7 +12513,7 @@ sort: by_weight
 猸	mi1
 猹	zo1
 猺	yau1
-猻	sen1
+猻	seng1
 猼	pok
 猽	ming1
 猾	wah
@@ -12520,7 +12535,7 @@ sort: by_weight
 獑	zae1
 獒	ngau1
 獔	ghau1
-獖	ben2
+獖	beng2
 獗	kioh
 獘	bi3
 獚	wong1
@@ -12538,7 +12553,7 @@ sort: by_weight
 獥	kik
 獥	yik
 獦	koh
-獦	lih
+獦	lieh
 獧	kioe3
 獨	duk
 獩	uei3
@@ -12556,7 +12571,7 @@ sort: by_weight
 獲	wak
 獳	neu1
 獳	niu1
-獵	lih
+獵	lieh
 獶	ieu1
 獷	kiong2
 獷	kuang2
@@ -12649,8 +12664,8 @@ sort: by_weight
 珝	hiu2
 珞	lok
 珠	ciu1
-珢	ken1
-珢	ken3
+珢	keng1
+珢	keng3
 珢	ngin1
 珣	siun1
 珤	pau2
@@ -12700,7 +12715,7 @@ sort: by_weight
 琤	tsang1
 琥	hu2
 琦	gi1
-琨	kuen1
+琨	kueng1
 琩	chiang1
 琪	gi1
 琫	pung2
@@ -12708,7 +12723,7 @@ sort: by_weight
 琬	uoe3
 琭	luk
 琮	zung1
-琯	kuen3
+琯	kueng3
 琯	kuoe2
 琰	ye2
 琱	tiau1
@@ -12719,7 +12734,7 @@ sort: by_weight
 琶	bo1
 琺	fah
 琽	tu2
-琿	wen1
+琿	weng1
 瑀	yu2
 瑁	mau3
 瑁	mei3
@@ -12780,7 +12795,7 @@ sort: by_weight
 瑵	tzau2
 瑶	yau1
 瑹	sy1
-瑻	kuen1
+瑻	kueng1
 瑼	cioe1
 瑽	tsung1
 瑾	gin3
@@ -12794,7 +12809,7 @@ sort: by_weight
 璇	zioe1
 璈	ngau1
 璉	lie2
-璊	men1
+璊	meng1
 璋	ciang1
 璏	ji3
 璏	yoh
@@ -12826,7 +12841,7 @@ sort: by_weight
 璪	tzau2
 璫	tong1
 璬	kiau2
-璭	kuen3
+璭	kueng3
 璯	khua3
 環	wae1
 璱	sih
@@ -12835,7 +12850,7 @@ sort: by_weight
 璷	li1
 璹	zhieu2
 璹	zhiuk
-璺	ven3
+璺	veng3
 璽	sy2
 璿	zioe1
 瓁	nguok
@@ -12943,7 +12958,7 @@ sort: by_weight
 由	yeu1
 甲	kah
 申	shin1
-甶	feh
+甶	fek
 男	ne1
 甸	diae3
 甹	phing1
@@ -12954,7 +12969,6 @@ sort: by_weight
 町	thing2
 甾	tzy1
 甿	mang1
-畀	pi3
 畁	gi1
 畁	gi3
 畂	lieu3
@@ -12976,7 +12990,7 @@ sort: by_weight
 畖	uo1
 留	lieu1
 留	lieu3
-畚	pen2
+畚	peng2
 畛	cin1
 畛	cin2
 畜	chieu3
@@ -12987,7 +13001,7 @@ sort: by_weight
 畟	tsek
 畟	tzik
 畢	pih
-畣	tah
+畣	teh
 畤	cy2
 畤	jy2
 畤	zhy2
@@ -13015,7 +13029,7 @@ sort: by_weight
 畹	ioe2
 畺	kiang1
 畼	chiang3
-畽	then2
+畽	theng2
 畾	lei1
 畿	gi1
 疀	tsah
@@ -13030,7 +13044,7 @@ sort: by_weight
 疋	ngo2
 疋	su1
 疋	su2
-疌	zih
+疌	zieh
 疍	dae2
 疎	su1
 疎	su3	20%
@@ -13069,7 +13083,7 @@ sort: by_weight
 疴	kho3
 疴	ou1
 疵	zy1
-疶	sih
+疶	sieh
 疷	cy1
 疸	tae2
 疸	tae3
@@ -13104,7 +13118,7 @@ sort: by_weight
 痒	ziang1
 痓	chy3
 痔	jy2
-痕	ghen1
+痕	gheng1
 痗	huei3
 痗	mei3
 痘	deu3
@@ -13159,7 +13173,7 @@ sort: by_weight
 瘐	yu1
 瘐	yu2
 瘑	kou1
-瘒	ngen1
+瘒	ngeng1
 瘓	thoe2
 瘕	ko1
 瘕	ko2
@@ -13168,12 +13182,12 @@ sort: by_weight
 瘙	sau3
 瘚	kioh
 瘛	chi3
-瘛	chih
+瘛	chieh
 瘛	yi3
 瘜	sik
 瘝	kuae1
 瘞	i3
-瘟	uen1
+瘟	ueng1
 瘠	zik
 瘡	tsong1
 瘢	boe1
@@ -13186,9 +13200,9 @@ sort: by_weight
 瘦	seu3
 瘧	ngiak
 瘨	tiae1
-瘩	tah
+瘩	teh
 瘭	piau1
-瘮	sen2
+瘮	seng2
 瘯	tsuk
 瘰	lou2
 瘲	tzung3
@@ -13231,8 +13245,6 @@ sort: by_weight
 癙	sy2
 癛	lin2
 癜	tiae3
-癟	biah
-癟	phih
 癠	tzi2
 癠	zi1
 癠	zi2
@@ -13287,7 +13299,7 @@ sort: by_weight
 皟	tsak
 皠	tsei2
 皢	hiau2
-皣	yih
+皣	yeh
 皤	bou1
 皤	pou1
 皦	kiau2
@@ -13316,7 +13328,7 @@ sort: by_weight
 盄	ciau1
 盅	chiung1
 盅	jiung1
-盆	ben1
+盆	beng1
 盈	ying1
 盉	ghou1
 盉	ghou3
@@ -13372,7 +13384,7 @@ sort: by_weight
 盻	phae3
 盻	yi3
 盼	phae3
-盾	den2
+盾	deng2
 盾	zhiun2	5%
 盿	min1
 省	sang2
@@ -13400,7 +13412,7 @@ sort: by_weight
 眒	shin1
 眒	shin3
 眓	huoh
-眔	dah
+眔	deh
 眕	cin2
 眗	giu1
 眗	kiu1
@@ -13473,17 +13485,17 @@ sort: by_weight
 睋	ngou1
 睍	yae2
 睎	hi1
-睏	khuen3
+睏	khueng3
 睒	shie2
 睒	thae3
-睔	kuen3
-睔	len2
-睔	wen2
+睔	kueng3
+睔	leng2
+睔	weng2
 睕	ioe2
 睕	uoe3
 睕	uoh
 睖	ching1
-睗	shiak
+睗	shik
 睘	giung1
 睚	nga3
 睛	tsing2
@@ -13501,16 +13513,16 @@ sort: by_weight
 睦	muk
 睨	ngi3
 睩	luk
-睪	nih
+睪	nieh
 睪	yik
-睫	tzih
+睫	tzieh
 睬	tsai2
 睰	mah
 睲	sing2
 睲	sing3
 睳	hiu1
-睴	kuen3
-睴	wen2
+睴	kueng3
+睴	weng2
 睵	tsai1
 睵	tzai1
 睹	tu2
@@ -13556,7 +13568,7 @@ sort: by_weight
 瞢	mung3
 瞤	niun1
 瞥	phiah
-瞥	phih
+瞥	phieh
 瞦	hi1
 瞧	ziau1
 瞨	buk
@@ -13570,7 +13582,7 @@ sort: by_weight
 瞭	liau2
 瞯	ghae1
 瞰	khe3
-瞱	yih
+瞱	yeh
 瞲	hioh
 瞳	dung1
 瞴	vu1
@@ -13632,16 +13644,15 @@ sort: by_weight
 矯	kiau2
 矰	tzeng1
 矲	ba2
-石	zhiak
 矴	ting3
 矸	ghoe3
 矸	koe2
 矸	koe3
-矹	ngeh
+矹	ngek
 矺	tah
 矺	thok
 矺	tzak
-矻	khueh
+矻	khuek
 矼	kong1
 矽	zik	
 砂	so1
@@ -13656,7 +13667,7 @@ sort: by_weight
 砎	ghah
 砎	ka3
 砎	kah
-砏	fen1
+砏	feng1
 砏	phin1
 砏	pin1
 砐	ngeh
@@ -13664,9 +13675,9 @@ sort: by_weight
 砒	phi1
 研	ngiae1
 研	ngiae3
-砘	den3
+砘	deng3
 砝	keh
-砝	kih
+砝	kieh
 砟	zok
 砠	tsi1
 砡	ngiuk
@@ -13690,14 +13701,14 @@ sort: by_weight
 砳	lak
 破	phou3
 砷	shin1	
-砸	zah
+砸	zeh
 砹	ai3
 砼	dung1
 硂	tsioe1
 硃	ciu1
 硇	nau1
 硈	khah
-硉	leh
+硉	lek
 硊	ngiu2
 硋	ngai3
 硌	lok
@@ -13718,7 +13729,7 @@ sort: by_weight
 硤	ghah
 硦	luok
 硨	chia1
-硩	chih
+硩	chieh
 硩	thik
 硪	ngou1
 硪	ngou2
@@ -13730,7 +13741,7 @@ sort: by_weight
 硰	so1
 硰	tsou2
 硱	khing1
-硱	khuen2
+硱	khueng2
 硹	sung1
 硻	khang1
 硼	bang1
@@ -13751,8 +13762,8 @@ sort: by_weight
 碕	gi1
 碕	khi1
 碕	khi2
-碖	len2
-碖	len3
+碖	leng2
+碖	leng3
 碗	uoe2
 碘	tiae2
 碚	bei2
@@ -13763,12 +13774,11 @@ sort: by_weight
 碡	duk
 碡	jiuk
 碢	dou1
-碣	gih
+碣	gieh
 碥	piae2
 碧	pik
 碨	ua1
 碨	uei2
-碩	zhiak
 碪	cin1
 碪	yin1
 碫	toe3
@@ -13817,13 +13827,13 @@ sort: by_weight
 磕	khai3
 磕	kheh
 磕	khoh
-磖	lah
+磖	leh
 磚	cioe1
 磝	ngau1
 磟	luk
 磡	khe3
 磢	tsong2
-磣	tsen2
+磣	tseng2
 磤	in2
 磥	lei2
 磧	tsik
@@ -13847,7 +13857,7 @@ sort: by_weight
 磹	diae3
 磺	wong1
 磻	boe1
-磼	zah
+磼	zeh
 磽	khau1
 磽	khiau2
 磽	ngau3
@@ -13855,7 +13865,7 @@ sort: by_weight
 磿	lik
 礁	tziau1
 礄	giau1
-礅	ten1
+礅	teng1
 礉	khau1
 礉	khau3
 礊	huak
@@ -13912,9 +13922,9 @@ sort: by_weight
 祊	pang1
 祋	tei3
 祋	toh
-祏	zhiak
+祏	zhik
 祐	yeu3
-祓	feh
+祓	fek
 祓	fi3
 祔	vu3
 祕	pi3
@@ -14006,7 +14016,7 @@ sort: by_weight
 禺	ngiu3
 离	chi1
 离	li1
-禼	sih
+禼	sieh
 禽	gin1
 禾	ghou1
 禿	thuk
@@ -14023,7 +14033,7 @@ sort: by_weight
 秋	tsieu1
 秌	tsieu1
 种	jiung1
-秎	ven3
+秎	veng3
 秏	hau3
 秏	huei3
 科	khou1
@@ -14070,7 +14080,7 @@ sort: by_weight
 稃	fu1
 稄	tzek
 稅	shiu3
-稇	khuen2
+稇	khueng2
 稈	koe2
 稉	kang1
 稊	di1
@@ -14089,13 +14099,13 @@ sort: by_weight
 稘	ki1
 稙	cik
 稚	jy3
-稛	khuen2
+稛	khueng2
 稜	leng1
 稞	khou1
 稞	wo2
 稟	pin2
 稠	jieu1
-稡	tzeh
+稡	tzek
 稧	yi3
 稫	phik
 稬	noe2
@@ -14142,7 +14152,7 @@ sort: by_weight
 積	tzik
 積	tzy3	5%
 穎	yung2
-穕	tsih
+穕	tsieh
 穖	ki2
 穗	ziu3
 穘	hau1
@@ -14160,7 +14170,7 @@ sort: by_weight
 穧	tzi3
 穧	zi3
 穨	dei1
-穩	uen2
+穩	ueng2
 穫	wok
 穬	kuang2
 穭	li2
@@ -14178,15 +14188,15 @@ sort: by_weight
 穹	khiung1
 空	khung1
 空	khung3	20%
-穼	sen1
+穼	seng1
 穽	zing2
 穽	zing3
 穿	chioe1
 穿	chioe3
 窀	ciun1
-窀	den1
+窀	deng1
 窀	dzoe1
-突	deh
+突	dek
 窂	lau1
 窄	tzak
 窅	au1
@@ -14213,10 +14223,10 @@ sort: by_weight
 窘	giun2
 窙	hau1
 窞	de2
-窟	khueh
+窟	khuek
 窠	khou1
 窡	tzoh
-窣	seh
+窣	sek
 窨	in3
 窩	ou1
 窪	uo1
@@ -14272,7 +14282,7 @@ sort: by_weight
 竩	ngi3
 竪	zhiu2
 竫	zing2
-竭	gih
+竭	gieh
 竮	bing1
 竮	phing1
 端	toe1
@@ -14297,6 +14307,7 @@ sort: by_weight
 笆	bo2
 笆	po1
 笇	soe3
+笈	gieh
 笈	gih
 笈	tsah
 笉	tsin2
@@ -14305,12 +14316,12 @@ sort: by_weight
 笋	siun2
 笍	ciu3
 笍	niu3
-笏	hueh
+笏	huek
 笐	ghong3
 笐	kong1
 笑	siau3
 笒	gin3
-笒	zen1
+笒	zeng1
 笓	bi1
 笗	tung1
 笘	tiah
@@ -14328,8 +14339,8 @@ sort: by_weight
 笥	sy3
 符	vu1
 笧	tsak
-笨	ben2
-笨	pen2
+笨	beng2
+笨	peng2
 笪	tae2
 笪	tae3
 笪	tah
@@ -14343,7 +14354,7 @@ sort: by_weight
 笯	no1
 笯	nu1
 笯	nu3
-笰	feh
+笰	fek
 笱	keu2
 笲	bie3
 笲	vae1
@@ -14375,7 +14386,7 @@ sort: by_weight
 筑	jiuk
 筒	dung1
 筒	dung3
-答	tah
+答	teh
 筕	ghang1
 筕	ghong1
 策	tsak
@@ -14418,7 +14429,7 @@ sort: by_weight
 箏	tzang1
 箐	tzing1
 箑	sah
-箑	sih
+箑	sieh
 箒	cieu2
 箓	luk
 箔	bok
@@ -14557,7 +14568,7 @@ sort: by_weight
 簨	siun2
 簩	lau1
 簪	tze1
-簪	tzen1
+簪	tzeng1
 簫	siau1
 簬	lu3
 簭	zhi3
@@ -14583,7 +14594,7 @@ sort: by_weight
 籊	dik
 籊	thik
 籋	niah
-籋	nih
+籋	nieh
 籌	jieu1
 籍	zik
 籐	deng1
@@ -14627,7 +14638,7 @@ sort: by_weight
 籽	tzy2
 粄	poe2
 粈	nieu2
-粉	fen2
+粉	feng2
 粊	pi3
 粑	po1
 粒	lih
@@ -14685,7 +14696,7 @@ sort: by_weight
 糛	dong1
 糜	mi1
 糝	se2
-糞	fen3
+糞	feng3
 糟	tzau1
 糠	khong1
 糣	se2
@@ -14699,7 +14710,7 @@ sort: by_weight
 糬	zy3
 糯	nou3
 糰	doe1
-糱	ngih
+糱	ngieh
 糲	la3
 糲	lah
 糲	li3
@@ -14718,20 +14729,20 @@ sort: by_weight
 約	iau3	2%
 紅	ghung1
 紆	iu1
-紇	gheh
+紇	ghek
 紇	yah	5%
 紈	woe1
 紉	nin1
-紊	ven3
-紋	ven1
-納	nah
+紊	veng3
+紋	veng1
+納	neh
 紐	nieu2
 紑	feu1
 紑	feu2
 紓	sy1
 紓	zy2
 純	ciun2	1%
-純	den1	0%
+純	deng1	0%
 純	zhiun1	99%
 紕	bi1
 紕	chy2
@@ -14741,7 +14752,7 @@ sort: by_weight
 紘	wang1
 紙	ci2
 級	kih
-紛	fen1
+紛	feng1
 紜	yun1
 紝	nin1
 紞	tae2
@@ -14759,8 +14770,8 @@ sort: by_weight
 累	li2
 累	li3
 細	si3
-紱	feh
-紲	sih
+紱	fek
+紲	sieh
 紳	shin1
 紴	phi2
 紴	pou1
@@ -14769,7 +14780,7 @@ sort: by_weight
 紹	zhiau2
 紺	ke3
 紻	iang2
-紼	feh
+紼	fek
 紽	dou1
 紾	cie2
 紾	cin2
@@ -14787,7 +14798,7 @@ sort: by_weight
 絇	kiu3
 絍	nin3
 絎	ghang3
-絏	sih
+絏	sieh
 結	kiah
 絑	ciu1
 絓	khuo1
@@ -14816,7 +14827,7 @@ sort: by_weight
 絩	thiau3
 絪	in1
 絫	li2
-絬	sih
+絬	sieh
 絭	khioe3
 絭	kioe3
 絭	kiuk
@@ -14835,7 +14846,7 @@ sort: by_weight
 絺	chy1
 絻	mie2
 絻	moe1
-絻	ven3
+絻	veng3
 絽	li2
 絿	gieu1
 綀	su1
@@ -14851,12 +14862,12 @@ sort: by_weight
 綈	di1
 綊	yah
 綌	khik
-綍	feh
+綍	fek
 綎	ding1
 綎	thing1
 綏	siu1
 綐	dei3
-綑	khuen2
+綑	khueng2
 經	king1
 經	king3
 綖	ye1
@@ -14903,11 +14914,11 @@ sort: by_weight
 綿	mie1
 緀	tsi1
 緀	tsi2
-緁	tsih
+緁	tsieh
 緂	chie1
 緂	thae1
 緂	thae2
-緄	kuen2
+緄	kueng2
 緅	tzeu1
 緅	tziu3
 緆	sik
@@ -14942,7 +14953,7 @@ sort: by_weight
 緢	miau1
 緣	yoe1
 緣	yoe3
-緤	sih
+緤	sieh
 緥	pau2
 緦	sy1
 緧	tsieu1
@@ -14963,8 +14974,8 @@ sort: by_weight
 緵	tzung3
 緶	bie1
 緶	piae2
-緷	kuen2
-緷	wen2
+緷	kueng2
+緷	weng2
 緷	yun3
 緹	di1
 緹	thi2
@@ -14974,7 +14985,7 @@ sort: by_weight
 緼	iun1
 緼	iun2
 緼	iun3
-緼	uen1
+緼	ueng1
 緾	jie1
 縁	yoe1
 縁	yoe3
@@ -14986,7 +14997,7 @@ sort: by_weight
 縋	jiu3
 縌	ngik
 縍	pong1
-縎	kueh
+縎	kuek
 縏	boe1
 縐	tsau3
 縐	tzeu3
@@ -14999,7 +15010,7 @@ sort: by_weight
 縕	iun1
 縕	iun2
 縕	iun3
-縕	uen1
+縕	ueng1
 縖	ghah
 縗	tsei1
 縚	thau1
@@ -15080,7 +15091,7 @@ sort: by_weight
 繚	liau1
 繚	liau2
 繛	chiak
-繜	tzen1
+繜	tzeng1
 繞	niau2
 繞	niau3
 繟	chie2
@@ -15166,7 +15177,7 @@ sort: by_weight
 罃	ang1
 罄	khing3
 罅	ho3
-罇	tzen1
+罇	tzeng1
 罈	de1
 罊	khak
 罊	khi3
@@ -15198,11 +15209,11 @@ sort: by_weight
 罥	kioe3
 罦	fu1
 罦	veu1
-罧	sen3
+罧	seng3
 罧	sin2
 罨	eh
 罨	ie2
-罨	ih
+罨	ieh
 罩	tzau3
 罪	zei2
 罬	cioh
@@ -15243,7 +15254,7 @@ sort: by_weight
 羍	thah
 美	mi2
 羑	yeu2
-羒	ven1
+羒	veng1
 羓	po1
 羔	kau1
 羕	yang3
@@ -15271,14 +15282,14 @@ sort: by_weight
 羬	gie1
 羬	ngae1
 羭	yu1
-羯	kih
+羯	kieh
 羰	thong1	
 羱	ngioe1
 羱	nguoe1
 羲	hi1
 羳	vae1
 羴	hae1
-羵	ven1
+羵	veng1
 羶	shie1
 羷	lie2
 羸	li1
@@ -15297,9 +15308,9 @@ sort: by_weight
 翄	gi1
 翄	shi3
 翅	shi3
-翇	feh
+翇	fek
 翈	ghah
-翉	phen2
+翉	pheng2
 翊	yik
 翌	yik
 翍	phi1
@@ -15316,7 +15327,7 @@ sort: by_weight
 翛	shiuk
 翛	siau1
 翜	sah
-翜	seh
+翜	sek
 翟	dik
 翟	dzak
 翠	tsiu3
@@ -15404,7 +15415,7 @@ sort: by_weight
 耰	ieu1
 耱	mou3
 耳	ni2
-耴	cih
+耴	cieh
 耴	ngih
 耵	ting2
 耶	ya1
@@ -15416,7 +15427,7 @@ sort: by_weight
 耾	wang1
 耿	kang2
 聃	thae1
-聅	chih
+聅	chieh
 聅	dae1
 聆	ling1
 聉	ngih
@@ -15434,8 +15445,8 @@ sort: by_weight
 聚	ziu2
 聚	ziu3
 聝	kuak
-聞	ven1
-聞	ven3
+聞	veng1
+聞	veng3
 聤	ding1
 聥	kiu2
 聥	yu2
@@ -15450,7 +15461,7 @@ sort: by_weight
 聲	shing1
 聳	sung2
 聵	nga3
-聶	nih
+聶	nieh
 職	cik
 聸	tae1
 聹	ning1
@@ -15499,7 +15510,7 @@ sort: by_weight
 肤	fu1
 肥	vi1
 肦	pae1
-肦	ven1
+肦	veng1
 肧	feu1
 肧	phei1
 肨	phong3
@@ -15508,7 +15519,7 @@ sort: by_weight
 肪	vong1
 肫	ciun1
 肬	yeu1
-肭	neh
+肭	nek
 肭	niuk
 肭	noh
 肮	ghong1
@@ -15536,7 +15547,7 @@ sort: by_weight
 胍	ku1
 胎	thai1
 胏	tzy2
-胐	khueh
+胐	khuek
 胐	phei3
 胑	ci1
 胓	bing1
@@ -15561,7 +15572,7 @@ sort: by_weight
 胟	meu2
 胠	khei1
 胠	khei3
-胠	khih
+胠	khieh
 胡	wu1
 胤	yin3
 胥	si1
@@ -15607,7 +15618,7 @@ sort: by_weight
 脄	mei1
 脄	mei3
 脅	hie3
-脅	hih
+脅	hieh
 脆	tsiu3
 脈	mak
 脉	mak
@@ -15616,8 +15627,8 @@ sort: by_weight
 脒	mi2
 脕	mae2
 脕	mae3
-脕	ven3
-脖	beh
+脕	veng3
+脖	bek
 脘	kuoe2
 脙	gieu1
 脙	hieu1
@@ -15628,7 +15639,7 @@ sort: by_weight
 脞	tsou1
 脞	tsou2
 脟	lie2
-脟	lih
+脟	lieh
 脠	chie1
 脠	shie1
 脡	thing2
@@ -15666,7 +15677,7 @@ sort: by_weight
 腊	sik
 腋	yik
 腌	ie1
-腌	ih
+腌	ieh
 腍	nin2
 腎	zhin2
 腏	cioh
@@ -15686,7 +15697,7 @@ sort: by_weight
 腛	ok
 腜	mei1
 腝	nau3
-腝	nen3
+腝	neng3
 腝	nioe2
 腠	tseu3
 腡	kuo1
@@ -15705,7 +15716,7 @@ sort: by_weight
 腬	nieu1
 腬	nieu3
 腮	sai1
-腯	deh
+腯	dek
 腰	iau1
 腱	gie3
 腱	kie1
@@ -15717,12 +15728,12 @@ sort: by_weight
 腸	jiang1
 腹	fuk
 腺	sie3
-腽	ueh
+腽	uek
 腿	thei2
 膀	bong1
 膁	khiae2
 膂	li2
-膃	ueh
+膃	uek
 膆	su3
 膇	jiu3
 膈	kak
@@ -15781,7 +15792,7 @@ sort: by_weight
 膴	vu1
 膴	vu2
 膷	hiang1
-膹	ven2
+膹	veng2
 膹	vi2
 膺	ing1
 膻	dae2
@@ -15789,7 +15800,7 @@ sort: by_weight
 膽	tae2
 膾	kuei3
 膿	nung1
-臀	den1
+臀	deng1
 臁	lie1
 臂	pi3
 臃	iung1
@@ -15818,7 +15829,7 @@ sort: by_weight
 臔	yae2
 臕	piau1
 臖	hing3
-臗	khuen1
+臗	khueng1
 臘	lah
 臚	li1
 臛	huk
@@ -15853,7 +15864,7 @@ sort: by_weight
 臲	ngiah
 至	cy3
 致	cy3
-臶	zen3
+臶	zeng3
 臶	ziae3
 臸	cy1
 臸	nih
@@ -15883,7 +15894,7 @@ sort: by_weight
 舊	gieu3
 舋	hin3
 舌	wah	2%
-舌	zhih
+舌	zhieh
 舍	shia2
 舍	shia3
 舎	shia2
@@ -15969,12 +15980,12 @@ sort: by_weight
 艬	zae1
 艬	zae3
 艭	song1
-艮	ken3
+艮	keng3
 良	liang1
 艱	kae1
 色	sek
-艴	beh
-艴	feh
+艴	bek
+艴	fek
 艵	phing1
 艶	ye3
 艷	ye3
@@ -16021,7 +16032,7 @@ sort: by_weight
 芘	bi1
 芘	bi3
 芙	vu1
-芚	den1
+芚	deng1
 芛	yu2
 芛	yuh
 芝	cy1
@@ -16035,14 +16046,14 @@ sort: by_weight
 芩	gin1
 芪	gi1
 芫	ngioe1
-芬	fen1
+芬	feng1
 芭	po1
 芮	niu3
 芯	sin1
 芰	gi3
 花	huo1
 芳	fong1
-芴	veh
+芴	vek
 芵	kioh
 芷	cy2
 芸	yun1
@@ -16053,7 +16064,7 @@ sort: by_weight
 芼	mau1
 芼	mau3
 芽	ngo1
-芾	feh
+芾	fek
 芾	fi3
 芾	pei3
 芿	ning3
@@ -16096,7 +16107,7 @@ sort: by_weight
 苬	zieu1
 苭	iau2
 苮	sie1
-苯	pen2
+苯	peng2
 苰	ghung1
 英	ing1
 苳	tung1
@@ -16106,7 +16117,7 @@ sort: by_weight
 苴	zo1
 苵	diah
 苶	niah
-苶	nih
+苶	nieh
 苷	ke1
 苸	hu1
 苹	bing1
@@ -16115,7 +16126,7 @@ sort: by_weight
 苽	ku1
 苾	biah
 苾	bih
-茀	feh
+茀	fek
 茀	fi3
 茁	ciuh
 茁	tzioh
@@ -16141,14 +16152,14 @@ sort: by_weight
 茗	ming2
 茙	niung1
 茚	in3
-茛	ken3
+茛	keng3
 茜	tsiae3
 茝	chi2
 茝	cy2
 茞	zhin1
 茠	hau1
 茡	zy3
-茢	lih
+茢	lieh
 茤	tou1
 茥	khiu1
 茥	kiu1
@@ -16187,7 +16198,7 @@ sort: by_weight
 荃	tsioe1
 荄	ka1
 荄	kai1
-荅	tah
+荅	teh
 荆	king1
 荇	ghang2
 荈	chioe2
@@ -16215,7 +16226,7 @@ sort: by_weight
 荶	ngin1
 荷	ghou1
 荷	ghou2	50%
-荸	beh
+荸	bek
 荹	bu1
 荹	bu3
 荺	yun1
@@ -16227,11 +16238,11 @@ sort: by_weight
 荽	siu1
 荾	siu1
 莁	vu1
-莂	pih
+莂	pieh
 莃	hi1
 莅	li3
 莆	fu2
-莈	meh
+莈	mek
 莉	jy1
 莉	li1
 莊	tzong1
@@ -16250,8 +16261,6 @@ sort: by_weight
 莔	hih
 莔	mang1
 莕	ghang2
-莖	ang1
-莖	ghang1
 莘	sin1
 莙	giun2
 莙	kiun1
@@ -16281,7 +16290,7 @@ sort: by_weight
 莩	fu1
 莪	ngou1
 莫	mok
-莬	ven3
+莬	veng3
 莰	khe2
 莽	meu2	2%
 莽	mong2
@@ -16296,14 +16305,14 @@ sort: by_weight
 菆	tzeu1
 菆	zoe1
 菇	ku1
-菈	lah
+菈	leh
 菉	luk
 菊	kiuk
 菋	vi3
 菌	gioe2
 菌	giun2
 菍	niah
-菎	kuen1
+菎	kueng1
 菏	ghou1
 菏	kou1
 菐	buk
@@ -16313,7 +16322,7 @@ sort: by_weight
 菓	kou2
 菔	buk
 菔	vuk
-菕	len1
+菕	leng1
 菖	chiang1
 菗	jieu1
 菘	sung1
@@ -16332,7 +16341,7 @@ sort: by_weight
 菥	sik
 菥	sy1
 菦	kin2
-菨	tzih
+菨	tzieh
 菩	bei2
 菩	bu1
 菩	buk
@@ -16385,7 +16394,7 @@ sort: by_weight
 萎	iu3
 萏	de2
 萐	sah
-萐	sih
+萐	sieh
 萑	ciu1
 萑	woe1
 萒	gioe2
@@ -16422,21 +16431,21 @@ sort: by_weight
 葆	pau2
 葇	nieu1
 葇	nieu2
-葉	shih
-葉	yih
+葉	shieh
+葉	yeh
 葋	giu1
 葌	kae1
 葍	fuk
 葎	liuh
 葏	tzie1
-葐	ben1
-葐	ven1
+葐	beng1
+葐	veng1
 葑	fung1
 葑	fung3
 葒	ghung1
 葓	ghung1
 葔	gheu1
-葖	deh
+葖	dek
 著	ciak
 著	dzy1	10%
 著	jiak	10%
@@ -16450,7 +16459,6 @@ sort: by_weight
 葝	ging1
 葞	mi2
 葟	wong1
-葡	bu1
 董	tung2
 葤	jieu2
 葥	tzie3
@@ -16527,7 +16535,7 @@ sort: by_weight
 蒯	khua3
 蒱	bu1
 蒲	bu1
-蒳	nah
+蒳	neh
 蒴	sok
 蒵	yi1
 蒵	yi3
@@ -16537,16 +16545,16 @@ sort: by_weight
 蒻	niak
 蒼	tsong1
 蒼	tsong2	2%
-蒽	en1
+蒽	eng1
 蒿	hau1
-蓀	sen1
+蓀	seng1
 蓁	tzin1
 蓂	mik
 蓂	ming1
 蓄	chiuk
 蓄	hiuk
 蓆	zik
-蓇	kueh
+蓇	kuek
 蓈	long1
 蓉	yung1
 蓊	ung1
@@ -16563,7 +16571,7 @@ sort: by_weight
 蓒	hie1
 蓓	bei2
 蓖	pi1
-蓘	kuen2
+蓘	kueng2
 蓧	dik
 蓧	thiau1
 蓨	thik
@@ -16608,7 +16616,7 @@ sort: by_weight
 蔋	dik
 蔌	suk
 蔍	luk
-蔎	shih
+蔎	shieh
 蔏	shiang1
 蔑	miah
 蔓	mae3
@@ -16619,7 +16627,7 @@ sort: by_weight
 蔖	zou1
 蔗	cia3
 蔘	se1
-蔘	sen1
+蔘	seng1
 蔚	iu3
 蔚	iuh
 蔛	ghuk
@@ -16687,7 +16695,7 @@ sort: by_weight
 蕝	tziu3
 蕞	zei3
 蕠	ni1
-蕡	ven1
+蕡	veng1
 蕢	giu3
 蕢	khua3
 蕣	shiun3
@@ -16707,14 +16715,14 @@ sort: by_weight
 蕮	sik
 蕰	iun2
 蕰	iun3
-蕰	uen1
-蕵	sen1
+蕰	ueng1
+蕵	seng1
 蕶	ling1
 蕷	yi3
 蕸	gho1
 蕹	iung1
 蕹	ung3
-蕺	tzeh
+蕺	tzek
 蕻	ghung3
 蕼	sy3
 蕾	lei2
@@ -16735,7 +16743,7 @@ sort: by_weight
 薏	ik
 薑	kiang1
 薒	tsae3
-薓	sen1
+薓	seng1
 薔	sek
 薔	ziang1
 薕	liae1
@@ -16746,10 +16754,10 @@ sort: by_weight
 薙	thi3
 薙	zy2
 薚	thong1
-薛	sih
+薛	sieh
 薜	bi3
 薜	pak
-薞	sen1
+薞	seng1
 薟	lie1
 薟	lie2
 薠	vae1
@@ -16780,8 +16788,6 @@ sort: by_weight
 薷	niu2
 薸	biau1
 薹	dai1
-薺	zi2
-薺	zy1
 薻	tzau2
 薽	cin1
 薽	kie1
@@ -16813,7 +16819,7 @@ sort: by_weight
 藐	miau2
 藐	mok
 藑	giung1
-藒	khih
+藒	khieh
 藕	ngeu2
 藖	ghae1
 藖	ghae3
@@ -16872,7 +16878,7 @@ sort: by_weight
 蘋	bin1
 蘌	ngei2
 蘑	mou1
-蘖	ngih
+蘖	ngieh
 蘖	ngoh
 蘗	pak
 蘘	niang1
@@ -16924,8 +16930,8 @@ sort: by_weight
 虈	hiau1
 虉	ngak
 虉	ngik
-虋	men1
-虌	pih
+虋	meng1
+虌	pieh
 虍	hu1
 虎	hu2
 虐	ngiak
@@ -16981,14 +16987,14 @@ sort: by_weight
 虺	hua1
 虺	huei1
 虻	mang1
-虼	keh
+虼	kek
 蚄	fong1
 蚅	ak
 蚆	pho1
 蚆	po1
-蚇	chiak
+蚇	chik
 蚈	khiae1
-蚊	ven1
+蚊	veng1
 蚋	nioh
 蚋	niu3
 蚌	bong2
@@ -17009,8 +17015,8 @@ sort: by_weight
 蚝	tsy3
 蚞	muk
 蚟	yong1
-蚡	ven1
-蚡	ven2
+蚡	veng1
+蚡	veng2
 蚢	ghong1
 蚢	ghong2
 蚢	khong3
@@ -17064,7 +17070,7 @@ sort: by_weight
 蛘	yang1
 蛘	yang2
 蛙	uo1
-蛚	lih
+蛚	lieh
 蛛	ciu1
 蛜	i1
 蛝	ghae1
@@ -17074,7 +17080,7 @@ sort: by_weight
 蛢	bing1
 蛣	khih
 蛤	keh
-蛥	zhih
+蛥	zhieh
 蛦	yi1
 蛧	mong2
 蛨	mak
@@ -17086,7 +17092,7 @@ sort: by_weight
 蛭	cih
 蛭	tiah
 蛵	hing1
-蛶	lih
+蛶	lieh
 蛶	loh
 蛷	gieu1
 蛸	sau1
@@ -17110,7 +17116,7 @@ sort: by_weight
 蜆	hiae2
 蜆	khiae3
 蜆	yae2
-蜇	cih
+蜇	cieh
 蜈	kiah
 蜈	ngu1
 蜉	veu1
@@ -17124,7 +17130,7 @@ sort: by_weight
 蜏	sieu3
 蜏	yeu2
 蜏	yeu3
-蜐	kih
+蜐	kieh
 蜑	dae2
 蜒	diae2
 蜒	ye1
@@ -17155,7 +17161,7 @@ sort: by_weight
 蜩	diau1
 蜪	dau1
 蜪	thau1
-蜫	kuen1
+蜫	kueng1
 蜬	ghe1
 蜬	ke1
 蜭	ghe2
@@ -17285,13 +17291,13 @@ sort: by_weight
 螞	mo2
 螟	ming1
 螠	i3
-螡	ven1
+螡	veng1
 螢	yung1
 螣	dek
 螣	deng1
 螣	jin2
 螪	shiang1
-螫	shiak
+螫	shik
 螬	zau1
 螭	chi1
 螮	ti3
@@ -17317,7 +17323,7 @@ sort: by_weight
 螾	yin2
 螿	tziang1
 蟀	siuh
-蟁	ven1
+蟁	veng1
 蟂	kiau1
 蟃	mae3
 蟄	jih
@@ -17400,7 +17406,7 @@ sort: by_weight
 蠋	ciuk
 蠋	jiuk
 蠌	dzak
-蠍	hih
+蠍	hieh
 蠎	mong2
 蠐	zi1
 蠑	yung1
@@ -17425,7 +17431,7 @@ sort: by_weight
 蠡	lou1
 蠢	chiun2
 蠣	li3
-蠥	ngih
+蠥	ngieh
 蠦	lu1
 蠨	siau1
 蠩	tzy1
@@ -17449,7 +17455,7 @@ sort: by_weight
 蠻	mae1
 蠼	giu1
 蠼	kiok
-蠽	tzih
+蠽	tzieh
 蠾	ciuk
 蠾	jiuk
 蠾	zhiuk
@@ -17500,13 +17506,13 @@ sort: by_weight
 衪	yi2
 衫	sae1
 衭	fu1
-衮	kuen2
-衯	fen1
+衮	kueng2
+衯	feng1
 衰	sei1
 衰	tsei1
-衱	gih
-衱	kih
-衲	nah
+衱	gieh
+衱	kieh
+衲	neh
 衳	ciung1
 衴	te2
 衵	nih
@@ -17551,7 +17557,7 @@ sort: by_weight
 袛	ti1
 袜	moh
 袝	vu3
-袞	kuen2
+袞	kueng2
 袠	jih
 袡	nie1
 袢	vae1
@@ -17571,8 +17577,8 @@ sort: by_weight
 袴	khu3
 袵	nin2
 袷	kah
-袷	kih
-袸	zen1
+袷	kieh
+袸	zeng1
 袸	ziae3
 袹	mak
 袺	kah
@@ -17586,12 +17592,12 @@ sort: by_weight
 裀	in1
 裁	zai1
 裁	zai3	10%
-裂	lih
-裉	khen3
+裂	lieh
+裉	kheng3
 裊	niau2
 裋	zhiu2
 裌	kah
-裍	khuen2
+裍	khueng2
 裎	ching2
 裎	jing1
 裏	li2
@@ -17603,6 +17609,7 @@ sort: by_weight
 裗	lieu1
 裘	gieu1
 裙	giun1
+裛	ieh
 裛	ih
 補	pu2
 裝	tzong1
@@ -17654,7 +17661,7 @@ sort: by_weight
 褉	hiah
 褊	pie2
 褋	diah
-褌	kuen1
+褌	kueng1
 褍	toe1
 褍	tou2
 褎	yeu3
@@ -17675,6 +17682,7 @@ sort: by_weight
 褞	iun2
 褠	keu1
 褡	tah
+褡	teh
 褢	wa1
 褣	yung1
 褥	niuk
@@ -17682,7 +17690,7 @@ sort: by_weight
 褧	khiung2
 褨	sou2
 褪	thei3
-褪	then3
+褪	theng3
 褫	chi2
 褫	chy2
 褫	ji1
@@ -17706,7 +17714,7 @@ sort: by_weight
 褹	na3
 褹	ngi3
 褺	diah
-褻	sih
+褻	sieh
 褽	iu3
 褾	piau2
 褿	zau1
@@ -17757,7 +17765,7 @@ sort: by_weight
 襦	niu1
 襩	zhiuk
 襪	mah
-襫	shiak
+襫	shik
 襬	phi3
 襬	pi1
 襭	yah
@@ -17768,9 +17776,9 @@ sort: by_weight
 襱	lung1
 襱	lung2
 襲	zih
-襳	sen1
+襳	seng1
 襳	sie1
-襵	cih
+襵	cieh
 襸	tzae3
 襸	zoe1
 襹	sy1
@@ -17790,8 +17798,6 @@ sort: by_weight
 覅	miau3
 覆	feu3
 覆	fuk
-覆	phuk	1%
-覆	veu3	5%
 覇	po3
 覈	ghak	
 見	kiae3
@@ -17923,7 +17929,7 @@ sort: by_weight
 討	thau2
 訏	hiu1
 訐	ki3
-訐	kih
+訐	kieh
 訒	nin3
 訓	hiun3
 訔	ngin1
@@ -17942,7 +17948,7 @@ sort: by_weight
 訡	ngin1
 訢	hin1
 訣	kioh
-訥	neh
+訥	nek
 訦	zhin1
 訦	zhin2
 訧	yeu1
@@ -17950,7 +17956,7 @@ sort: by_weight
 訪	fong3
 訬	miau2
 訬	tsau1
-設	shih
+設	shieh
 訮	hiae1
 訰	ciun1
 訰	ciun3
@@ -17970,7 +17976,7 @@ sort: by_weight
 訾	tzy1
 訾	tzy2
 訿	tzy2
-詀	chih
+詀	chieh
 詀	dzae3
 詀	tiae1
 詀	tzae1
@@ -18024,8 +18030,8 @@ sort: by_weight
 詨	hau3
 詨	kau1
 詩	shy1
-詪	ken2
-詪	ken3
+詪	keng2
+詪	keng3
 詪	yae2
 詫	tso3
 詬	heu3
@@ -18077,8 +18083,8 @@ sort: by_weight
 誓	zhi3
 誔	ding2
 誕	dae2
-誖	beh
 誖	bei3
+誖	bek
 誖	pei3
 誗	jie1
 誘	yeu2
@@ -18105,7 +18111,7 @@ sort: by_weight
 說	shiu3	3%
 說	yoh	3%
 誰	zhiu1
-誱	zih
+誱	zieh
 課	khou1
 課	khou3
 誴	zung1
@@ -18118,7 +18124,7 @@ sort: by_weight
 誺	chi1
 誺	chy3
 誺	lai3
-誻	dah
+誻	deh
 誼	ngi3
 誽	na1
 誾	ngin1
@@ -18149,8 +18155,8 @@ sort: by_weight
 諓	zie2
 諓	zie3
 諕	huak
-論	len1	3%
-論	len3
+論	leng1	3%
+論	leng3
 論	liun1	3%
 諗	shin2
 諛	yu1
@@ -18162,7 +18168,7 @@ sort: by_weight
 諟	zhi2
 諠	hioe1
 諡	zhy3
-諢	ngen3
+諢	ngeng3
 諣	huo3
 諤	ngok
 諥	ciung3
@@ -18198,7 +18204,7 @@ sort: by_weight
 諾	nok
 諿	tsih
 謀	meu1
-謁	ih
+謁	ieh
 謂	yu3
 謄	deng1
 謅	tsau2
@@ -18262,13 +18268,13 @@ sort: by_weight
 謱	liu2
 謲	tse3
 謳	eu1
-謴	kuen3
-謵	chih
+謴	kueng3
+謵	chieh
 謶	ciak
 謷	ngau1
 謷	ngau3
 謹	kin2
-謺	cih
+謺	cieh
 謻	yi1
 謼	hu1
 謼	hu3
@@ -18291,7 +18297,7 @@ sort: by_weight
 譍	ing3
 譎	kioh
 譏	ki1
-譐	tzen2
+譐	tzeng2
 譑	khiau3
 譑	kiau2
 譒	pou3
@@ -18300,7 +18306,7 @@ sort: by_weight
 譔	zioe2
 譔	zioe3
 譕	vu1
-譖	tzen3
+譖	tzeng3
 識	cy3	4%
 識	shik
 譙	ziau1
@@ -18322,7 +18328,7 @@ sort: by_weight
 譨	nong1
 譩	i1
 譩	i2
-譫	cih
+譫	cieh
 譫	dah
 譬	phi3
 譭	hiu2
@@ -18332,7 +18338,7 @@ sort: by_weight
 譱	zhie2
 譳	neu3
 譴	khie3
-譶	dah
+譶	deh
 譶	jih
 護	wu3
 譸	cieu1
@@ -18352,7 +18358,7 @@ sort: by_weight
 讄	li2
 讇	chie2
 變	pie3
-讋	cih
+讋	cieh
 讌	iae3
 讎	zhieu1
 讏	yu3
@@ -18363,16 +18369,16 @@ sort: by_weight
 讕	lae1
 讕	lae2
 讕	lae3
-讖	tsen3
+讖	tseng3
 讗	kuak
 讗	yu1
-讘	nih
+讘	nieh
 讙	hioe1
 讙	huoe1
 讚	tzae3
 讜	tong2
 讞	ngie2
-讞	ngih
+讞	ngieh
 讟	duk
 谷	giak	1%
 谷	kuk
@@ -18406,9 +18412,9 @@ sort: by_weight
 豕	shi2
 豖	chiuk
 豗	huei1
-豘	den1
+豘	deng1
 豙	ngi3
-豚	den1
+豚	deng1
 豛	yuk
 豜	kiae1
 豜	ngiae3
@@ -18419,9 +18425,9 @@ sort: by_weight
 象	ziang2
 豢	wae3
 豣	kiae1
-豤	khen2
+豤	kheng2
 豤	khiae2
-豤	khuen1
+豤	khueng1
 豥	ghai1
 豥	kai1
 豦	gei1
@@ -18440,11 +18446,11 @@ sort: by_weight
 豰	bok
 豰	huk
 豰	tuk
-豱	uen1
+豱	ueng1
 豲	woe1
 豳	pin1
 豵	tzung1
-豶	ven1
+豶	veng1
 豷	hiu3
 豷	i3
 豸	dza2
@@ -18531,9 +18537,9 @@ sort: by_weight
 貾	jy1
 貿	meu3
 賀	ghou3
-賁	pen1
+賁	peng1
 賁	pi3
-賁	ven1
+賁	veng1
 賁	vi1
 賂	lu3
 賃	nin3
@@ -18620,7 +18626,7 @@ sort: by_weight
 贛	ke2
 贛	ke3
 贛	kung3
-赤	chiak
+赤	chik
 赥	hik
 赦	shia3
 赧	nae2
@@ -18655,6 +18661,7 @@ sort: by_weight
 越	yoh	99%
 趌	gih
 趌	khih
+趌	kieh
 趌	kih
 趍	ji1
 趍	tsiu1
@@ -18665,7 +18672,7 @@ sort: by_weight
 趒	diau1
 趒	thiau1
 趒	thiau3
-趔	lih
+趔	lieh
 趕	koe2
 趖	sou1
 趗	tsuk
@@ -18716,7 +18723,7 @@ sort: by_weight
 趽	fong1
 趽	fong3
 趾	cy2
-趿	sah
+趿	seh
 跀	ngioh
 跁	bo2
 跁	bo3
@@ -18744,7 +18751,7 @@ sort: by_weight
 跔	kiu1
 跕	thiah
 跕	tiah
-跖	ciak
+跖	cik
 跗	fu1
 跗	vu3
 跙	zi2
@@ -18753,7 +18760,7 @@ sort: by_weight
 跛	pou2
 跜	ni1
 距	gei2
-跟	ken1
+跟	keng1
 跠	yi1
 跡	tzik
 跢	ta3
@@ -18779,16 +18786,16 @@ sort: by_weight
 跰	biae1
 跰	pang3
 跱	jy2
-跲	gih
+跲	gieh
 跲	kah
-跲	kih
+跲	kieh
 跳	diau1
 跺	tou3
 跼	giuk
 跽	gi2
 跾	shiuk
 踁	ying3
-踂	nih
+踂	nieh
 踃	siau1
 踄	bok
 踅	zioh
@@ -18800,7 +18807,7 @@ sort: by_weight
 踉	liang3
 踉	long1
 踊	yung2
-踏	thah
+踏	theh
 踐	zie2
 踑	gi1
 踒	ou1
@@ -18808,7 +18815,7 @@ sort: by_weight
 踓	yu2
 踔	tsau3
 踔	tsok
-踕	zih
+踕	zieh
 踖	tsiak
 踖	tzik
 踖	zik
@@ -18826,7 +18833,7 @@ sort: by_weight
 踣	buk
 踣	pheu3
 踤	ziuh
-踥	tsih
+踥	tsieh
 踦	khi1
 踦	ki2
 踧	dik
@@ -18879,7 +18886,7 @@ sort: by_weight
 蹛	ta3
 蹜	suk
 蹟	tzik
-蹠	ciak
+蹠	cik
 蹡	tsiang1
 蹡	tsiang3
 蹢	jik
@@ -18901,13 +18908,13 @@ sort: by_weight
 蹱	chiung1
 蹱	chiung3
 蹱	ciung1
-蹲	zen1
+蹲	zeng1
 蹴	tsuk
 蹴	tzuk
 蹶	kioh
 蹶	kiu3
 蹷	gioh
-蹹	dah
+蹹	deh
 蹺	khiau1
 蹻	giak
 蹻	giau1
@@ -18921,12 +18928,12 @@ sort: by_weight
 躄	pik
 躅	jiuk
 躇	dzy1
-躉	ten2
+躉	teng2
 躊	jieu1
 躋	tzi1
 躋	tzi3
 躍	yak
-躐	lih
+躐	lieh
 躑	jik
 躒	lik
 躒	lok
@@ -18944,7 +18951,7 @@ sort: by_weight
 躟	niang1
 躟	niang2
 躠	sah
-躡	nih
+躡	nieh
 躢	dah
 躣	giu1
 躤	zia3
@@ -18981,7 +18988,7 @@ sort: by_weight
 軍	kiun1
 軎	yu3
 軎	ziu3
-軏	ngeh
+軏	ngek
 軏	ngioh
 軐	siae3
 軑	da3
@@ -18990,9 +18997,9 @@ sort: by_weight
 軓	vae2
 軔	nin3
 軖	giong1
-軘	den1
+軘	deng1
 軛	ak
-軜	nah
+軜	neh
 軝	gi1
 軟	nioe2
 軤	hu1
@@ -19048,7 +19055,7 @@ sort: by_weight
 輍	yuk
 輎	sau1
 輑	khiun1
-輒	cih
+輒	cieh
 輓	mae2
 輓	mae3
 輔	vu2
@@ -19077,7 +19084,7 @@ sort: by_weight
 輢	i3
 輣	bang1
 輤	tsiae3
-輥	kuen2
+輥	kueng2
 輦	lie2
 輨	kuoe2
 輩	pei3
@@ -19107,7 +19114,7 @@ sort: by_weight
 輺	tzy1
 輻	feu3	20%
 輻	fuk
-輼	uen1
+輼	ueng1
 輾	cie2
 輾	nie3
 輿	yi1
@@ -19115,8 +19122,6 @@ sort: by_weight
 轂	kuk
 轃	tziae1
 轃	tzin1
-轄	ghah
-轄	khai3
 轅	yoe1
 轆	luk
 轇	kau1
@@ -19125,15 +19130,15 @@ sort: by_weight
 轉	cioe3
 轊	yu3
 轊	ziu3
-轍	jih
+轍	jieh
 轎	giau1
 轎	giau3
 轏	zae2
 轐	buk
 轐	puk
 轑	lau2
-轒	ven1
-轒	ven2
+轒	veng1
+轒	veng2
 轓	fae1
 轔	lin1
 轔	lin3
@@ -19171,7 +19176,7 @@ sort: by_weight
 辢	lah
 辣	lah
 辤	zy1
-辥	sih
+辥	sieh
 辦	bae3
 辨	bae3
 辨	bie2
@@ -19200,7 +19205,7 @@ sort: by_weight
 迅	siun3
 迆	yi1
 迆	yi2
-迊	tzah
+迊	tzeh
 迋	kiong2
 迋	yong3
 迍	ciun1
@@ -19239,7 +19244,7 @@ sort: by_weight
 迺	nai2
 迻	yi1
 追	ciu1
-迾	lih
+迾	lieh
 迿	siun3
 迿	yoe3
 退	thei3
@@ -19263,7 +19268,7 @@ sort: by_weight
 逗	deu3
 逗	jiu3	5%
 這	cia2
-這	ciak
+這	cik
 這	ngie3	1%
 通	thung1
 逛	kiong2
@@ -19279,7 +19284,7 @@ sort: by_weight
 連	lie1
 逨	lai1
 逨	lai3
-逩	pen3
+逩	peng3
 逪	tsok
 逫	ciuh
 逭	woe3
@@ -19301,8 +19306,8 @@ sort: by_weight
 逽	niak
 逾	yu1
 逿	dong3
-遁	den2
-遁	den3
+遁	deng2
+遁	deng3
 遂	ziu3
 遃	ngie2
 遄	zhioe1
@@ -19328,8 +19333,8 @@ sort: by_weight
 遙	yau1
 遚	tseu3
 遛	lieu1
-遜	sen3
-遝	dah
+遜	seng3
+遝	deh
 遞	di2
 遞	di3
 遟	jy1
@@ -19343,16 +19348,16 @@ sort: by_weight
 遥	yau1
 遦	kuoe3
 遨	ngau1
-適	ciak	4%
-適	shiak	92%
+適	cik	4%
+適	shik	92%
 適	tik	4%
-遪	tsah
+遪	tseh
 遫	chik
 遬	suk
 遭	tzau1
 遮	cia1
-遯	den2
-遯	den3
+遯	deng2
+遯	deng3
 遰	di3
 遱	leu1
 遲	jy1
@@ -19385,7 +19390,7 @@ sort: by_weight
 邈	mok
 邊	piae1
 邋	lah
-邋	lih
+邋	lieh
 邌	li1
 邍	ngioe1
 邎	yeu1
@@ -19416,7 +19421,7 @@ sort: by_weight
 邦	pong1
 邧	ngioe1
 邧	ngioe2
-邨	den1
+邨	deng1
 邩	hou2
 邪	ya1	5%
 邪	zia1
@@ -19468,14 +19473,14 @@ sort: by_weight
 郛	fu1
 郜	kau3
 郜	kuk	20%
-郝	chiak	1%
+郝	chik	1%
 郝	hok
-郝	shiak	1%
+郝	shik	1%
 郟	kah
 郠	kang2
 郡	giun3
 郢	ying2
-郣	beh
+郣	bek
 郤	khik
 部	beu2
 部	bu2	3%
@@ -19525,7 +19530,7 @@ sort: by_weight
 鄐	hiuk
 鄑	tzy1
 鄒	tzeu1
-鄓	ih
+鄓	ieh
 鄔	i3
 鄔	u1
 鄔	u2
@@ -19553,7 +19558,7 @@ sort: by_weight
 鄦	hei2
 鄧	deng3
 鄨	pi3
-鄨	pih
+鄨	pieh
 鄩	zin1
 鄪	pi3
 鄫	zing1
@@ -19568,7 +19573,7 @@ sort: by_weight
 鄲	tae1
 鄳	mang1
 鄳	mang2
-鄴	ngih
+鄴	ngieh
 鄵	tsau3
 鄶	kuei3
 鄸	mung3
@@ -19609,7 +19614,7 @@ sort: by_weight
 酖	te1
 酗	hiu3
 酘	deu3
-酚	fen1
+酚	feng1
 酞	tha3
 酡	dou1
 酢	tsu3
@@ -19650,7 +19655,7 @@ sort: by_weight
 醊	cioh
 醊	ciu3
 醋	tsu3
-醌	kuen1
+醌	kueng1
 醍	di1
 醍	thi2
 醎	ghae1
@@ -19682,7 +19687,7 @@ sort: by_weight
 醣	dong1
 醥	phiau2
 醦	sae2
-醦	tsen2
+醦	tseng2
 醧	eu1
 醧	i3
 醨	li1
@@ -19723,7 +19728,7 @@ sort: by_weight
 釆	bae3
 采	tsai2
 釉	yeu3
-釋	shiak
+釋	shik
 里	li2
 重	jiung1
 重	jiung2
@@ -19782,19 +19787,19 @@ sort: by_weight
 鈆	ciung1
 鈆	yoe1
 鈇	fu1
-鈈	feh
-鈉	nah
+鈈	fek
+鈉	neh
 鈉	niu3
 鈋	ngou1
 鈌	kioh
-鈍	den3
+鈍	deng3
 鈎	keu1
 鈏	yin2
 鈏	yin3
 鈐	gie1
 鈑	pae2
-鈒	sah
 鈒	seh
+鈒	sek
 鈔	tsau1
 鈔	tsau3
 鈕	nieu2
@@ -19811,7 +19816,7 @@ sort: by_weight
 鈭	tsy1
 鈭	tzy1
 鈮	ni1
-鈯	deh
+鈯	dek
 鈰	zhy2
 鈱	min1
 鈳	ou1
@@ -19845,7 +19850,7 @@ sort: by_weight
 鉎	sing1
 鉏	zu1
 鉏	zu2
-鉐	zhiak
+鉐	zhik
 鉑	bok
 鉒	ciu3
 鉕	phou2
@@ -19860,7 +19865,7 @@ sort: by_weight
 鉠	iang1
 鉠	ing1
 鉢	poh
-鉣	kih
+鉣	kieh
 鉤	keu1
 鉦	cing1
 鉬	muk
@@ -19956,7 +19961,7 @@ sort: by_weight
 鋙	ngei2
 鋚	diau1
 鋜	zok
-鋝	lih
+鋝	lieh
 鋞	ying1
 鋞	ying2
 鋟	tsin2
@@ -19987,7 +19992,7 @@ sort: by_weight
 鋼	kong3	2%
 鋽	thiau3
 鋿	zhiang1
-錀	fen1
+錀	feng1
 錁	kou2
 錄	luk
 錆	tsiang1
@@ -20002,15 +20007,15 @@ sort: by_weight
 錐	ciu1
 錑	lei3
 錒	ou1
-錔	thah
-錕	kuen1
-錕	kuen2
+錔	theh
+錕	kueng1
+錕	kueng2
 錖	tuk
 錘	jiu1
 錘	jiu3
 錙	tzy1
 錚	tsang1
-錛	pen1
+錛	peng1
 錜	niah
 錝	tzung3
 錞	dei2
@@ -20049,8 +20054,8 @@ sort: by_weight
 錽	mae2
 鍀	tek
 鍁	hie1
-鍃	hueh
-鍆	men1
+鍃	huek
+鍆	meng1
 鍇	ka1
 鍇	kha2
 鍉	ti1
@@ -20058,7 +20063,7 @@ sort: by_weight
 鍋	kou1
 鍍	du1
 鍍	du3
-鍎	deh
+鍎	dek
 鍏	yu1
 鍏	yu2
 鍑	feu3
@@ -20074,7 +20079,7 @@ sort: by_weight
 鍝	ngiu1
 鍠	wang1
 鍡	uei2
-鍤	chih
+鍤	chieh
 鍤	tsah
 鍥	khiah
 鍥	kiah
@@ -20092,14 +20097,14 @@ sort: by_weight
 鍮	theu1
 鍯	tsung1
 鍰	wae1
-鍱	yih
+鍱	yeh
 鍲	min1
 鍴	toe1
 鍵	gie1
 鍵	gie2
 鍶	sy1
 鍺	tou2
-鍻	kih
+鍻	kieh
 鍼	cin1
 鍼	gie1
 鍾	ciung1
@@ -20190,7 +20195,7 @@ sort: by_weight
 鏰	pang3
 鏳	zang1
 鏵	wo1
-鏶	tsih
+鏶	tsieh
 鏶	zih
 鏷	buk
 鏸	yu3
@@ -20214,7 +20219,7 @@ sort: by_weight
 鐍	kioh
 鐎	tziau1
 鐎	ziau1
-鐏	zen3
+鐏	zeng3
 鐐	liau1
 鐐	liau3
 鐒	lau1
@@ -20242,7 +20247,6 @@ sort: by_weight
 鐲	zhiuk
 鐳	lei1
 鐴	pik
-鐵	thiah
 鐶	wae1
 鐸	dok
 鐹	kou2
@@ -20253,7 +20257,7 @@ sort: by_weight
 鐻	gei2
 鐻	kei3
 鐼	hiun3
-鐼	ven1
+鐼	veng1
 鐽	dah
 鐾	bi3
 鐿	i3
@@ -20299,7 +20303,7 @@ sort: by_weight
 鑴	hiu1
 鑴	yu1
 鑵	kuoe3
-鑷	nih
+鑷	nieh
 鑹	tsoe3
 鑺	giu1
 鑼	lou1
@@ -20310,10 +20314,10 @@ sort: by_weight
 鑿	tzok
 鑿	zok
 鑿	zuk
-钀	ngih
+钀	ngieh
 钁	kiok
 钃	ciuk
-锸	chih
+锸	chieh
 镟	zioe3
 長	ciang2	50%
 長	jiang1
@@ -20323,7 +20327,7 @@ sort: by_weight
 镻	diah
 镽	liau2
 镾	mi1
-門	men1
+門	meng1
 閂	soe1
 閃	shie2
 閃	shie3
@@ -20364,9 +20368,9 @@ sort: by_weight
 閧	ghung3
 閨	kiu1
 閩	min1
-閩	ven1
+閩	veng1
 閪	hi1
-閫	khuen2
+閫	khueng2
 閬	long1
 閬	long3
 閭	li1
@@ -20380,15 +20384,15 @@ sort: by_weight
 閻	ye1
 閼	iae1
 閼	ie1
-閼	ih
+閼	ieh
 閼	oh
-閽	huen1
+閽	hueng1
 閾	hiuk
-閿	ven1
+閿	veng1
 闃	khiuk
 闄	iau2
 闅	min1
-闅	ven1
+闅	veng1
 闆	pae2
 闆	phae2
 闇	e3
@@ -20402,7 +20406,7 @@ sort: by_weight
 闐	diae1
 闐	diae3
 闑	ngiah
-闑	ngih
+闑	ngieh
 闒	dah
 闓	khai2
 闓	khai3
@@ -20433,7 +20437,7 @@ sort: by_weight
 阠	sin1
 阠	sin3
 阡	tsiae1
-阢	ngeh
+阢	ngek
 阢	nguei1
 阤	ji2
 阤	shi2
@@ -20572,7 +20576,6 @@ sort: by_weight
 隸	li3
 隹	ciu1
 隺	ghuk
-隻	ciak	
 隼	siun2
 隽	zioe2
 隿	yik
@@ -20606,7 +20609,7 @@ sort: by_weight
 雚	kuoe3
 雚	woe1
 雛	zu1
-雜	zah
+雜	zeh
 雝	iung1
 雞	ki1
 雟	yu1
@@ -20614,15 +20617,15 @@ sort: by_weight
 離	li3	2%
 難	nae1
 難	nae3
-雥	zah
+雥	zeh
 雨	yu2
 雨	yu3	3%
 雩	hiu1
 雩	yu1
 雪	sioh
-雭	seh
-雯	ven1
-雰	fen1
+雭	sek
+雯	veng1
+雰	feng1
 雱	phong1
 雲	yun1
 雴	chih
@@ -20640,10 +20643,10 @@ sort: by_weight
 霂	muk
 霃	jin1
 霄	siau1
-霅	cih
+霅	cieh
 霅	dzah
 霅	ghah
-霅	sah
+霅	seh
 霆	ding1
 霆	ding2
 震	cin3
@@ -20652,7 +20655,7 @@ sort: by_weight
 霋	tsi1
 霍	huok
 霎	sah
-霎	sih
+霎	sieh
 霏	fi1
 霑	cie1
 霓	ngi1
@@ -20683,8 +20686,8 @@ sort: by_weight
 霱	yuh
 露	lu3
 霳	lung1
-霵	tzeh
-霵	zeh
+霵	tzek
+霵	zek
 霶	phong1
 霸	po3
 霹	phik
@@ -20723,7 +20726,7 @@ sort: by_weight
 靤	bau3
 靦	thiae2
 靧	huei3
-靨	ih
+靨	ieh
 革	kak
 靪	ting1
 靪	ting2
@@ -20742,9 +20745,10 @@ sort: by_weight
 靷	yin2
 靷	yin3
 靸	sah
+靸	seh
 靺	moh
 靻	tzu2
-靼	cih	5%
+靼	cieh	5%
 靼	tah
 靽	poe3
 靾	yi3
@@ -20765,7 +20769,7 @@ sort: by_weight
 鞋	gha1
 鞌	oe1
 鞍	oe1
-鞎	ghen1
+鞎	gheng1
 鞏	kiung2
 鞓	thing1
 鞔	moe1
@@ -20775,7 +20779,7 @@ sort: by_weight
 鞙	kioe1
 鞙	yoe2
 鞚	khung3
-鞜	thah
+鞜	theh
 鞞	bi1
 鞞	pi1
 鞞	pi2
@@ -20793,7 +20797,7 @@ sort: by_weight
 鞦	tsieu1
 鞧	tsieu1
 鞨	ghoh
-鞨	zhih
+鞨	zhieh
 鞪	meu1
 鞪	muk
 鞫	kiuk
@@ -20827,7 +20831,7 @@ sort: by_weight
 韋	yu1
 韌	nin3
 韍	bi3
-韍	feh
+韍	fek
 韎	ma3
 韎	moh
 韏	gioe3
@@ -20841,7 +20845,7 @@ sort: by_weight
 韖	nieu2
 韗	hioe3
 韗	yun3
-韘	shih
+韘	shieh
 韘	siah
 韙	yu2
 韛	ba3
@@ -20851,7 +20855,7 @@ sort: by_weight
 韝	keu1
 韝	kheu1
 韞	iun2
-韞	uen1
+韞	ueng1
 韠	pih
 韡	yu2
 韢	tsiu3
@@ -20863,7 +20867,7 @@ sort: by_weight
 韰	gha3
 韱	sie1
 音	in1
-韴	zah
+韴	zeh
 韵	yun3
 韶	zhiau1
 韸	bung1
@@ -20902,8 +20906,8 @@ sort: by_weight
 預	yi3
 頑	nguae1
 頒	pae1
-頒	ven1	2%
-頓	ten3
+頒	veng1	2%
+頓	teng3
 頔	dik
 頔	khiung2
 頕	tae1
@@ -20974,9 +20978,9 @@ sort: by_weight
 額	ngak
 顎	ngok
 顏	ngae1
-顐	ngen1
-顐	ngen3
-顐	wen1
+顐	ngeng1
+顐	ngeng3
+顐	weng1
 顑	khe2
 顑	ngae3
 顒	ngiung1
@@ -20990,9 +20994,9 @@ sort: by_weight
 顚	tiae1
 顛	thiae3	10%
 顛	tiae1
-顝	khueh
 顝	khuei1
 顝	khuei2
+顝	khuek
 類	li3
 顟	lau1
 顠	biau2
@@ -21020,7 +21024,7 @@ sort: by_weight
 顲	le2
 顲	le3
 顲	lin2
-顳	nih
+顳	nieh
 顴	gioe1
 風	fung1	
 風	fung3	2%
@@ -21030,11 +21034,11 @@ sort: by_weight
 颮	bau1
 颮	phok
 颮	piau1
-颯	sah
+颯	seh
 颰	boh
 颰	fah
 颱	dai1
-颲	lih
+颲	lieh
 颳	kuah
 颵	sau1
 颶	giu3
@@ -21069,8 +21073,8 @@ sort: by_weight
 飣	ting3
 飤	zy3
 飥	thok
-飧	sen1
-飩	den1
+飧	seng1
+飩	deng1
 飪	nin2
 飫	i3
 飬	khioe3
@@ -21107,7 +21111,7 @@ sort: by_weight
 餌	ni3
 餎	lok
 餐	tsae1
-餑	beh
+餑	bek
 餒	nei2
 餓	ngou3
 餔	bu3
@@ -21117,7 +21121,7 @@ sort: by_weight
 餗	suk
 餘	yi1
 餚	ghau1
-餛	wen1
+餛	weng1
 餜	kou2
 餞	zie2
 餞	zie3
@@ -21125,7 +21129,7 @@ sort: by_weight
 餟	ciu3
 餡	ghae2
 餡	ghae3
-餣	ih
+餣	ieh
 餤	dae1
 餥	fi1
 餥	fi2
@@ -21135,7 +21139,7 @@ sort: by_weight
 館	kuoe3
 餩	ek
 餪	noe2
-餫	wen1
+餫	weng1
 餫	yun3
 餬	wu1
 餭	wong1
@@ -21148,7 +21152,7 @@ sort: by_weight
 餲	oh
 餳	dong1
 餳	zing1
-餴	fen1
+餴	feng1
 餵	iu3
 餷	tso1
 餹	dong1
@@ -21160,7 +21164,7 @@ sort: by_weight
 餾	lieu1
 餾	lieu3
 餿	seu1
-饁	yih
+饁	yeh
 饃	mu1
 饅	moe1
 饆	pih
@@ -21183,7 +21187,7 @@ sort: by_weight
 饗	hiang2
 饘	cie1
 饘	cie2
-饙	fen1
+饙	feng1
 饛	mung1
 饜	ie1
 饜	ie3
@@ -21202,12 +21206,12 @@ sort: by_weight
 馘	kuak
 馘	kuek
 香	hiang1
-馚	ven1
+馚	veng1
 馛	boh
 馝	biah
 馝	bih
-馞	beh
-馞	pheh
+馞	bek
+馞	phek
 馠	he1
 馡	fi1
 馣	e1
@@ -21216,9 +21220,9 @@ sort: by_weight
 馥	vuk
 馦	hiae1
 馧	iun1
-馧	ueh
+馧	uek
 馨	hing1
-馩	ven1
+馩	veng1
 馬	mo2
 馭	ngei3
 馮	bing1	10%
@@ -21239,10 +21243,10 @@ sort: by_weight
 馶	ki3
 馶	shi3
 馹	nih
-馺	sah
+馺	seh
 馻	yoe2
 馻	yun2
-馼	ven1
+馼	veng1
 馾	te3
 駁	pok
 駂	pau2
@@ -21297,7 +21301,7 @@ sort: by_weight
 駶	giuk
 駷	seu2
 駷	sung2
-駸	tsen1
+駸	tseng1
 駸	tsin1
 駹	mong1
 駺	long1
@@ -21316,7 +21320,7 @@ sort: by_weight
 騅	ciu1
 騇	shia2
 騇	shia3
-騉	kuen1
+騉	kueng1
 騊	dau1
 騋	lai1
 騍	khou3
@@ -21384,7 +21388,7 @@ sort: by_weight
 驍	kiau1
 驎	lin1
 驏	zae2
-驐	ten1
+驐	teng1
 驒	dae1
 驒	dou1
 驒	tiae1
@@ -21399,7 +21403,7 @@ sort: by_weight
 驙	dae1
 驚	king1
 驛	yik
-驜	ngih
+驜	ngieh
 驟	zeu3
 驠	iae1
 驠	iae3
@@ -21414,7 +21418,7 @@ sort: by_weight
 驩	huoe1
 驪	li1
 驫	piau1
-骨	kueh
+骨	kuek
 骫	iu2
 骬	yu1
 骭	ghae3
@@ -21463,7 +21467,7 @@ sort: by_weight
 髓	siu2
 體	thi2
 髕	bin2
-髖	khuen1
+髖	khueng1
 髖	khuoe1
 髗	lu1
 高	kau1
@@ -21473,7 +21477,7 @@ sort: by_weight
 髞	sau3
 髟	piau1
 髟	sae1
-髡	khuen1
+髡	khueng1
 髢	di3
 髣	fong2
 髤	hieu1
@@ -21487,7 +21491,7 @@ sort: by_weight
 髯	nie3
 髲	bi3
 髳	mung1
-髴	feh
+髴	fek
 髴	fi3
 髵	ni1
 髶	ni3
@@ -21539,7 +21543,7 @@ sort: by_weight
 鬘	mae1
 鬙	seng1
 鬚	siu1
-鬛	lih
+鬛	lieh
 鬜	khae1
 鬜	khah
 鬝	khae1
@@ -21550,7 +21554,7 @@ sort: by_weight
 鬠	woh
 鬡	nang1
 鬢	pin3
-鬣	lih
+鬣	lieh
 鬤	nang1
 鬤	niang1
 鬥	teu3
@@ -21579,7 +21583,7 @@ sort: by_weight
 鬾	gi1
 鬾	gi3
 魁	khuei1
-魂	wen1
+魂	weng1
 魃	boh
 魄	phak
 魄	thok	3%
@@ -21597,7 +21601,7 @@ sort: by_weight
 魗	chieu2
 魗	zhieu1
 魘	ie2
-魘	ih
+魘	ieh
 魚	ngei1
 魛	tau1
 魝	kiah
@@ -21607,26 +21611,27 @@ sort: by_weight
 魠	thok
 魡	tik
 魤	ngou1
-魥	khih
+魥	khieh
 魥	ngeh
 魦	so1
 魦	sou1
 魧	ghong1
 魧	kong1
-魨	den1
+魨	deng1
 魪	ka3
 魫	shin2
 魬	bae2
 魮	bi1
 魯	lu2
 魱	wu1
-魳	tzah
+魳	tzeh
 魴	vong1
-魵	fen2
-魵	fen3
-魵	ven1
-魵	ven2
+魵	feng2
+魵	feng3
+魵	veng1
+魵	veng2
 魶	nah
+魶	neh
 魷	yeu1
 魺	ghou1
 魼	khei1
@@ -21669,7 +21674,7 @@ sort: by_weight
 鮢	ciu1
 鮣	in3
 鮤	li3
-鮤	lih
+鮤	lieh
 鮥	lok
 鮦	dung1
 鮦	jieu2
@@ -21700,8 +21705,8 @@ sort: by_weight
 鮹	sau1
 鮹	siau1
 鮾	nei2
-鮿	cih
-鯀	kuen2
+鮿	cieh
+鯀	kueng2
 鯁	kang2
 鯃	ngu1
 鯅	shie1
@@ -21718,15 +21723,15 @@ sort: by_weight
 鯖	tsing1
 鯗	siang2
 鯛	tiau1
-鯜	tsih
-鯜	tzih
+鯜	tsieh
+鯜	tzieh
 鯝	ku3
 鯞	cieu2
 鯟	tung1
 鯠	lai1
 鯡	fi3
 鯢	ngi1
-鯤	kuen1
+鯤	kueng1
 鯥	luk
 鯧	chiang1
 鯨	ging1
@@ -21738,7 +21743,7 @@ sort: by_weight
 鯬	li1
 鯰	niae1
 鯴	sih
-鯶	wen2
+鯶	weng2
 鯷	di1
 鯷	di3
 鯷	zhi3
@@ -21799,7 +21804,7 @@ sort: by_weight
 鰷	diau1
 鰸	khiu1
 鰹	kiae1
-鰺	sen1
+鰺	seng1
 鰻	mae3
 鰻	moe1
 鰼	zih
@@ -21815,7 +21820,7 @@ sort: by_weight
 鱅	zhiung1
 鱇	khong1
 鱈	sioh
-鱉	pih
+鱉	pieh
 鱊	kuah
 鱊	yuh
 鱊	zhiuh
@@ -21827,8 +21832,8 @@ sort: by_weight
 鱏	zin1
 鱐	suk
 鱑	wong1
-鱒	zen2
-鱒	zen3
+鱒	zeng2
+鱒	zeng3
 鱓	zhie2
 鱔	zhie2
 鱕	fae1
@@ -21839,7 +21844,7 @@ sort: by_weight
 鱗	lin1
 鱘	zin1
 鱚	hi2
-鱝	ven2
+鱝	veng2
 鱟	gheu3
 鱟	uk	5%
 鱠	kuei3
@@ -21858,7 +21863,7 @@ sort: by_weight
 鱯	wak
 鱯	wo3
 鱯	wu3
-鱲	lih
+鱲	lieh
 鱴	miah
 鱵	cin1
 鱷	ngok
@@ -21884,8 +21889,8 @@ sort: by_weight
 鳹	gie1
 鳺	fu1
 鳻	pae1
-鳻	ven1
-鳼	ven1
+鳻	veng1
+鳼	veng1
 鳽	khang1
 鳽	kiae1
 鳽	ngak
@@ -21914,7 +21919,7 @@ sort: by_weight
 鴘	pie2
 鴚	kou1
 鴛	ioe1
-鴛	uen1
+鴛	ueng1
 鴜	tzy1
 鴜	zy1
 鴝	giu1
@@ -21940,7 +21945,7 @@ sort: by_weight
 鴲	cy3
 鴳	ae3
 鴶	kah
-鴷	lih
+鴷	lieh
 鴸	ciu1
 鴹	yang1
 鴺	di1
@@ -21970,10 +21975,10 @@ sort: by_weight
 鵐	vu1
 鵑	kioe1
 鵒	yuk
-鵓	beh
+鵓	bek
 鵔	siun3
 鵕	siun3
-鵖	kih
+鵖	kieh
 鵖	pih
 鵗	hi1
 鵚	thuk
@@ -22014,7 +22019,7 @@ sort: by_weight
 鵼	khung1
 鵽	toh
 鵽	tzoh
-鵾	kuen1
+鵾	kueng1
 鶁	king1
 鶂	ngik
 鶄	tsing1
@@ -22039,16 +22044,16 @@ sort: by_weight
 鶝	bik
 鶝	fuk
 鶞	chiun1
-鶟	deh
+鶟	dek
 鶠	ie2
 鶡	ghoh
 鶢	yoe1
-鶤	kuen1
+鶤	kueng1
 鶤	yun3
 鶥	mi1
 鶧	ing1
 鶨	chioe3
-鶨	den3
+鶨	deng3
 鶩	muk
 鶩	vu3
 鶪	kiuk
@@ -22064,9 +22069,9 @@ sort: by_weight
 鶷	ghah
 鶹	lieu1
 鶺	tzik
-鶻	kueh	5%
+鶻	kuek	5%
 鶻	wah	5%
-鶻	weh
+鶻	wek
 鶼	kiae1
 鶾	ghoe1
 鶿	tzy1
@@ -22119,7 +22124,7 @@ sort: by_weight
 鷨	huo1
 鷨	wo1
 鷩	pi3
-鷩	pih
+鷩	pieh
 鷫	suk
 鷭	vae1
 鷮	giau1
@@ -22153,7 +22158,7 @@ sort: by_weight
 鸅	dzak
 鸆	ngiu1
 鸇	cie1
-鸈	ngih
+鸈	ngieh
 鸉	yang1
 鸊	bik
 鸋	ning1
@@ -22221,7 +22226,7 @@ sort: by_weight
 麛	mi1
 麜	lih
 麝	zhia3
-麝	zhiak
+麝	zhik
 麞	ciang1
 麟	lin1
 麠	king1
@@ -22231,7 +22236,7 @@ sort: by_weight
 麢	ling1
 麤	tsu1
 麥	mak
-麧	gheh
+麧	ghek
 麨	chiau2
 麩	fu1
 麪	miae3
@@ -22253,7 +22258,7 @@ sort: by_weight
 麽	mou1
 麾	hiu1
 黀	tzeu1
-黁	nen1
+黁	neng1
 黂	vi3
 黃	wong1
 黅	kin1
@@ -22275,8 +22280,8 @@ sort: by_weight
 黔	gin1
 黕	te2
 黖	hi3
-黗	then1
-黗	then2
+黗	theng1
+黗	theng2
 默	mek
 黚	gie1
 黚	gin1
@@ -22291,7 +22296,7 @@ sort: by_weight
 黤	ae2
 黤	e2
 黥	ging1
-黦	ih
+黦	ieh
 黦	ioh
 黦	iuh
 黧	li1
@@ -22317,8 +22322,8 @@ sort: by_weight
 黷	duk
 黸	lu1
 黹	cy2
-黺	fen2
-黻	feh
+黺	feng2
+黻	fek
 黼	fu2
 黽	mang2
 黽	mie2
@@ -22334,7 +22339,7 @@ sort: by_weight
 鼅	ci1
 鼆	mang2
 鼇	ngau1
-鼈	pih
+鼈	pieh
 鼉	dou1
 鼊	pik
 鼎	ting2
@@ -22346,7 +22351,7 @@ sort: by_weight
 鼓	ku2
 鼔	ku2
 鼕	dung1
-鼖	ven1
+鼖	veng1
 鼗	dau1
 鼘	in1
 鼘	ioe1
@@ -22358,11 +22363,11 @@ sort: by_weight
 鼞	thong1
 鼟	theng1
 鼠	sy2
-鼢	ven1
-鼢	ven2
+鼢	veng1
+鼢	veng2
 鼣	vi3
-鼤	ven1
-鼤	ven3
+鼤	veng1
+鼤	veng3
 鼥	boh
 鼧	dou1
 鼧	thou1
@@ -22370,16 +22375,16 @@ sort: by_weight
 鼩	giu1
 鼪	sang1
 鼪	sang3
-鼫	zhiak
+鼫	zhik
 鼬	yeu3
 鼭	zhy1
 鼮	ding1
 鼯	ngu1
 鼱	tzing1
-鼲	wen1
+鼲	weng1
 鼳	kiuk
 鼴	ie2
-鼵	deh
+鼵	dek
 鼶	di1
 鼶	sy1
 鼷	yi1
@@ -22389,7 +22394,7 @@ sort: by_weight
 鼾	ghoe3
 鼾	hoe1
 鼿	huei1
-鼿	ngeh
+鼿	ngek
 齁	heu1
 齂	ha3
 齂	hi3
@@ -22414,7 +22419,7 @@ sort: by_weight
 齓	tsin2
 齔	tsin2
 齔	tsin3
-齕	gheh
+齕	ghek
 齕	yah
 齖	ngo1
 齖	ngo3
@@ -22423,7 +22428,7 @@ sort: by_weight
 齘	gha3
 齙	bau1
 齚	zak
-齛	sih
+齛	sieh
 齜	tzy1
 齜	za1
 齝	chy1
@@ -22435,13 +22440,13 @@ sort: by_weight
 齣	chiuh	
 齤	gioe1
 齦	khae2
-齦	khen2
+齦	kheng2
 齦	ngin1
 齧	ngiah
 齨	gieu2
 齩	ngau2
 齪	tsok
-齫	khuen2
+齫	khueng2
 齫	ngiun2
 齬	ngei1
 齬	ngei2
@@ -22479,7 +22484,7 @@ sort: by_weight
 龓	lung2
 龔	kiung1
 龕	khe1
-龖	dah
+龖	deh
 龗	ling1
 龜	khieu1
 龜	kieu1
@@ -22494,7 +22499,7 @@ sort: by_weight
 𠀒	wu1
 𠀔	kiuh
 𠀘	thiae1
-𠀽	leh
+𠀽	lek
 𠁁	deu2
 𠁥	kuo2
 𠁫	khieu1
@@ -22516,7 +22521,7 @@ sort: by_weight
 𠃚	kieu1
 𠃸	i3
 𠃾	kiu1
-𠄅	ngih
+𠄅	ngieh
 𠄈	lin3
 𠄌	kioh
 𠄏	tiau2
@@ -22541,7 +22546,7 @@ sort: by_weight
 𠈵	mong1
 𠈵	mong2
 𠈺	bi2
-𠉤	dah
+𠉤	deh
 𠉦	suk
 𠉫	kiong3
 𠊧	bang2
@@ -22644,7 +22649,7 @@ sort: by_weight
 𠛐	ci3
 𠛑	yae1
 𠛮	tsioe1
-𠛱	lih
+𠛱	lieh
 𠛱	tzah
 𠛺	fu2
 𠜂	sae1
@@ -22676,13 +22681,13 @@ sort: by_weight
 𠞰	tziau2
 𠞱	gin3
 𠟂	tseng3
-𠟃	tzen2
+𠟃	tzeng2
 𠟉	cie2
 𠟌	fu2
 𠟍	chiung1
 𠟎	ngok
-𠟪	ngih
-𠟪	tsih
+𠟪	ngieh
+𠟪	tsieh
 𠟭	tzek
 𠟯	tziau2
 𠟴	tsy2
@@ -22691,11 +22696,11 @@ sort: by_weight
 𠟽	kuah
 𠟿	tziau2
 𠠃	tsie1
-𠠌	lih
+𠠌	lieh
 𠠍	li1
 𠠎	khuak
 𠠎	khuok
-𠠗	lih
+𠠗	lieh
 𠠜	ang1
 𠠫	li3
 𠠳	kieu1
@@ -22740,7 +22745,8 @@ sort: by_weight
 𠥸	thi1
 𠦂	thau1
 𠦃	sah
-𠦄	sah
+𠦃	seh
+𠦄	seh
 𠦎	thau1
 𠦒	pih
 𠦒	poe1
@@ -22750,23 +22756,23 @@ sort: by_weight
 𠧙	ciau3
 𠧙	zhiau1
 𠧙	zhiau3
-𠧚	chiak
+𠧚	chik
 𠧞	jiau2
 𠧧	si1
 𠧩	huei3
 𠧪	diau1
 𠧪	si1
 𠧴	yeu1
-𠧵	chiak
+𠧵	chik
 𠧷	yeu1
 𠨎	zioe3
-𠨜	ngeh
+𠨜	ngek
 𠨧	tsie1
 𠨮	tzek
 𠨲	yak
 𠨴	ka3
 𠩁	dung1
-𠩂	khih
+𠩂	khieh
 𠩃	yak
 𠩄	su2
 𠩗	yi1
@@ -22780,11 +22786,11 @@ sort: by_weight
 𠪚	khe2
 𠪚	ngin1
 𠪚	thae2
-𠪮	ciak
+𠪮	cik
 𠪻	vu3
-𠫓	theh
+𠫓	thek
 𠬈	pi2
-𠬛	meh
+𠬛	mek
 𠬝	nie2
 𠬝	tziah
 𠬢	thau1
@@ -22803,13 +22809,13 @@ sort: by_weight
 𠯋	i2
 𠯑	wah
 𠯔	phih
-𠯗	tzah
+𠯗	tzeh
 𠯘	poe3
-𠯙	tzih
+𠯙	tzieh
 𠰉	chiau1
 𠰒	nia2
 𠱘	ngik
-𠱝	ih
+𠱝	ieh
 𠱠	ling1
 𠱡	sa3
 𠱡	sah
@@ -22831,7 +22837,7 @@ sort: by_weight
 𠴫	zik
 𠴱	wu1
 𠴺	a1
-𠵭	ih
+𠵭	ieh
 𠶷	ik
 𠶸	giak
 𠶸	khik
@@ -22848,7 +22854,7 @@ sort: by_weight
 𠸶	song1
 𠸶	song3
 𠸹	iuk
-𠹀	sen3
+𠹀	seng3
 𠹈	nou1
 𠹊	tsau2
 𠹋	zih
@@ -22876,14 +22882,14 @@ sort: by_weight
 𠿕	khiau3
 𠿝	tsu1
 𠿟	ok
-𠿠	tzeh
+𠿠	tzek
 𠿡	tzoh
 𡀾	ngeh
 𡀿	liu3
 𡁆	lok
-𡁋	uen2
+𡁋	ueng2
 𡁑	huo1
-𡂏	lih
+𡂏	lieh
 𡂐	zae3
 𡂐	zah
 𡂒	cih
@@ -22908,20 +22914,20 @@ sort: by_weight
 𡇶	gheh
 𡇼	ah
 𡈋	khiun1
-𡈋	khuen2
+𡈋	khueng2
 𡈗	mok
 𡈣	sioe1
 𡈼	thing2
 𡉚	fung1
 𡊁	ik
-𡊄	fen1
-𡊅	fen3
+𡊄	feng1
+𡊅	feng3
 𡊉	moh
 𡊞	bing3
 𡊫	niung2
-𡊻	lih
+𡊻	lieh
 𡋡	yoe1
-𡋯	beh
+𡋯	bek
 𡋲	zou2
 𡌦	vi3
 𡌨	bi1
@@ -22932,7 +22938,7 @@ sort: by_weight
 𡍦	wae1
 𡍨	du2
 𡍩	tsak
-𡍪	tseh
+𡍪	tsek
 𡍫	tsek
 𡍮	zhiu1
 𡎬	tzuo2
@@ -22946,18 +22952,18 @@ sort: by_weight
 𡏮	zau1
 𡏳	kin2
 𡐔	yin1
-𡐞	pih
+𡐞	pieh
 𡐠	khiu1
 𡐠	kuo2
 𡐠	kuo3
-𡐤	khih
+𡐤	khieh
 𡐨	ya2
 𡑈	tei2
 𡑜	lin1
 𡑟	ou1
-𡑣	khueh
+𡑣	khuek
 𡑧	ghah
-𡑧	khueh
+𡑧	khuek
 𡒊	yi3
 𡒓	he2
 𡓐	ngok
@@ -22986,7 +22992,7 @@ sort: by_weight
 𡗥	zhiun1
 𡗷	ku1
 𡗹	fae3
-𡗻	feh
+𡗻	fek
 𡘌	ha3
 𡘌	tsy2
 𡘐	hi3
@@ -23056,7 +23062,7 @@ sort: by_weight
 𡢖	khi3
 𡣊	ghe2
 𡣔	ghe2
-𡣪	shiak
+𡣪	shik
 𡣫	mek
 𡣬	ioe1
 𡤉	bin1
@@ -23064,7 +23070,7 @@ sort: by_weight
 𡤫	kho1
 𡤬	iok
 𡤯	li1
-𡤼	kih
+𡤼	kieh
 𡥀	pau2
 𡥆	hau3
 𡥈	kau3
@@ -23122,7 +23128,7 @@ sort: by_weight
 𡯱	ngioe2
 𡯵	thei3
 𡰄	di1
-𡰅	weh
+𡰅	wek
 𡰖	di1
 𡰖	ti1
 𡰝	cioe1
@@ -23135,7 +23141,7 @@ sort: by_weight
 𡰥	yi1
 𡰪	tuk
 𡰾	tsy1
-𡱂	den1
+𡱂	deng1
 𡱂	diae3
 𡱏	wo2
 𡱐	yi1
@@ -23161,7 +23167,7 @@ sort: by_weight
 𡴀	fung1
 𡴆	luk
 𡴊	khok
-𡴎	ngih
+𡴎	ngieh
 𡴘	ghang2
 𡴛	duk
 𡴞	yun2
@@ -23171,11 +23177,11 @@ sort: by_weight
 𡶅	phou1
 𡶇	mih
 𡶎	vi3
-𡶒	veh
+𡶒	vek
 𡶫	ngiah
-𡷘	bih
+𡷘	bieh
 𡷛	ghoe2
-𡷝	nih
+𡷝	nieh
 𡷡	ioe1
 𡷥	khuk
 𡷨	khang1
@@ -23204,7 +23210,7 @@ sort: by_weight
 𡼄	diah
 𡼊	lei2
 𡼗	kau1
-𡼿	khueh
+𡼿	khuek
 𡽆	ci3
 𡽐	liau1
 𡽜	ngoe1
@@ -23218,13 +23224,13 @@ sort: by_weight
 𡿔	li1
 𡿖	ngah
 𡿖	ngiah
-𡿦	khuen1
+𡿦	khueng1
 𡿧	tzai1
 𡿨	kioe2
-𡿪	lih
+𡿪	lieh
 𡿪	ngih
-𡿮	deh
-𡿮	theh
+𡿮	dek
+𡿮	thek
 𡿯	yuh
 𡿿	wek
 𢀼	veu1
@@ -23232,13 +23238,13 @@ sort: by_weight
 𢁕	tiau2
 𢁗	koe3
 𢁘	sae1
-𢁥	fen1
+𢁥	feng1
 𢁦	bi2
 𢁬	tzau2
 𢁮	gie1
 𢁼	tzy2
 𢁾	chiau1
-𢂀	feh
+𢂀	fek
 𢂁	kheu1
 𢂃	zok
 𢂊	au2
@@ -23246,7 +23252,7 @@ sort: by_weight
 𢂐	yah
 𢂑	shik
 𢂤	bei3
-𢂤	leh
+𢂤	lek
 𢂥	li3
 𢂷	kah
 𢂷	keh
@@ -23262,13 +23268,13 @@ sort: by_weight
 𢃒	tzei3
 𢃓	tsung2
 𢃔	chie1
-𢃕	thah
+𢃕	theh
 𢃖	jieu1
 𢃗	ghe2
 𢃛	gi1
 𢃤	huek
 𢃬	tziae1
-𢃭	kuen1
+𢃭	kueng1
 𢃭	tsung2
 𢃮	mie2
 𢃳	zhiau1
@@ -23295,8 +23301,8 @@ sort: by_weight
 𢅎	kiau3
 𢅫	ziu3
 𢅮	zie1
-𢅯	ven2
-𢅯	ven3
+𢅯	veng2
+𢅯	veng3
 𢅰	hak
 𢅴	mung3
 𢅹	yak
@@ -23326,7 +23332,7 @@ sort: by_weight
 𢉛	tsung1
 𢉛	tzung2
 𢉤	ko3
-𢉥	ih
+𢉥	ieh
 𢉥	oh
 𢊁	dza2
 𢊁	ji2
@@ -23370,7 +23376,7 @@ sort: by_weight
 𢐸	lu1
 𢑄	yau1
 𢑆	gioe1
-𢑢	hueh
+𢑢	huek
 𢑦	zhiau1
 𢒔	chiuk
 𢒔	ciuk
@@ -23400,8 +23406,8 @@ sort: by_weight
 𢕕	se2
 𢕘	tsei1
 𢕚	cik
-𢕬	sah
-𢕬	tseh
+𢕬	seh
+𢕬	tsek
 𢕮	tza3
 𢕮	tzo3
 𢕶	ieu1
@@ -23435,7 +23441,7 @@ sort: by_weight
 𢙣	ok
 𢙱	lung3
 𢙼	ying2
-𢚃	lih
+𢚃	lieh
 𢛁	tah
 𢛃	gieu1
 𢛃	gieu2
@@ -23486,7 +23492,7 @@ sort: by_weight
 𢟪	hi3
 𢟮	moe2
 𢟰	nga3
-𢠜	beh
+𢠜	bek
 𢠳	phiah
 𢠵	chiang2
 𢠶	wae3
@@ -23495,14 +23501,14 @@ sort: by_weight
 𢡤	kak
 𢡹	zhiung2
 𢢗	dzok
-𢢜	ngih
+𢢜	ngieh
 𢢝	siu3
 𢢞	khi3
 𢣎	thoe2
 𢣏	ai3
 𢣐	phin1
 𢣑	bie2
-𢣒	wen1
+𢣒	weng1
 𢣔	mie1
 𢣘	yu3
 𢣙	iung3
@@ -23515,7 +23521,7 @@ sort: by_weight
 𢤋	hik
 𢤤	dzong3
 𢤦	tung2
-𢤬	ven2
+𢤬	veng2
 𢤱	lung2
 𢥎	tzi1
 𢥗	li1
@@ -23547,12 +23553,13 @@ sort: by_weight
 𢨛	hi1
 𢨪	zy2
 𢨸	chiu3
-𢩭	tsen2
-𢪃	tseh
+𢩭	tseng2
+𢪃	tsek
 𢪇	tziang1
+𢪍	tzieh
 𢪍	tzih
 𢪎	hio1
-𢪏	weh
+𢪏	wek
 𢪒	kiung2
 𢫦	mak
 𢫨	niung2
@@ -23561,7 +23568,7 @@ sort: by_weight
 𢫷	nou2
 𢬆	tseu1
 𢬳	thuk
-𢬴	cih
+𢬴	cieh
 𢬴	tiah
 𢭃	toe2
 𢭆	chieu1
@@ -23610,7 +23617,7 @@ sort: by_weight
 𢵿	khiau3
 𢶀	zua1
 𢶃	vae1
-𢶆	kih
+𢶆	kieh
 𢶇	giung1
 𢶉	phak
 𢶋	thiah
@@ -23623,7 +23630,7 @@ sort: by_weight
 𢷎	pa3
 𢷏	bok
 𢷐	cy3
-𢷒	gih
+𢷒	gieh
 𢷕	mok
 𢷖	toe2
 𢷘	kie2
@@ -23668,7 +23675,7 @@ sort: by_weight
 𢽝	zae1
 𢽣	khae1
 𢽤	ke2
-𢽱	ih
+𢽱	ieh
 𢽳	sae2
 𢽴	tuk
 𢽻	kau2
@@ -23700,13 +23707,13 @@ sort: by_weight
 𣀔	tsioe3
 𣀗	lai1
 𣀘	zhieu1
-𣀣	veh
+𣀣	vek
 𣀤	kua3
 𣀧	sae2
 𣀧	sae3
 𣀩	kua3
 𣀮	niang1
-𣀳	nih
+𣀳	nieh
 𣀶	tzoe1
 𣀷	li1
 𣀷	li2
@@ -23728,11 +23735,11 @@ sort: by_weight
 𣃘	chie2
 𣃘	cing1
 𣃘	dzong1
-𣃦	veh
+𣃦	vek
 𣃧	ie2
 𣃰	ie2
 𣄉	ie2
-𣄉	ih
+𣄉	ieh
 𣄝	ngie3
 𣄠	piau1
 𣄧	yu1
@@ -23742,7 +23749,7 @@ sort: by_weight
 𣄸	ghou2
 𣅔	tzek
 𣅕	yuh
-𣅝	theh
+𣅝	thek
 𣅦	tzek
 𣅳	tzek
 𣆖	huong1
@@ -23755,14 +23762,14 @@ sort: by_weight
 𣉘	nai3
 𣉘	nek
 𣉻	ci3
-𣊓	sih
+𣊓	sieh
 𣊟	khe3
 𣊡	hiae2
 𣊡	ngeh
 𣋞	ai3
 𣋟	mou2
-𣋲	lih
-𣌍	nih
+𣋲	lieh
+𣌍	nieh
 𣌏	tek
 𣌾	yin3
 𣍆	chy1
@@ -23778,7 +23785,7 @@ sort: by_weight
 𣎵	pha3
 𣎵	phin3
 𣎼	pau2
-𣏔	khuen3
+𣏔	khueng3
 𣏕	pha3
 𣏚	zhi1
 𣏜	mie1
@@ -23804,14 +23811,14 @@ sort: by_weight
 𣓌	kau2
 𣓓	siun1
 𣓕	eu3
-𣓗	hueh
+𣓗	huek
 𣓧	cioe2
 𣔱	sau1
 𣔳	thok
 𣔴	yeu1
 𣔺	mau3
 𣔺	muk
-𣔻	deh
+𣔻	dek
 𣔾	ziu3
 𣕁	i1
 𣕁	ngi1
@@ -23844,7 +23851,7 @@ sort: by_weight
 𣚍	ik
 𣚏	hiu1
 𣚓	kioe3
-𣚕	ih
+𣚕	ieh
 𣚙	tziae1
 𣛒	li3
 𣛗	lok
@@ -23856,15 +23863,15 @@ sort: by_weight
 𣜦	dau2
 𣜨	gioe3
 𣝁	pha3
-𣝂	wen1
+𣝂	weng1
 𣝉	tei3
-𣝋	dah
+𣝋	deh
 𣝍	bik
 𣝏	kau3
 𣝑	yi3
 𣝒	zhia2
 𣝕	tziae1
-𣝗	weh
+𣝗	wek
 𣝞	zau1
 𣞈	biau1
 𣞐	sia2
@@ -23888,11 +23895,11 @@ sort: by_weight
 𣟽	lau3
 𣠏	tzeu1
 𣠚	lieu1
-𣠞	chih
-𣠞	cih
-𣠟	zen1
+𣠞	chieh
+𣠞	cieh
+𣠟	zeng1
 𣠯	soe1
-𣠺	tsih
+𣠺	tsieh
 𣠼	lau2
 𣡆	song2
 𣡌	ngoh
@@ -23912,7 +23919,7 @@ sort: by_weight
 𣢜	iuk
 𣢝	hing3
 𣢠	bih
-𣢩	hih
+𣢩	hieh
 𣢫	iong2
 𣢰	tzuk
 𣢲	fae1
@@ -23921,15 +23928,15 @@ sort: by_weight
 𣣋	ling1
 𣣌	tsy3
 𣣌	tzy3
-𣣏	huen1
+𣣏	hueng1
 𣣠	gheu3
 𣣢	yi1
-𣣲	hih
+𣣲	hieh
 𣣳	yau1
 𣣸	yeu2
 𣣹	heh
 𣤇	khok
-𣤊	lah
+𣤊	leh
 𣤋	leu3
 𣤌	tsua3
 𣤖	thi3
@@ -23937,21 +23944,21 @@ sort: by_weight
 𣤩	thik
 𣤴	hi1
 𣤵	ing2
-𣤶	tzah
+𣤶	tzeh
 𣤶	tzuk
 𣤶	zuk
 𣥂	thah
-𣥦	ken1
+𣥦	keng1
 𣥹	chiuk
 𣦞	giu1
 𣦢	pik
 𣦻	zae1
 𣦼	zae1
 𣧂	thi3
-𣧍	neh
+𣧍	nek
 𣧎	kiu3
 𣧑	hiung1
-𣧖	tzih
+𣧖	tzieh
 𣧡	hioh
 𣧩	ciung1
 𣧱	sae1
@@ -23962,7 +23969,7 @@ sort: by_weight
 𣨐	zu1
 𣨙	iu1
 𣨙	iu3
-𣨛	tseh
+𣨛	tsek
 𣨛	tziuh
 𣨶	huei3
 𣩄	kheh
@@ -23994,15 +24001,15 @@ sort: by_weight
 𣬎	kioh
 𣬕	sia2
 𣬜	thuk
-𣬩	fen1
+𣬩	feng1
 𣬪	pei3
-𣬬	sah
+𣬬	seh
 𣬸	diau1
 𣬹	ling1
 𣭝	keh
 𣭠	niu1
 𣭲	niung2
-𣭷	beh
+𣭷	bek
 𣮆	thou3
 𣮉	lai1
 𣮉	li1
@@ -24014,14 +24021,14 @@ sort: by_weight
 𣯉	diah
 𣯍	niun2
 𣯨	tzung1
-𣯩	men1
-𣯻	fen1
+𣯩	meng1
+𣯻	feng1
 𣯼	suk
 𣰊	nong1
 𣱐	cy3
 𣱐	in3
 𣱓	ghau3
-𣱦	ven1
+𣱦	veng1
 𣲒	lik
 𣲖	ku1
 𣲵	ci2
@@ -24032,14 +24039,14 @@ sort: by_weight
 𣳦	si3
 𣳩	tzy1
 𣳪	sy3
-𣴞	ben3
+𣴞	beng3
 𣴣	tzong3
 𣴪	pi1
 𣴵	huei3
 𣵹	jing2
 𣵻	dou2
 𣵼	koe3
-𣶏	tzih
+𣶏	tzieh
 𣷾	kiu2
 𣸃	siuh
 𣸆	tzy2
@@ -24050,12 +24057,12 @@ sort: by_weight
 𣹟	kung3
 𣹠	ioe1
 𣹢	ghe1
-𣹩	hih
+𣹩	hieh
 𣹪	mau1
 𣹬	ghuk
 𣹮	phi3
 𣹲	di1
-𣹵	nih
+𣹵	nieh
 𣺬	huong1
 𣻎	kheu1
 𣻎	kheu3
@@ -24064,12 +24071,12 @@ sort: by_weight
 𣻒	tzing1
 𣻛	tzong1
 𣻜	vu1
-𣻣	zhih
+𣻣	zhieh
 𣻥	vu1
 𣽅	kuoh
 𣽅	woh
 𣽍	gi3
-𣽒	sih
+𣽒	sieh
 𣽤	sak
 𣿂	siu2
 𣿆	vu1
@@ -24115,23 +24122,23 @@ sort: by_weight
 𤄶	yak
 𤄷	lou1
 𤄺	piae1
-𤅊	ngih
+𤅊	ngieh
 𤅢	yak
-𤅣	men1
+𤅣	meng1
 𤅩	hoe3
 𤅬	zin1
 𤅸	ye1
 𤅸	ye3
 𤆎	tzai1
 𤆝	phok
-𤇯	en1
+𤇯	eng1
 𤈥	thik
 𤈦	hiu2
 𤈧	ghak
 𤈪	kha3
 𤉐	zok
-𤊯	then2
-𤊸	feh
+𤊯	theng2
+𤊸	fek
 𤊽	liau3
 𤊾	miah
 𤌉	tsau2
@@ -24216,7 +24223,7 @@ sort: by_weight
 𤚩	zin1
 𤚫	dong1
 𤚼	keu3
-𤛊	lah
+𤛊	leh
 𤛋	dong1
 𤛎	mi2
 𤛎	min2
@@ -24246,7 +24253,7 @@ sort: by_weight
 𤝕	meu2
 𤝞	chiuh
 𤝡	bo3
-𤝰	tah
+𤝰	teh
 𤝱	iah
 𤝹	ciu1
 𤝻	yi1
@@ -24260,7 +24267,7 @@ sort: by_weight
 𤟟	ae3
 𤟣	ying1
 𤟤	hiu1
-𤟤	wen1
+𤟤	weng1
 𤟧	sy2
 𤟩	duk
 𤟭	chiak
@@ -24276,7 +24283,7 @@ sort: by_weight
 𤡬	hi3
 𤡮	nie1
 𤢍	ziu2
-𤢔	hih
+𤢔	hieh
 𤢘	su3
 𤢹	li2
 𤢻	chi3
@@ -24291,7 +24298,7 @@ sort: by_weight
 𤣤	ling1
 𤣥	yoe1
 𤣴	mong2
-𤣻	meh
+𤣻	mek
 𤣽	mau3
 𤤐	su3
 𤤴	kok
@@ -24318,7 +24325,7 @@ sort: by_weight
 𤫉	siah
 𤫕	nau1
 𤫣	ngie2
-𤫭	den1
+𤫭	deng1
 𤫱	keu1
 𤫲	ling1
 𤫵	khuoh
@@ -24343,7 +24350,7 @@ sort: by_weight
 𤭓	ying1
 𤭙	ghe1
 𤭛	kong1
-𤭞	ten1
+𤭞	teng1
 𤭢	sei3
 𤭧	ka1
 𤮇	yung1
@@ -24381,7 +24388,7 @@ sort: by_weight
 𤲒	bing1
 𤲓	lai1
 𤲖	thiae2
-𤲙	pen2
+𤲙	peng2
 𤲫	thoe2
 𤲬	nioe1
 𤲬	nioe2
@@ -24400,9 +24407,9 @@ sort: by_weight
 𤴟	ci3
 𤴨	yeu3
 𤴯	woe3
-𤴰	ngeh
+𤴰	ngek
 𤴱	tu3
-𤴼	khih
+𤴼	khieh
 𤵝	meu2
 𤵸	phong1
 𤵺	yi3
@@ -24410,7 +24417,7 @@ sort: by_weight
 𤵽	hai3
 𤵾	tso1
 𤶗	nga2
-𤶘	hueh
+𤶘	huek
 𤶚	niah
 𤶠	dzo1
 𤶠	tzo1
@@ -24425,7 +24432,7 @@ sort: by_weight
 𤷑	gieu2
 𤷚	ciuk
 𤷽	khiak
-𤷾	khih
+𤷾	khieh
 𤸁	huei3
 𤸃	seu3
 𤸅	min1
@@ -24502,7 +24509,7 @@ sort: by_weight
 𥁓	yeu2
 𥁓	yeu3
 𥁔	fae3
-𥁕	uen1
+𥁕	ueng1
 𥁠	gioe1
 𥁮	diau3
 𥁰	ming1
@@ -24537,7 +24544,7 @@ sort: by_weight
 𥄗	uoh
 𥄱	phoh
 𥄱	vi3
-𥄳	dah
+𥄳	deh
 𥄵	hiuh
 𥄶	sy1
 𥅗	tsi2
@@ -24599,7 +24606,7 @@ sort: by_weight
 𥉻	tsi3
 𥉽	khong1
 𥊕	thik
-𥊬	tzeh
+𥊬	tzek
 𥊮	huak
 𥊯	yah
 𥊳	cie2
@@ -24607,7 +24614,7 @@ sort: by_weight
 𥊸	thek
 𥊺	ghae1
 𥊼	dzang3
-𥊽	kuen1
+𥊽	kueng1
 𥋏	cik
 𥋙	ngeh
 𥋝	mang1
@@ -24615,7 +24622,7 @@ sort: by_weight
 𥋱	mih
 𥋿	hak
 𥌂	miae1
-𥌄	khueh
+𥌄	khuek
 𥌈	kae1
 𥌈	kae3
 𥌊	phae3
@@ -24628,7 +24635,7 @@ sort: by_weight
 𥌯	mang1
 𥌰	yu1
 𥌺	yak
-𥍉	shih
+𥍉	shieh
 𥍔	li1
 𥍟	hiuk
 𥍠	hik
@@ -24676,7 +24683,7 @@ sort: by_weight
 𥒰	fu2
 𥓋	ngiae1
 𥓍	tuk
-𥓎	leh
+𥓎	lek
 𥓔	uei2
 𥓖	kau2
 𥓻	tzung1
@@ -24724,11 +24731,11 @@ sort: by_weight
 𥛳	hei1
 𥜃	yik
 𥜒	ie2
-𥝁	sih
+𥝁	sieh
 𥝋	vi3
 𥝌	ki1
 𥝌	ngai3
-𥝖	gheh
+𥝖	ghek
 𥝤	li3
 𥝧	bo3
 𥝩	ziu3
@@ -24776,7 +24783,7 @@ sort: by_weight
 𥣭	li3
 𥣰	piae1
 𥣰	piae2
-𥤇	tsen1
+𥤇	tseng1
 𥤓	piae2
 𥤗	tong2
 𥤞	ling1
@@ -24787,7 +24794,7 @@ sort: by_weight
 𥥦	de2
 𥥸	dzo1
 𥥻	khing3
-𥥿	sen1
+𥥿	seng1
 𥦒	iau3
 𥦛	kuo2
 𥦜	pang3
@@ -24806,7 +24813,7 @@ sort: by_weight
 𥩠	tzae1
 𥩡	yoh
 𥩲	ghai2
-𥪂	lih
+𥪂	lieh
 𥪋	luk
 𥪋	vuk
 𥪥	siu1
@@ -24814,14 +24821,14 @@ sort: by_weight
 𥪺	ngi1
 𥫃	ngi1
 𥫃	ngi3
-𥫱	den2
+𥫱	deng2
 𥫵	thi3
 𥬇	siau3
 𥬎	moh
 𥬔	khei1
 𥬕	nie2
 𥬪	niung1
-𥬬	nih
+𥬬	nieh
 𥬯	khau2
 𥬰	tsak
 𥬲	dou2
@@ -24848,7 +24855,7 @@ sort: by_weight
 𥯖	du3
 𥯗	siun2
 𥯘	ya1
-𥯥	chih
+𥯥	chieh
 𥯦	zah
 𥯨	sy1
 𥯩	ciak
@@ -24903,7 +24910,7 @@ sort: by_weight
 𥴧	kei2
 𥴨	ai3
 𥴩	kak
-𥴫	den1
+𥴫	deng1
 𥴬	bi3
 𥴭	khah
 𥴮	phok
@@ -24921,7 +24928,7 @@ sort: by_weight
 𥶛	di1
 𥶛	di3
 𥶜	wu1
-𥶢	lih
+𥶢	lieh
 𥶵	hiu2
 𥶶	khiuk
 𥶷	sioe2
@@ -24954,7 +24961,7 @@ sort: by_weight
 𥻅	bik
 𥻆	suk
 𥻇	ghae2
-𥻔	fen3
+𥻔	feng3
 𥻤	tseu1
 𥻦	sah
 𥻧	kiae1
@@ -24962,11 +24969,11 @@ sort: by_weight
 𥻩	miae3
 𥼚	tzok
 𥼡	tsu1
-𥼶	shiak
+𥼶	shik
 𥼺	tsei2
 𥽂	khiu3
 𥽏	ghae2
-𥽒	fen3
+𥽒	feng3
 𥽗	lik
 𥽘	moh
 𥽬	niang3
@@ -24974,7 +24981,7 @@ sort: by_weight
 𥽽	sae2
 𥽽	tsoe2
 𥾍	koe2
-𥾛	tseh
+𥾛	tsek
 𥾝	miah
 𥾣	ci1
 𥾩	zy2
@@ -24992,8 +24999,8 @@ sort: by_weight
 𦀉	tou2
 𦀒	hiu1
 𦀒	hiu2
-𦀖	ih
-𦀖	kih
+𦀖	ieh
+𦀖	kieh
 𦀘	phi1
 𦀘	pi1
 𦀚	thing1
@@ -25004,10 +25011,10 @@ sort: by_weight
 𦁎	zok
 𦁐	khioh
 𦁐	kiuh
-𦁕	hueh
+𦁕	huek
 𦁙	yoe2
 𦁤	niae3
-𦂀	dah
+𦂀	deh
 𦂁	ziu3
 𦂄	kha1
 𦂇	kie2
@@ -25020,7 +25027,7 @@ sort: by_weight
 𦃊	lih
 𦃌	sie1
 𦃓	lieu1
-𦃕	huen2
+𦃕	hueng2
 𦃖	thae2
 𦃘	jy3
 𦃟	yi3
@@ -25111,7 +25118,7 @@ sort: by_weight
 𦐃	ne2
 𦐄	ghong1
 𦐇	thah
-𦐈	fen1
+𦐈	feng1
 𦐉	chy1
 𦐊	shi3
 𦐋	hioh
@@ -25120,17 +25127,17 @@ sort: by_weight
 𦐧	ngi3
 𦐹	sin1
 𦐺	siau1
-𦑇	thah
+𦑇	theh
 𦑌	huak
 𦑍	hiuk
 𦑎	ie3
 𦑜	kak
 𦑟	huang1
 𦑡	zhi1
-𦑣	chih
+𦑣	chieh
 𦑲	dah
 𦑹	vu1
-𦒆	lah
+𦒆	leh
 𦒎	yi3
 𦒎	yu3
 𦒓	giau1
@@ -25145,20 +25152,20 @@ sort: by_weight
 𦓒	ni1
 𦓝	cioe2
 𦓝	ciu2
-𦓤	lih
+𦓤	lieh
 𦓨	zy2
 𦓯	kiu1
 𦓴	sau2
 𦓴	sau3
 𦓷	yun1
 𦓾	liun2
-𦔅	deh
+𦔅	dek
 𦔎	tsek
 𦔐	yun1
 𦔔	moe1
 𦔔	moe3
 𦔜	yik
-𦔥	shiak
+𦔥	shik
 𦔥	yik
 𦔩	piau1
 𦔫	chik
@@ -25176,7 +25183,7 @@ sort: by_weight
 𦖥	nga3
 𦖩	liah
 𦖪	seu2
-𦖫	ven1
+𦖫	veng1
 𦗂	niuk
 𦗐	nga3
 𦗔	tzau1
@@ -25186,7 +25193,7 @@ sort: by_weight
 𦗖	liau1
 𦗡	de1
 𦗢	cie2
-𦗣	weh
+𦗣	wek
 𦗳	nong1
 𦗾	kuoh
 𦘅	kuok
@@ -25215,7 +25222,7 @@ sort: by_weight
 𦚻	sae1
 𦛔	yoe1
 𦛔	zioe3
-𦛖	chih
+𦛖	chieh
 𦛝	dzo1
 𦛠	niah
 𦜉	bi1
@@ -25233,12 +25240,12 @@ sort: by_weight
 𦝨	ka1
 𦝨	kha2
 𦝭	li3
-𦝮	ven2
+𦝮	veng2
 𦝲	i3
 𦞙	tei2
 𦞚	siah
 𦞜	sik
-𦞠	den1
+𦞠	deng1
 𦞤	sy3
 𦞦	hok
 𦞦	huk
@@ -25253,7 +25260,7 @@ sort: by_weight
 𦠁	tsuk
 𦠄	gi1
 𦠅	zin1
-𦠆	sen2
+𦠆	seng2
 𦠆	zioe3
 𦠌	ni1
 𦠎	phiau1
@@ -25270,7 +25277,7 @@ sort: by_weight
 𦢏	lei2
 𦢨	zie1
 𦢸	phok
-𦣀	nih
+𦣀	nieh
 𦣆	mou1
 𦣍	ghang1
 𦣛	lio1
@@ -25280,7 +25287,7 @@ sort: by_weight
 𦤂	zhiu1
 𦤘	yung1
 𦤙	nguah
-𦤡	ih
+𦤡	ieh
 𦤢	phi3
 𦤦	hai3
 𦤦	hoh
@@ -25305,14 +25312,14 @@ sort: by_weight
 𦧇	zhi2
 𦧈	gin3
 𦧝	thiae1
-𦧟	thah
+𦧟	theh
 𦧠	wah
 𦧭	thah
 𦧴	diae1
 𦧴	thae1
 𦨇	ngih
 𦨈	vuk
-𦨉	ngeh
+𦨉	ngek
 𦨖	tsau3
 𦨢	ti3
 𦨣	tiau1
@@ -25328,7 +25335,7 @@ sort: by_weight
 𦩗	jin2
 𦩝	yu3
 𦩣	khi3
-𦩤	deh
+𦩤	dek
 𦩨	tzin1
 𦩶	yi2
 𦩻	ciau1
@@ -25338,8 +25345,8 @@ sort: by_weight
 𦪉	tzin1
 𦪑	poh
 𦪙	thah
-𦪚	zen3
-𦪬	hih
+𦪚	zeng3
+𦪬	hieh
 𦪽	lung1
 𦫈	li2
 𦫊	ling1
@@ -25354,7 +25361,7 @@ sort: by_weight
 𦫶	kieu1
 𦫶	phau1
 𦬁	zai1
-𦬂	ngeh
+𦬂	ngek
 𦬔	tzau2
 𦬕	ciung1
 𦬕	jiung1
@@ -25375,7 +25382,7 @@ sort: by_weight
 𦭿	ya1
 𦮃	kua1
 𦮌	kioe1
-𦮶	ven2
+𦮶	veng2
 𦮸	yi2
 𦮹	veu1
 𦮺	sy1
@@ -25384,7 +25391,7 @@ sort: by_weight
 𦯈	tsin2
 𦯉	pak
 𦯊	kioh
-𦯍	cih
+𦯍	cieh
 𦯏	ok
 𦯐	zhiau1
 𦯑	zau2
@@ -25445,7 +25452,7 @@ sort: by_weight
 𦵸	kang2
 𦵹	thae2
 𦶀	u1
-𦶁	ven1
+𦶁	veng1
 𦶂	ih
 𦶋	shie3
 𦶌	tiau1
@@ -25462,7 +25469,7 @@ sort: by_weight
 𦸂	shin1
 𦸈	kuoh
 𦸉	khah
-𦸌	wen1
+𦸌	weng1
 𦸐	luk
 𦸓	tsih
 𦸗	tsik
@@ -25474,7 +25481,7 @@ sort: by_weight
 𦸣	bi2
 𦸣	pi2
 𦸣	pi3
-𦸦	beh
+𦸦	bek
 𦸺	tziu1
 𦹬	khuo1
 𦹾	mau3
@@ -25522,7 +25529,7 @@ sort: by_weight
 𦾷	luk
 𦾸	toe1
 𦾺	yau1
-𦾽	dah
+𦾽	deh
 𦿀	dzy1
 𦿁	fuk
 𦿂	yoe1
@@ -25611,7 +25618,7 @@ sort: by_weight
 𧈟	nik
 𧈩	dek
 𧈪	chie2
-𧈭	ngeh
+𧈭	ngek
 𧈱	dek
 𧈻	yuk
 𧉃	yun2
@@ -25648,7 +25655,7 @@ sort: by_weight
 𧌈	veu2
 𧌉	luk
 𧌍	luk
-𧌏	dah
+𧌏	deh
 𧌑	khiuh
 𧌔	ci1
 𧌗	tzeu2
@@ -25695,7 +25702,7 @@ sort: by_weight
 𧑎	tziu3
 𧑐	yuh
 𧑐	zhiuh
-𧑒	then1
+𧑒	theng1
 𧑓	sy2
 𧑙	tzuk
 𧑜	bi1
@@ -25710,7 +25717,7 @@ sort: by_weight
 𧓕	tung1
 𧓲	yang2
 𧓴	ding1
-𧓷	tzih
+𧓷	tzieh
 𧓸	jik
 𧔊	jie1
 𧔞	ngioe1
@@ -25724,7 +25731,7 @@ sort: by_weight
 𧕈	iu3
 𧕊	siah
 𧕋	yak
-𧕏	ngih
+𧕏	ngieh
 𧕛	dou1
 𧕝	ning1
 𧕡	phuk
@@ -25805,7 +25812,7 @@ sort: by_weight
 𧞍	nah
 𧞐	tuk
 𧞓	tzy1
-𧞢	kuen2
+𧞢	kueng2
 𧞣	ie2
 𧞧	piau2
 𧞩	tziah
@@ -25827,7 +25834,7 @@ sort: by_weight
 𧡋	nga2
 𧡎	ngi3
 𧡒	mak
-𧡡	wen1
+𧡡	weng1
 𧡡	yun3
 𧡨	di1
 𧡨	di3
@@ -25862,7 +25869,7 @@ sort: by_weight
 𧣸	kioh
 𧣺	nok
 𧣻	kei3
-𧤏	tzeh
+𧤏	tzek
 𧤐	kuo2
 𧤑	kiuk
 𧤕	zieu1
@@ -25872,7 +25879,7 @@ sort: by_weight
 𧤼	gioh
 𧤽	yok
 𧤾	kioh
-𧥄	tzeh
+𧥄	tzek
 𧥍	piau1
 𧥛	khie2
 𧥜	ngie2
@@ -25895,7 +25902,7 @@ sort: by_weight
 𧧮	hiong2
 𧧮	huong1
 𧧷	kieu3
-𧧸	pih
+𧧸	pieh
 𧧺	phi1
 𧨀	sou1
 𧨁	tzia1
@@ -25937,7 +25944,7 @@ sort: by_weight
 𧬊	si1
 𧬌	ngae1
 𧬨	huei3
-𧬪	kuen3
+𧬪	kueng3
 𧬭	kuo1
 𧬮	kuo3
 𧬮	tso3
@@ -25952,7 +25959,7 @@ sort: by_weight
 𧮫	giak
 𧮯	wang1
 𧮰	hae1
-𧮱	ven1
+𧮱	veng1
 𧮶	gheu1
 𧮸	hok
 𧮺	zae3
@@ -26036,7 +26043,7 @@ sort: by_weight
 𧶲	woe2
 𧶷	tsak
 𧷎	ghah
-𧷎	khueh
+𧷎	khuek
 𧷗	yuk
 𧷡	leu3
 𧷿	tu1
@@ -26081,7 +26088,7 @@ sort: by_weight
 𧼙	chiuk
 𧼙	chiung2
 𧼞	kioh
-𧼨	kih
+𧼨	kieh
 𧼪	chi3
 𧼭	seu1
 𧼭	suk
@@ -26129,7 +26136,7 @@ sort: by_weight
 𧿁	ngioh
 𧿅	sih
 𧿲	cy2
-𧿳	feh
+𧿳	fek
 𧿹	meu2
 𧿻	kiuk
 𨀘	ziang1
@@ -26143,7 +26150,7 @@ sort: by_weight
 𨁈	ghong1
 𨁍	ngiae3
 𨁏	phu1
-𨁸	leh
+𨁸	lek
 𨁹	ye2
 𨁽	tek
 𨂁	ah
@@ -26160,10 +26167,10 @@ sort: by_weight
 𨄚	tsiang1
 𨄞	suk
 𨅎	tsei3
-𨅔	zah
 𨅔	ze1
+𨅔	zeh
 𨅗	pih
-𨅞	tah
+𨅞	teh
 𨆁	thiae2
 𨆂	sah
 𨆌	vae1
@@ -26210,7 +26217,7 @@ sort: by_weight
 𨌗	khiu3
 𨌠	luk
 𨌥	vuk
-𨌭	thah
+𨌭	theh
 𨌴	thei1
 𨍇	ghak
 𨍈	tzung2
@@ -26258,8 +26265,8 @@ sort: by_weight
 𨑋	nung1
 𨑒	du1
 𨑤	khi3
-𨑥	hueh
-𨑥	veh
+𨑥	huek
+𨑥	vek
 𨑩	tiau3
 𨑩	tik
 𨑪	tsung1
@@ -26306,14 +26313,14 @@ sort: by_weight
 𨙺	nieu2
 𨙻	nou2
 𨙽	gin1
-𨚓	feh
+𨚓	fek
 𨚔	pau1
 𨚔	phau1
 𨚖	tzy1
 𨚙	ghau1
 𨚙	yau1
 𨚯	dung1
-𨚲	zen1
+𨚲	zeng1
 𨚴	ni1
 𨚵	tzai3
 𨛋	li2
@@ -26344,7 +26351,7 @@ sort: by_weight
 𨜴	gheh
 𨜴	keh
 𨜴	khai3
-𨜵	uen1
+𨜵	ueng1
 𨜶	ik
 𨜷	bong1
 𨜻	gie1
@@ -26391,7 +26398,7 @@ sort: by_weight
 𨠾	dai3
 𨡌	nei1
 𨡩	phoh
-𨡫	wen2
+𨡫	weng2
 𨡭	meu1
 𨡭	mu1
 𨡰	tziang3
@@ -26416,7 +26423,7 @@ sort: by_weight
 𨣼	tsung1
 𨤐	mi1
 𨤩	chiung1
-𨥂	kih
+𨥂	kieh
 𨥥	kuang2
 𨥦	zi1
 𨥳	tzi1
@@ -26434,7 +26441,7 @@ sort: by_weight
 𨪴	ki1
 𨫒	leu3
 𨫔	bi3
-𨫔	sih
+𨫔	sieh
 𨫖	thong3
 𨬐	gioh
 𨬕	ku1
@@ -26472,7 +26479,7 @@ sort: by_weight
 𨴗	tiah
 𨴙	lin3
 𨴬	ghuk
-𨵊	zih
+𨵊	zieh
 𨵌	ou2
 𨵥	sang2
 𨵦	yu1
@@ -26491,7 +26498,7 @@ sort: by_weight
 𨷭	jie1
 𨷱	cioe2
 𨷲	yak
-𨷹	fen1
+𨷹	feng1
 𨷺	kieu1
 𨷺	kieu2
 𨷻	lae1
@@ -26552,7 +26559,7 @@ sort: by_weight
 𨿿	chiung2
 𩀋	niun1
 𩀑	yuk
-𩀝	ciak
+𩀝	cik
 𩀞	tsong1
 𩀰	zung1
 𩀿	tzin1
@@ -26571,7 +26578,7 @@ sort: by_weight
 𩂥	in3
 𩂩	lei1
 𩂹	yuk
-𩂻	chih
+𩂻	chieh
 𩃔	sae1
 𩃔	tzie1
 𩃗	ie2
@@ -26593,7 +26600,7 @@ sort: by_weight
 𩅟	bok
 𩅦	uae1
 𩅧	ciung1
-𩅨	zen1
+𩅨	zeng1
 𩅼	lie3
 𩅼	tzae3
 𩅼	tzie1
@@ -26649,7 +26656,7 @@ sort: by_weight
 𩋆	khae1
 𩋇	piah
 𩋊	eh
-𩋊	ih
+𩋊	ieh
 𩋏	niah
 𩋟	vuk
 𩋠	mie2
@@ -26682,7 +26689,7 @@ sort: by_weight
 𩍅	dung1
 𩍆	sik
 𩍔	khiuk
-𩍕	cih
+𩍕	cieh
 𩍖	ik
 𩍙	sek
 𩍜	dok
@@ -26697,7 +26704,7 @@ sort: by_weight
 𩎌	hiae3
 𩎑	tzoe1
 𩎔	kau1
-𩎕	sah
+𩎕	seh
 𩎕	sih
 𩎚	tsak
 𩎧	vuk
@@ -26720,16 +26727,16 @@ sort: by_weight
 𩐨	bong1
 𩐨	phong1
 𩐭	niah
-𩐱	yih
+𩐱	yeh
 𩐵	dung3
 𩑂	dzok
-𩑃	ngih
+𩑃	ngieh
 𩑐	tsa1
 𩑒	dok
 𩑒	tsak
 𩑒	tzak
-𩑔	khueh
-𩑔	khuen2
+𩑔	khuek
+𩑔	khueng2
 𩑗	iau1
 𩑛	fah
 𩑟	khe1
@@ -26737,8 +26744,8 @@ sort: by_weight
 𩑢	bei1
 𩑣	yeu3
 𩑤	ngau2
-𩑦	meh
-𩑦	ueh
+𩑦	mek
+𩑦	uek
 𩑳	khie2
 𩑵	vi3
 𩑶	wu1
@@ -26748,13 +26755,13 @@ sort: by_weight
 𩑹	yoe3
 𩒉	cin3
 𩒝	tiae2
-𩒣	zen2
+𩒣	zeng2
 𩒥	khie2
 𩒮	gieu1
 𩒰	ngou1
 𩒰	ngou2
-𩒱	khuen1
-𩒱	khuen3
+𩒱	khueng1
+𩒱	khueng3
 𩒵	khiung2
 𩒺	vu2
 𩓏	khiung2
@@ -26770,7 +26777,7 @@ sort: by_weight
 𩓾	nie1
 𩔀	nga3
 𩔁	huei3
-𩔂	den3
+𩔂	deng3
 𩔃	yoe2
 𩔇	lau2
 𩔈	phok
@@ -26792,7 +26799,7 @@ sort: by_weight
 𩕖	sioe1
 𩕡	sek
 𩕢	ting2
-𩕧	sen3
+𩕧	seng3
 𩕯	tau1
 𩕰	mie1
 𩕲	i1
@@ -26807,7 +26814,7 @@ sort: by_weight
 𩖣	zin1
 𩖴	lieu2
 𩖶	hioh
-𩖼	feh
+𩖼	fek
 𩗄	hung1
 𩗔	nei2
 𩗬	liang1
@@ -26899,7 +26906,7 @@ sort: by_weight
 𩡩	pah
 𩡺	ka3
 𩡻	iau2
-𩢎	teh
+𩢎	tek
 𩢏	cih
 𩢑	tsy2
 𩢔	poe3
@@ -26916,13 +26923,13 @@ sort: by_weight
 𩢺	hioe1
 𩢼	khiong1
 𩢽	giung1
-𩢾	lih
+𩢾	lieh
 𩣐	huong1
-𩣘	nih
+𩣘	nieh
 𩣝	bu3
-𩣡	beh
+𩣡	bek
 𩣡	bok
-𩣯	dah
+𩣯	deh
 𩣱	luk
 𩣽	giuk
 𩤛	ngiung1
@@ -26932,7 +26939,7 @@ sort: by_weight
 𩥄	tiae1
 𩥆	li3
 𩥇	cie3
-𩥈	uen1
+𩥈	ueng1
 𩥉	ki3
 𩥑	thah
 𩥓	thau1
@@ -26952,14 +26959,14 @@ sort: by_weight
 𩧐	lok
 𩧐	thok
 𩨭	khio1
-𩨳	teh
+𩨳	tek
 𩨴	yau2
 𩨷	khio1
 𩨾	nguo1
-𩩌	kuen2
+𩩌	kueng2
 𩩘	i2
 𩩝	khong1
-𩩠	zeh
+𩩠	zek
 𩩯	biae2
 𩩱	kho3
 𩩲	ghoh
@@ -26970,7 +26977,7 @@ sort: by_weight
 𩪕	ngau1
 𩪘	dzong1
 𩪜	gioh
-𩪡	den1
+𩪡	deng1
 𩪧	bik
 𩪲	ghah
 𩫀	khai3
@@ -26998,13 +27005,13 @@ sort: by_weight
 𩮁	kah
 𩮁	khah
 𩮂	hah
-𩮜	shiak
+𩮜	shik
 𩮜	thik
 𩮝	ngah
 𩮳	biau2
 𩮶	seu1
 𩮷	teu1
-𩯄	tzen3
+𩯄	tzeng3
 𩯅	feu3
 𩯅	fuk
 𩯊	liau1
@@ -27015,7 +27022,7 @@ sort: by_weight
 𩯭	pin3
 𩯰	tzi3
 𩯰	tziah
-𩯰	tzih
+𩯰	tzieh
 𩯳	tzae2
 𩯳	tzae3
 𩯳	tzah
@@ -27034,7 +27041,7 @@ sort: by_weight
 𩱈	tsau2
 𩱓	ni3
 𩱖	suk
-𩱚	beh
+𩱚	bek
 𩱛	tzung2
 𩱜	niuk
 𩱝	khak
@@ -27100,7 +27107,7 @@ sort: by_weight
 𩺵	sin1
 𩺽	bok
 𩻛	tzin1
-𩻛	zen1
+𩻛	zeng1
 𩻜	lin1
 𩻝	zioe2
 𩻟	hiu1
@@ -27109,7 +27116,7 @@ sort: by_weight
 𩼅	niung3
 𩼈	au3
 𩼊	lou1
-𩼋	ngih
+𩼋	ngieh
 𩼝	zhiang1
 𩼪	ngei1
 𩼼	cie1
@@ -27125,7 +27132,7 @@ sort: by_weight
 𩾜	lik
 𩾞	woe1
 𩾳	bih
-𩾳	gih
+𩾳	gieh
 𩾳	kih
 𩾷	kou1
 𩾺	te3
@@ -27166,9 +27173,9 @@ sort: by_weight
 𪂅	ci1
 𪂈	ye1
 𪂉	yuk
-𪂌	thah
+𪂌	theh
 𪂸	suk
-𪂽	ben1
+𪂽	beng1
 𪂿	di1
 𪂿	di3
 𪃃	vuk
@@ -27197,7 +27204,7 @@ sort: by_weight
 𪄻	shiung1
 𪅂	ciang1
 𪅃	phiau1
-𪅄	seh
+𪅄	sek
 𪅆	li1
 𪅟	yung1
 𪅮	mih
@@ -27226,9 +27233,10 @@ sort: by_weight
 𪇰	pok
 𪇰	puk
 𪇱	lok
-𪇲	tzih
+𪇲	tzieh
 𪇴	miah
 𪇹	lah
+𪇹	leh
 𪇼	nae1
 𪈁	cin1
 𪈓	kiuk
@@ -27239,7 +27247,7 @@ sort: by_weight
 𪈮	mae1
 𪈴	kiok
 𪈻	gioe1
-𪈿	men1
+𪈿	meng1
 𪉜	tzae1
 𪉜	tzae3
 𪉦	kae3
@@ -27248,7 +27256,7 @@ sort: by_weight
 𪉮	tseu3
 𪉯	khe3
 𪉱	biae2
-𪉸	uen1
+𪉸	ueng1
 𪉿	khe3
 𪊆	zi3
 𪊇	thae3
@@ -27260,7 +27268,7 @@ sort: by_weight
 𪊑	kiae1
 𪊧	kiu1
 𪊨	ki2
-𪋆	kuen1
+𪋆	kueng1
 𪋇	ciu1
 𪋎	ieu1
 𪋐	noe3
@@ -27273,10 +27281,10 @@ sort: by_weight
 𪌘	theu2
 𪌜	theu2
 𪌣	kak
-𪌯	seh
+𪌯	sek
 𪍑	chiau2
 𪍒	wu1
-𪍛	seh
+𪍛	sek
 𪍠	khuk
 𪍣	leu2
 𪍦	lie2
@@ -27293,11 +27301,11 @@ sort: by_weight
 𪎭	mi1
 𪎮	hiu1
 𪎵	khong3
-𪎶	den1
+𪎶	deng1
 𪎽	chiung1
 𪎽	thung3
 𪏂	jie1
-𪏆	then1
+𪏆	theng1
 𪏆	thoe1
 𪏉	cie1
 𪏓	wang1
@@ -27366,7 +27374,7 @@ sort: by_weight
 𪔪	tsih
 𪔰	yin3
 𪔳	lung1
-𪔵	ven1
+𪔵	veng1
 𪔿	phuk
 𪕊	tzy1
 𪕋	lieu2
@@ -27394,7 +27402,7 @@ sort: by_weight
 𪖥	hi2
 𪖪	hi2
 𪖵	ung3
-𪖶	seh
+𪖶	sek
 𪖼	tzin1
 𪗂	zae1
 𪗉	tzy1
@@ -27412,14 +27420,14 @@ sort: by_weight
 𪗾	ghah
 𪗾	hah
 𪘁	gheh
-𪘁	thah
+𪘁	theh
 𪘏	tsok
 𪘏	tsuk
 𪘓	tsou1
 𪘓	zou1
 𪘘	ghah
 𪘧	tsih
-𪘧	zeh
+𪘧	zek
 𪘨	tza1
 𪘩	ngiun2
 𪘪	zae2
@@ -27452,6 +27460,4 @@ sort: by_weight
 姬	yi1
 災	tzai1
 甾	tzy1
-䊠	hi3
-䊠	hi3
 䊠	hi3

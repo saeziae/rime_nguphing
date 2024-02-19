@@ -6,7 +6,7 @@ __include: nguphing.schema:/
 schema:
   schema_id: nguphin-yaehwei
   name: 吳語拼音·吳協式
-  version: "20240216"
+  version: "20240219"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -29,24 +29,16 @@ speller:
     - xform/2/x/
     - xform/3/q/
     - xform/4//
-    # ui偉 讀作 iu與
-    - derive/ui/iu/
-    - derive/wi([qxr])$/yu$1/
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
-    # 前後鼻音 弗分
+    # sin心 星ing 弗分
     - derive/ing([qxr])$/in$1/
     - derive/in([qxr])$/ing$1/
-    - derive/eng([qxr])$/en$1/
-    - derive/en([qxr])$/eng$1/
-    # ie淹 iae煙 弗分
-    - derive/([iy])ae([qxr])$/$1e$2/
-    - derive/([iy])e([qxr])$/$1ae$1/
-    # eh褐 ek劾 弗分
-    - derive/ek$/eh/
-    - derive/eh$/ek/
     - derive/ik$/ih/
     - derive/ih$/ik/
+    # ie淹 iae煙 弗分
+    - derive/([iy])ae([qxr])$/$1e$2/
+    - derive/([iy])e([qxr])$/$1ae$2/
     # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
@@ -65,7 +57,7 @@ speller:
     # 吳語協會式
     - xform/[qrx]$//
     - xform/ts/tsh/
-    - xform/tz/tz/
+    - xform/tz/ts/
     # oe ae 入聲寫法
     - xform/oh/oeh/
     - xform/ah/aeh/
@@ -74,14 +66,15 @@ speller:
     - xform/ung/on/
     - xform/ok/aoh/
     - xform/ong/aon/
-    - xform/ek/eoh/
-    - xform/eng/eon/
+    - xform/eh/eeh/
+    - xform/ieeh/ieh/
+    - xform/ek/eh/
+    - xform/eng/en/
     - xform/ik/ieoh/
     - xform/ing/ieon/
     - xform/ak/ah/
     - xform/ang/an/
-    - xform/iun/iuin/
-    - xform/iuh/iuih/
+    - xform/(y|i)u(n|h)/$1ui$2/
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/
     - abbrev/^(ts|tsh|dz|ng).+$/$1/
@@ -89,9 +82,9 @@ speller:
 translator:
   prism: nguphin-yaehwei
   comment_format: &cf # 吳語協會式
-    - xform/[1234]//
+    - xform/[qrx]$//
     - xform/ts/tsh/
-    - xform/tz/tz/
+    - xform/tz/ts/
     # oe ae 入聲寫法
     - xform/oh/oeh/
     - xform/ah/aeh/
@@ -100,14 +93,15 @@ translator:
     - xform/ung/on/
     - xform/ok/aoh/
     - xform/ong/aon/
-    - xform/ek/eoh/
-    - xform/eng/eon/
+    - xform/eh/eeh/
+    - xform/ieeh/ieh/
+    - xform/ek/eh/
+    - xform/eng/en/
     - xform/ik/ieoh/
     - xform/ing/ieon/
     - xform/ak/ah/
     - xform/ang/an/
-    - xform/iun/iuin/
-    - xform/iuh/iuih/
+    - xform/(y|i)u(n|h)/$1ui$2/
 
 reverse_lookup:
   comment_format: *cf

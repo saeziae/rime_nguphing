@@ -4,7 +4,7 @@
 schema:
   schema_id: nguphing
   name: 吳語拼音
-  version: "20240219"
+  version: "20240220"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -63,21 +63,17 @@ speller:
     - erase/^xx$/
     - erase/^0$/
     - "xform/'//"
-    #改寫聲調
-    - xform/1/r/
-    - xform/2/x/
-    - xform/3/q/
-    - xform/4//
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
     # sin心 星ing 弗分
-    - derive/ing([qxr])$/in$1/
-    - derive/in([qxr])$/ing$1/
+    - derive/ing(\d)$/in$1/
+    - derive/in(\d)$/ing$1/
     - derive/ik$/ih/
     - derive/ih$/ik/
+    - derive/eng/en/
     # ie淹 iae煙 弗分
-    - derive/([iy])ae([qxr])$/$1e$2/
-    - derive/([iy])e([qxr])$/$1ae$2/
+    - derive/([iy])ae(\d)$/$1e$2/
+    - derive/([iy])e(\d)$/$1ae$2/
     # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
@@ -89,12 +85,17 @@ speller:
     - derive/^z/dz/
     - derive/^zh/j/
     # ci-cy 弗分
-    - derive/^(c|ch|j|sh|zh)i([qxr])$/$1y$2/
-    - derive/^(c|ch|j|sh|zh)y([qxr])$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)i(\d)$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)y(\d)$/$1i$2/
     # l m n 清音簡化
     - derive/^([lmn])h/$1/
+    #改寫聲調
+    - xform/1/r/
+    - xform/2/x/
+    - xform/3/q/
+    - xform/4//
     # 弗打聲調
-    - derive/([qxr])$//
+    - derive/(\d)$//
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/
     - abbrev/^(ts|tz|dz|ng).+$/$1/
@@ -104,33 +105,33 @@ translator:
   spelling_hints: 5
   preedit_format: &tone
     - xform/4//
-    - xlit|123|rxq|
-    - xform/([aeiou])(ng|n|l)([xrq])/$1$3$2/
-    - xform/([aeo])([eiu])([xrq])/$1$3$2/
-    - xform/ax/à/
-    - xform/aq/á/
-    - xform/ar/ā/
-    - xform/ex/è/
-    - xform/eq/é/
-    - xform/er/ē/
-    - xform/ox/ò/
-    - xform/oq/ó/
-    - xform/or/ō/
-    - xform/ix/ì/
-    - xform/iq/í/
-    - xform/ir/ī/
-    - xform/ux/ù/
-    - xform/uq/ú/
-    - xform/ur/ū/
-    - xform/yx/ỳ/
-    - xform/yq/ý/
-    - xform/yr/ȳ/
-    - xform/ngx/ǹg/
-    - xform/ngq/ńg/
-    - xform/ngr/n̄g/
-    - xform/mx/m̀/
-    - xform/mq/ḿ/
-    - xform/mr/m̄/
+    - xlit|rxq|123|
+    - xform/([aeiou])(ng|n|l)(\d)/$1$3$2/
+    - xform/([aeo])([eiu])(\d)/$1$3$2/
+    - xform/a1/ā/
+    - xform/a2/à/
+    - xform/a3/á/
+    - xform/e1/ē/
+    - xform/e2/è/
+    - xform/e3/é/
+    - xform/o1/ō/
+    - xform/o2/ò/
+    - xform/o3/ó/
+    - xform/i1/ī/
+    - xform/i2/ì/
+    - xform/i3/í/
+    - xform/u1/ū/
+    - xform/u2/ù/
+    - xform/u3/ú/
+    - xform/y1/ȳ/
+    - xform/y2/ỳ/
+    - xform/y3/ý/
+    - xform/ng1/n̄g/
+    - xform/ng2/ǹg/
+    - xform/ng3/ńg/
+    - xform/m1/m̄/
+    - xform/m2/m̀/
+    - xform/m3/ḿ/
     - "xform/;/'/"
   comment_format: *tone
 

@@ -6,7 +6,7 @@ __include: nguphing.schema:/
 schema:
   schema_id: nguphin-yaehwei
   name: 吳語拼音·吳協式
-  version: "20240219"
+  version: "20240220"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -15,30 +15,20 @@ schema:
 
 speller:
   algebra:
-    # xform/  - 改寫（替換，弗共存）
-    # derive  - 衍生（共存，單向模糊音）
-    # abbrev  - 簡拼（出字優先級傍前兩組低）
-    # fuzz    - 略拼（衹用在組詞，弗出單字）
-    # xlit    - 變換（適合大量个一對一變換）
-    # erase   - 刪除
     - erase/^xx$/
     - erase/^0$/
     - "xform/'//"
-    #改寫聲調
-    - xform/1/r/
-    - xform/2/x/
-    - xform/3/q/
-    - xform/4//
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
     # sin心 星ing 弗分
-    - derive/ing([qxr])$/in$1/
-    - derive/in([qxr])$/ing$1/
+    - derive/ing(\d)$/in$1/
+    - derive/in(\d)$/ing$1/
     - derive/ik$/ih/
     - derive/ih$/ik/
+    - derive/eng/en/
     # ie淹 iae煙 弗分
-    - derive/([iy])ae([qxr])$/$1e$2/
-    - derive/([iy])e([qxr])$/$1ae$2/
+    - derive/([iy])ae(\d)$/$1e$2/
+    - derive/([iy])e(\d)$/$1ae$2/
     # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
@@ -50,12 +40,12 @@ speller:
     - derive/^z/dz/
     - derive/^zh/j/
     # ci-cy 弗分
-    - derive/^(c|ch|j|sh|zh)i([qxr])$/$1y$2/
-    - derive/^(c|ch|j|sh|zh)y([qxr])$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)i(\d)$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)y(\d)$/$1i$2/
     # l m n 清音簡化
     - derive/^([lmn])h/$1/
     # 吳語協會式
-    - xform/[qrx]$//
+    - xform/\d//
     - xform/ts/tsh/
     - xform/tz/ts/
     # oe ae 入聲寫法
@@ -82,7 +72,7 @@ speller:
 translator:
   prism: nguphin-yaehwei
   comment_format: &cf # 吳語協會式
-    - xform/[qrx]$//
+    - xform/\d//
     - xform/ts/tsh/
     - xform/tz/ts/
     # oe ae 入聲寫法

@@ -6,7 +6,7 @@ __include: nguphing.schema:/
 schema:
   schema_id: nguphing-ipa
   name: 吳語拼音·IPA
-  version: "20240219"
+  version: "20240220"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -15,8 +15,7 @@ schema:
 
 translator:
   spelling_hints: 10
-  comment_format: &ipa
-    - xlit|rqx|123|
+  comment_format:
     - xform/([ptkc])h/$1ʰ/
     - xform/el/ɦɚ/
     - xform/ts/tsʰ/
@@ -39,8 +38,8 @@ translator:
     - xform/y/ɿ/
     - xform/iu/y/
     - xform/y(ŋ|k)/iu$1/
-    - xform/yn/yŋ/
-    - xform/yh/yʔ/
+    - xform/yn/yiŋ/
+    - xform/yh/yiʔ/
     - xform/iŋ/ieŋ/
     - xform/ik/iek/
     - xform/eŋ/əŋ/

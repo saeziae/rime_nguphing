@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: nguphing.char
-version: "20240219"
+version: "20240220"
 sort: by_weight
 ...
 丄	long3	
@@ -247,7 +247,7 @@ sort: by_weight
 膊	pok	
 臉	lie2	
 艦	khae2	
-艿	nai2
+艿	na2
 芭	pa1	
 茄	ga1
 茬	zo1
@@ -340,7 +340,6 @@ sort: by_weight
 死	si2	
 物	m1	3%
 弗	pih	3%
-屄	phih	1%
 戳	tsak	1%
 崑	khueng1	
 崐	khueng1	
@@ -361,6 +360,7 @@ sort: by_weight
 覆	phuk	
 豁	huah	
 轄	huah	
+䅴	sak	
 〇	ling1
 㐁	the3
 㐁	thiae3
@@ -2352,7 +2352,7 @@ sort: by_weight
 䏖	jin2
 䏖	yin2
 䏖	yin3
-䏘	phih
+䏘	phih	
 䏙	the2
 䏟	biah
 䏣	tsi1
@@ -5431,7 +5431,6 @@ sort: by_weight
 哨	siau1
 哨	tsiau3
 哩	li2
-哪	nou2
 哫	tzuk
 哭	khuk
 哮	hau1
@@ -19268,7 +19267,7 @@ sort: by_weight
 逗	deu3
 逗	jiu3	5%
 這	cia2
-這	cik
+這	cik	
 這	ngie3	1%
 通	thung1
 逛	kiong2
@@ -19414,8 +19413,6 @@ sort: by_weight
 邡	fong3
 邢	ying1
 那	nou1	2%
-那	nou2	2%
-那	nou3	96%
 邤	hin1
 邥	shin2
 邦	pong1

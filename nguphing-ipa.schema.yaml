@@ -11,61 +11,66 @@ schema:
     - 山前 <i@estela.moe>
   description: |
     * 標準吳語
-    * IPA个 preedit 対 comment 輸出
+    * IQA个 preedit 対 comment 輸出
+
+speller:
+  delimiter: ".';"
 
 translator:
   spelling_hints: 10
   comment_format:
-    - xform/([ptkc])h/$1ʰ/
-    - xform/el/ɦɚ/
-    - xform/ts/tsʰ/
+    # I don't know why but use ipa will cause problem, use fake ipa first
+    - xform/([ptkc])h/$1H/
+    - xform/ts/tsH/
+    - xform/el/R/
     - xform/tz/ts/
     - xform/dz/dz/
-    - xform/c/tɕ/
-    - xform/j/dʑ/
-    - xform/sh/ɕ/
-    - xform/zh/ʑ/
-    - xform/y([aueo])/ghi$1/
-    - xform/yi/ghi/
-    - xform/w([aieo])/ghu$1/
-    - xform/wu/ghu/
-    - xform/gh/ɦ/
-    - xform/ng/ŋ/
-    - xform/g/ɡ/
-    - xform/ni/nʲi/
-    - xform/(^| )([aiueo])/$1ʔ$2/
-    - xform/(l|m|ng)h/ʔ$1/
-    - xform/y/ɿ/
+    - xform/c/tS/
+    - xform/j/dZ/
+    - xform/sh/S/
+    - xform/zh/Z/
+    - xform/([szSZ])y/$1I/
+    - xform/yi?/ghi/
+    - xform/wu?/ghu/
+    - xform/gh/G/
+    - xform/ng/N/
+    - xform/ni/nJi/
+    - xform/(^| |\.)([aiueo])/$1Q$2/
+    - xform/(l|m|n)h/Q$1/
     - xform/iu/y/
-    - xform/y(ŋ|k)/iu$1/
-    - xform/yn/yiŋ/
-    - xform/yh/yiʔ/
-    - xform/iŋ/ieŋ/
+    - xform/y(N|k)/iu$1/
+    - xform/yn/yin/
+    - xform/yh/yik/
+    - xform/iN/ien/
     - xform/ik/iek/
-    - xform/eŋ/əŋ/
-    - xform/ek/əʔ/
-    - xform/in/iŋ/
-    - xform/ih/iʔ/
-    - xform/uŋ/Uŋ/
-    - xform/uk/Uʔ/
-    - xform/oŋ/ɔ̃/
-    - xform/ok/ɔʔ/
-    - xform/U/o/
-    - xform/aŋ/ã/
-    - xform/ak/aʔ/
-    - xform/ae/ɛ/
-    - xform/ah/ɛʔ/
-    - xform/oe/ø/
-    - xform/eh/eʔ/
-    - xform/oh/øʔ/
-    - xform/au/ɔ/
-    - xform/eu/ɤ/
-    - xform/ou/əʊ/
-    - xform/ʔ($| )/ʔ1$1/
-    - xform/((^| )[ptkhʔfsɕ][^ ]+[123])/$1X/
+    - xform/eN/EN/
+    - xform/ek/EQ/
+    - xform/in/iN/
+    - xform/ih/iQ/
+    - xform/uN/UN/
+    - xform/uk/UQ/
+    - xform/oN/OM/
+    - xform/ok/OQ/
+    - xform/aN/aM/
+    - xform/ak/aQ/
+    - xform/ae/A/
+    - xform/ah/AQ/
+    - xform/oe/W/
+    - xform/eh/eQ/
+    - xform/oh/WQ/
+    - xform/au/O/
+    - xform/eu/V/
+    - xform/ou/EU/
+    - xform/i([aeiouAEOUVW])/j$1/
+    - xform/u([aeiouAEOUVW])/w$1/
+    - xform/y([aeiouAEOUVW])/Y$1/
+    - xform/Q($| |\.)/Q1$1/
+    - xform/((^| |\.)[ptkhQfsS]\w+?[123])/$1X/
     - xform/1X/˦/
     - xform/2X/˥˧/
     - xform/3X/˧˥/
     - xform/1/˨/
     - xform/2/˧˩/
     - xform/3/˩˧/
+    - xlit|gAEGHIJMNOQRSUVWYZ|ɡɛəɦʰɿʲ̃ŋɔʔɚɕʊɤøɥʑ|
+    - xform/[;']/./"

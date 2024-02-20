@@ -18,17 +18,18 @@ speller:
     - erase/^xx$/
     - erase/^0$/
     - "xform/'//"
+    - xlit|123|rxq|
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
     # sin心 星ing 弗分
-    - derive/ing(\d)$/in$1/
-    - derive/in(\d)$/ing$1/
+    - derive/ing([rxq])$/in$1/
+    - derive/in([rxq])$/ing$1/
     - derive/ik$/ih/
     - derive/ih$/ik/
     - derive/eng/en/
     # ie淹 iae煙 弗分
-    - derive/([iy])ae(\d)$/$1e$2/
-    - derive/([iy])e(\d)$/$1ae$2/
+    - derive/([iy])ae([rxq])$/$1e$2/
+    - derive/([iy])e([rxq])$/$1ae$2/
     # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
@@ -40,15 +41,21 @@ speller:
     - derive/^z/dz/
     - derive/^zh/j/
     # ci-cy 弗分
-    - derive/^(c|ch|j|sh|zh)i(\d)$/$1y$2/
-    - derive/^(c|ch|j|sh|zh)y(\d)$/$1i$2/
+    - derive/^(c|ch|j|sh|zh)i([rxq])$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)y([rxq])$/$1i$2/
     # l m n 清音簡化
     - derive/^([lmn])h/$1/
+    # ghi ghu 兼容
+    - derive/yi?/ghi/
+    - derive/wu?/ghu/
+    # 弗打聲調
+    - derive/([rxq])$//
     # 吳語協會式
-    - xform/\d//
     - xform/ts/tsh/
     - xform/tz/ts/
-    # oe ae 入聲寫法
+    # oe ae e 入聲寫法
+    - xform/eh/eeh/
+    - xform/ieeh/ieh/
     - xform/oh/oeh/
     - xform/ah/aeh/
     # ng/k 系寫法
@@ -56,8 +63,6 @@ speller:
     - xform/ung/on/
     - xform/ok/aoh/
     - xform/ong/aon/
-    - xform/eh/eeh/
-    - xform/ieeh/ieh/
     - xform/ek/eh/
     - xform/eng/en/
     - xform/ik/ieoh/
@@ -65,17 +70,49 @@ speller:
     - xform/ak/ah/
     - xform/ang/an/
     - xform/(y|i)u(n|h)/$1ui$2/
+    # 簡寫
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/
     - abbrev/^(ts|tsh|dz|ng).+$/$1/
 
 translator:
   prism: nguphin-yaehwei
+  preedit_format:
+    # 聲調
+    - xlit|rxq|123|
+    - xform/([aeiou])(n|l)([123])/$1$3$2/
+    - xform/([aeo])([eiuo])([123])/$1$3$2/ #多一隻 aon eon
+    - xform/a1/ā/
+    - xform/a2/à/
+    - xform/a3/á/
+    - xform/e1/ē/
+    - xform/e2/è/
+    - xform/e3/é/
+    - xform/o1/ō/
+    - xform/o2/ò/
+    - xform/o3/ó/
+    - xform/i1/ī/
+    - xform/i2/ì/
+    - xform/i3/í/
+    - xform/u1/ū/
+    - xform/u2/ù/
+    - xform/u3/ú/
+    - xform/y1/ȳ/
+    - xform/y2/ỳ/
+    - xform/y3/ý/
+    - xform/ng1/n̄g/
+    - xform/ng2/ǹg/
+    - xform/ng3/ńg/
+    - xform/m1/m̄/
+    - xform/m2/m̀/
+    - xform/m3/ḿ/
+    - "xform/[;']/-/"
   comment_format: &cf # 吳語協會式
-    - xform/\d//
     - xform/ts/tsh/
     - xform/tz/ts/
     # oe ae 入聲寫法
+    - xform/eh/eeh/
+    - xform/ieeh/ieh/
     - xform/oh/oeh/
     - xform/ah/aeh/
     # ng/k 系寫法
@@ -83,8 +120,6 @@ translator:
     - xform/ung/on/
     - xform/ok/aoh/
     - xform/ong/aon/
-    - xform/eh/eeh/
-    - xform/ieeh/ieh/
     - xform/ek/eh/
     - xform/eng/en/
     - xform/ik/ieoh/
@@ -92,6 +127,34 @@ translator:
     - xform/ak/ah/
     - xform/ang/an/
     - xform/(y|i)u(n|h)/$1ui$2/
-
+    # 聲調
+    - xlit|rxq|123|
+    - xform/([aeiou])(n|l)([123])/$1$3$2/
+    - xform/([aeo])([eiuo])([123])/$1$3$2/ #多一隻 aon eon
+    - xform/a1/ā/
+    - xform/a2/à/
+    - xform/a3/á/
+    - xform/e1/ē/
+    - xform/e2/è/
+    - xform/e3/é/
+    - xform/o1/ō/
+    - xform/o2/ò/
+    - xform/o3/ó/
+    - xform/i1/ī/
+    - xform/i2/ì/
+    - xform/i3/í/
+    - xform/u1/ū/
+    - xform/u2/ù/
+    - xform/u3/ú/
+    - xform/y1/ȳ/
+    - xform/y2/ỳ/
+    - xform/y3/ý/
+    - xform/ng1/n̄g/
+    - xform/ng2/ǹg/
+    - xform/ng3/ńg/
+    - xform/m1/m̄/
+    - xform/m2/m̀/
+    - xform/m3/ḿ/
+    - "xform/[;']/-/"
 reverse_lookup:
   comment_format: *cf

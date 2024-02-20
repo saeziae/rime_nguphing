@@ -52,7 +52,7 @@ engine:
 
 speller:
   alphabet: "xrzywvutsqponmlkjihgfedcba"
-  delimiter: " ';"
+  delimiter: "-';"
   algebra:
     # xform/  - 改寫（替換，弗共存）
     # derive  - 衍生（共存，單向模糊音）
@@ -63,17 +63,18 @@ speller:
     - erase/^xx$/
     - erase/^0$/
     - "xform/'//"
+    - xlit|123|rxq|
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
     # sin心 星ing 弗分
-    - derive/ing(\d)$/in$1/
-    - derive/in(\d)$/ing$1/
+    - derive/ing([rxq])$/in$1/
+    - derive/in([rxq])$/ing$1/
     - derive/ik$/ih/
     - derive/ih$/ik/
     - derive/eng/en/
     # ie淹 iae煙 弗分
-    - derive/([iy])ae(\d)$/$1e$2/
-    - derive/([iy])e(\d)$/$1ae$2/
+    - derive/([iy])ae([rxq])$/$1e$2/
+    - derive/([iy])e([rxq])$/$1ae$2/
     # ok樂 uk六 弗分
     - derive/ok$/uk/
     - derive/uk$/ok/
@@ -85,17 +86,15 @@ speller:
     - derive/^z/dz/
     - derive/^zh/j/
     # ci-cy 弗分
-    - derive/^(c|ch|j|sh|zh)i(\d)$/$1y$2/
-    - derive/^(c|ch|j|sh|zh)y(\d)$/$1i$2/
+    - derive/^(c|ch|j|sh|zh)i([rxq])$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)y([rxq])$/$1i$2/
     # l m n 清音簡化
     - derive/^([lmn])h/$1/
-    #改寫聲調
-    - xform/1/r/
-    - xform/2/x/
-    - xform/3/q/
-    - xform/4//
+    # ghi ghu 兼容
+    - derive/yi?/ghi/
+    - derive/wu?/ghu/
     # 弗打聲調
-    - derive/(\d)$//
+    - derive/([rxq])$//
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([ptkgszc]h).+$/$1/
     - abbrev/^(ts|tz|dz|ng).+$/$1/
@@ -104,10 +103,9 @@ translator:
   dictionary: nguphing
   spelling_hints: 5
   preedit_format: &tone
-    - xform/4//
     - xlit|rxq|123|
-    - xform/([aeiou])(ng|n|l)(\d)/$1$3$2/
-    - xform/([aeo])([eiu])(\d)/$1$3$2/
+    - xform/([aeiou])(ng|n|l)([123])/$1$3$2/
+    - xform/([aeo])([eiu])([123])/$1$3$2/
     - xform/a1/ā/
     - xform/a2/à/
     - xform/a3/á/
@@ -132,7 +130,7 @@ translator:
     - xform/m1/m̄/
     - xform/m2/m̀/
     - xform/m3/ḿ/
-    - "xform/;/'/"
+    - "xform/[;']/-/"
   comment_format: *tone
 
 punctuator:

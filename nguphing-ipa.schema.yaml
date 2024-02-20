@@ -41,8 +41,8 @@ translator:
     - xform/y(N|k)/iu$1/
     - xform/yn/yin/
     - xform/yh/yik/
-    - xform/iN/ien/
-    - xform/ik/iek/
+    - xform/iN/iEN/
+    - xform/ik/iEQ/
     - xform/eN/EN/
     - xform/ek/EQ/
     - xform/in/iN/

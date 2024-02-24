@@ -28,6 +28,14 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 
 ## [>拼音體系](https://github.com/DINISHING/standards/blob/main/phonetics/phonology.md)
 
+## 反查
+
+撳 <kbd>X</kbd> 筆畫反查，撳 <kbd>Q</kbd> 漢語拼音反查。還好[安裝擴展](https://github.com/saeziae/rime_nguphing_patches)，撳 <kbd>R</kbd> 用粵拼反查。
+
+## 符號
+
+撳 <kbd>/</kbd> 後好輸入符號，符號庫已經翻譯成功吳語縮寫， 好參考[symbols_wu.yaml](./symbols_wu.yaml)，譬方 `/td` 可以揀箭頭符號。
+
 ## 字音、詞彙庫
 
 詞庫維護方式已遷移到 [DINISHING/vocabulary](https://github.com/DINISHING/vocabulary)，任何字音詞彙問題請到此倉庫反映。
@@ -53,6 +61,8 @@ A Standardized Shanghainese (Wu Language) Input Method for [RIME](https://rime.i
 - [韻典網](https://ytenx.org/)
 - [字海](http://zisea.com/)
 - [Wiktionary](https://en.wiktionary.org/)
+- [Rime 粵語拼音方案](https://github.com/rime/rime-cantonese/) 畀着項目重構个靈感
+- [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source) 幫助補充着弗常用字个讀音參考
 - 優秀个先生対前輩對吳語个研究
 - 幫助調試个朋友道裏
 - 每一位傳承與保護吳語个人

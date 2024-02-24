@@ -4,14 +4,16 @@
 schema:
   schema_id: nguphing
   name: 吳語拼音
-  version: "20240220"
+  version: "20240224"
   author:
     - 山前 <i@estela.moe>
   description: |
     * 標準吳語
     * R/X/Q 代表平上去
+    * 拼音反查撳Q，筆畫反查撳X
   dependencies:
     - luna_pinyin #反查
+    - stroke
   icon: nguphing.ico
 
 switches:
@@ -23,7 +25,7 @@ switches:
   - name: ascii_punct
     states: [句讀, 符號]
   - name: simplification
-    states: [漢字, 汉字]
+    states: [正體, 简体]
 
 engine:
   processors:
@@ -38,20 +40,23 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@luna_pinyin
+    - affix_segmentor@stroke
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator@custom_phrase
-    - reverse_lookup_translator
     - script_translator
+    - script_translator@luna_pinyin
+    - table_translator@stroke
   filters:
     - simplifier
     - uniquifier
+    - reverse_lookup_filter@nguphing_reverse_lookup
 
 speller:
-  alphabet: "xrzywvutsqponmlkjihgfedcba"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba"
   delimiter: "-';"
   algebra:
     # xform/  - 改寫（替換，弗共存）
@@ -66,12 +71,14 @@ speller:
     - xlit|123|rxq|
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
-    # sin心 星ing 弗分
+    # in心 星ing 弗分
     - derive/ing([rxq])$/in$1/
     - derive/in([rxq])$/ing$1/
     - derive/ik$/ih/
     - derive/ih$/ik/
     - derive/eng/en/
+    # ih立 ieh列 弗分 
+    - derive/ieh$/ih/
     # ie淹 iae煙 弗分
     - derive/([iy])ae([rxq])$/$1e$2/
     - derive/([iy])e([rxq])$/$1ae$2/
@@ -83,8 +90,6 @@ speller:
     # dz-z j-zh 弗分
     - derive/^dz/z/
     - derive/^j/zh/
-    - derive/^z/dz/
-    - derive/^zh/j/
     # ci-cy 弗分
     - derive/^(c|ch|j|sh|zh)i([rxq])$/$1y$2/
     - derive/^(c|ch|j|sh|zh)y([rxq])$/$1i$2/
@@ -133,26 +138,32 @@ translator:
     - "xform/[;']/-/"
   comment_format: *tone
 
-punctuator:
-  import_preset: symbols_wu
-
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
-
-reverse_lookup:
+luna_pinyin:
+  tag: luna_pinyin
   dictionary: luna_pinyin
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
+  prefix: "q"
+  tips: 〔普通話〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+stroke:
+  tag: stroke
+  dictionary: stroke
+  prefix: "x"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+
+nguphing_reverse_lookup:
+  tags: [ luna_pinyin, stroke ]
+  overwrite_comment: false
+  dictionary: nguphing
+
+punctuator:
+  import_preset: symbols_wu
 
 key_binder:
   import_preset: default
@@ -160,5 +171,6 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
     punct: "^/([0-9]0?|[A-Za-z]+)$"
+    luna_pinyin: "^q[a-z']*$"
+    stroke: "^x[hspnz]*$"

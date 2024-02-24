@@ -1,0 +1,69 @@
+# Rime schema
+# encoding: utf-8
+
+__include: nguphing.schema:/
+
+schema:
+  schema_id: nguphing-syphiq
+  name: 吳語四拼
+  version: "20240224"
+  author:
+    - 山前 <i@estela.moe>
+  description: |
+    * 標準吳語
+    * 縮短拼式
+    * [ptkgcsz]h+i+[aeou] -> y
+    * [ptkgcsz]h+u+[aeo] -> w
+    * ng -> q
+    * tzi+aeou -> xi, tsi+aeou -> xy
+
+speller:
+  algebra:
+    - erase/^xx$/
+    - erase/^0$/
+    - "xform/'//"
+    - xlit|123|rxq|
+    # c 系後 i 簡寫
+    - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
+    # in心 星ing 弗分
+    - derive/ing([rxq])$/in$1/
+    - derive/in([rxq])$/ing$1/
+    - derive/ik$/ih/
+    - derive/ih$/ik/
+    - derive/eng/en/
+    # ih立 ieh列 弗分 
+    - derive/ieh$/ih/
+    # ie淹 iae煙 弗分
+    - derive/([iy])ae([rxq])$/$1e$2/
+    - derive/([iy])e([rxq])$/$1ae$2/
+    # ok樂 uk六 弗分
+    - derive/ok$/uk/
+    - derive/uk$/ok/
+    # ngi-ni 弗分
+    - derive/^ngi/ni/
+    # dz-z j-zh 弗分
+    - derive/^dz/z/
+    - derive/^j/zh/
+    # ci-cy 弗分
+    - derive/^(c|ch|j|sh|zh)i([rxq])$/$1y$2/
+    - derive/^(c|ch|j|sh|zh)y([rxq])$/$1i$2/
+    # l m n 清音簡化
+    - xform/^([lmn])h/$1/
+    # 弗打聲調
+    - xform/([rxq])$//
+    # 四拼
+    - xform/ng/q/
+    - xform/tzi([aeou])/xi$1/
+    - xform/tsi([aeou])/xy$1/
+    - xform/([ptkgcsz])hi([aeou])/$1y$2/
+    - xform/([ptkgcsz])hu([aeo])/$1w$2/
+
+translator:
+  prism: nguphing-phiq
+  preedit_format:
+    - xform/q/ng/
+    - xform/xi/tzi/
+    - xform/xy/tsi/
+    - xform/([ptkgcsz])y([aeou])/$1hi$2/
+    - xform/([ptkgcsz])w([aeo])/$1hu$2/
+    - "xform/[;']/-/"

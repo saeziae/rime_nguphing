@@ -6,7 +6,7 @@ __include: nguphing.schema:/
 schema:
   schema_id: nguphin-yaehwei
   name: 吳語拼音·吳協式
-  version: "20240220"
+  version: "20240224"
   author:
     - 山前 <i@estela.moe>
   description: |
@@ -21,12 +21,14 @@ speller:
     - xlit|123|rxq|
     # c 系後 i 簡寫
     - derive/^(c|ch|j|sh|zh)i([aeou])/$1$2/
-    # sin心 星ing 弗分
+    # in心 星ing 弗分
     - derive/ing([rxq])$/in$1/
     - derive/in([rxq])$/ing$1/
     - derive/ik$/ih/
     - derive/ih$/ik/
     - derive/eng/en/
+    # ih立 ieh列 弗分 
+    - derive/ieh$/ih/
     # ie淹 iae煙 弗分
     - derive/([iy])ae([rxq])$/$1e$2/
     - derive/([iy])e([rxq])$/$1ae$2/
@@ -38,8 +40,6 @@ speller:
     # dz-z j-zh 弗分
     - derive/^dz/z/
     - derive/^j/zh/
-    - derive/^z/dz/
-    - derive/^zh/j/
     # ci-cy 弗分
     - derive/^(c|ch|j|sh|zh)i([rxq])$/$1y$2/
     - derive/^(c|ch|j|sh|zh)y([rxq])$/$1i$2/
@@ -156,5 +156,6 @@ translator:
     - xform/m2/m̀/
     - xform/m3/ḿ/
     - "xform/[;']/-/"
-reverse_lookup:
+
+nguphing_reverse_lookup:
   comment_format: *cf
